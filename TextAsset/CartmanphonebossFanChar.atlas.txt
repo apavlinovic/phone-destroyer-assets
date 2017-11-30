@@ -1,0 +1,425 @@
+
+CartmanphonebossFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_Back
+  rotate: false
+  xy: 234, 26
+  size: 197, 116
+  orig: 197, 116
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 266, 10
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+Cape_Front
+  rotate: false
+  xy: 252, 232
+  size: 240, 101
+  orig: 240, 101
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: true
+  xy: 467, 70
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+Hand_1
+  rotate: false
+  xy: 467, 36
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+Hat_Back
+  rotate: false
+  xy: 5, 330
+  size: 242, 177
+  orig: 242, 177
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: false
+  xy: 252, 338
+  size: 241, 169
+  orig: 241, 169
+  offset: 0, 0
+  index: -1
+Hat_Front_Inside
+  rotate: false
+  xy: 250, 175
+  size: 240, 52
+  orig: 240, 52
+  offset: 0, 0
+  index: -1
+Hat_Side
+  rotate: false
+  xy: 5, 150
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 436, 9
+  size: 133, 26
+  orig: 133, 26
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 467, 9
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+Mouth_Front_O
+  rotate: false
+  xy: 497, 20
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Mouth_Side_O
+  rotate: false
+  xy: 497, 20
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: true
+  xy: 470, 147
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: true
+  xy: 495, 191
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: true
+  xy: 498, 484
+  size: 23, 6
+  orig: 23, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: true
+  xy: 294, 5
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: false
+  xy: 234, 7
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: false
+  xy: 467, 18
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: true
+  xy: 495, 164
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+NakedShirt_Hand3Thumb_LeftRight_Wear
+  rotate: false
+  xy: 487, 147
+  size: 17, 12
+  orig: 79, 79
+  offset: 37, 48
+  index: -1
+WizardStaff_1
+  rotate: true
+  xy: 250, 147
+  size: 23, 215
+  orig: 23, 215
+  offset: 0, 0
+  index: -1
+WizardStaff_1_rot
+  rotate: true
+  xy: 5, 5
+  size: 140, 224
+  orig: 140, 224
+  offset: 0, 0
+  index: -1
+
+CartmanphonebossFanChar2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow_Front
+  rotate: false
+  xy: 401, 197
+  size: 37, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+Arm_Back_Left
+  rotate: true
+  xy: 407, 388
+  size: 54, 91
+  orig: 54, 91
+  offset: 0, 0
+  index: -1
+Arm_Back_Right
+  rotate: false
+  xy: 346, 408
+  size: 56, 99
+  orig: 56, 99
+  offset: 0, 0
+  index: -1
+Arm_Side
+  rotate: true
+  xy: 364, 278
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 5, 393
+  size: 186, 114
+  orig: 186, 114
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 5, 273
+  size: 172, 115
+  orig: 172, 115
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 320, 162
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: false
+  xy: 227, 141
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 275, 64
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: false
+  xy: 406, 343
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide_Left
+  rotate: false
+  xy: 321, 116
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide_LeftDown
+  rotate: false
+  xy: 321, 70
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookUp
+  rotate: true
+  xy: 422, 266
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 162, 5
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: false
+  xy: 436, 122
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 398, 116
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: true
+  xy: 401, 159
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Hand_2
+  rotate: true
+  xy: 201, 7
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Hand_3
+  rotate: false
+  xy: 443, 156
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+Hand_4
+  rotate: false
+  xy: 398, 74
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 140
+  size: 154, 128
+  orig: 154, 128
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 5
+  size: 152, 130
+  orig: 152, 130
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 196, 375
+  size: 145, 132
+  orig: 145, 132
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 182, 340
+  size: 169, 30
+  orig: 169, 30
+  offset: 0, 0
+  index: -1
+NakedShirt_Arm_LeftRight_Wear_FrontBack_3
+  rotate: false
+  xy: 232, 58
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+NakedShirt_Hand_LeftRight_Wear_3
+  rotate: false
+  xy: 356, 340
+  size: 45, 63
+  orig: 79, 79
+  offset: 13, 0
+  index: -1
+Shoulder_Front_Left
+  rotate: true
+  xy: 164, 135
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+Shoulder_Front_Right
+  rotate: false
+  xy: 443, 195
+  size: 30, 66
+  orig: 30, 66
+  offset: 0, 0
+  index: -1
+Tablet_BACK
+  rotate: false
+  xy: 407, 447
+  size: 91, 60
+  orig: 91, 60
+  offset: 0, 0
+  index: -1
+Tablet_FRONT
+  rotate: true
+  xy: 164, 177
+  size: 91, 60
+  orig: 91, 60
+  offset: 0, 0
+  index: -1
+Tablet_back_TILTED
+  rotate: false
+  xy: 229, 208
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1
+Tablet_back_TILTED_2_broken
+  rotate: false
+  xy: 315, 208
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1
+Tablet_front_TILTED_2
+  rotate: true
+  xy: 162, 49
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1
+WizardStaff_2
+  rotate: true
+  xy: 182, 306
+  size: 29, 163
+  orig: 29, 163
+  offset: 0, 0
+  index: -1
+WizardStaff_3
+  rotate: true
+  xy: 229, 176
+  size: 27, 86
+  orig: 27, 86
+  offset: 0, 0
+  index: -1
+WizardStaff_InGround
+  rotate: true
+  xy: 182, 278
+  size: 23, 177
+  orig: 23, 215
+  offset: 0, 38
+  index: -1

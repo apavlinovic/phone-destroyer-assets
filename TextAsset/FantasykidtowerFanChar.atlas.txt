@@ -1,0 +1,432 @@
+
+FantasykidtowerFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: false
+  xy: 475, 295
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: true
+  xy: 454, 6
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: false
+  xy: 368, 5
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+ArrowHolster_Side
+  rotate: true
+  xy: 406, 37
+  size: 46, 99
+  orig: 46, 99
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 134, 9
+  size: 114, 77
+  orig: 114, 77
+  offset: 0, 0
+  index: -1
+BowHandle_Side
+  rotate: true
+  xy: 464, 430
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 292, 34
+  size: 109, 49
+  orig: 109, 49
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 253, 5
+  size: 81, 34
+  orig: 81, 34
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 424, 270
+  size: 82, 46
+  orig: 82, 46
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 468, 93
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: false
+  xy: 464, 464
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Hair_Back
+  rotate: true
+  xy: 311, 88
+  size: 176, 152
+  orig: 176, 152
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: true
+  xy: 423, 5
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Hand_Side2
+  rotate: false
+  xy: 479, 396
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Hand_Side_Normal
+  rotate: true
+  xy: 479, 362
+  size: 29, 25
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Hat_Back
+  rotate: false
+  xy: 134, 91
+  size: 172, 173
+  orig: 172, 173
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 468, 143
+  size: 122, 30
+  orig: 122, 30
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 292, 5
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: true
+  xy: 497, 6
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: false
+  xy: 475, 273
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 5, 7
+  size: 264, 124
+  orig: 264, 124
+  offset: 0, 0
+  index: -1
+Slingshot_Rubber
+  rotate: true
+  xy: 503, 207
+  size: 61, 2
+  orig: 61, 2
+  offset: 0, 0
+  index: -1
+TopEdge_1
+  rotate: false
+  xy: 174, 425
+  size: 285, 82
+  orig: 285, 82
+  offset: 0, 0
+  index: -1
+TopEdge_Back_1
+  rotate: false
+  xy: 174, 269
+  size: 245, 83
+  orig: 245, 83
+  offset: 0, 0
+  index: -1
+Top_Paltform
+  rotate: false
+  xy: 174, 357
+  size: 300, 63
+  orig: 300, 63
+  offset: 0, 0
+  index: -1
+TowerWall_1
+  rotate: false
+  xy: 5, 276
+  size: 164, 231
+  orig: 164, 231
+  offset: 0, 0
+  index: -1
+
+FantasykidtowerFanChar2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Side_Bent
+  rotate: false
+  xy: 139, 7
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Arrow
+  rotate: false
+  xy: 487, 394
+  size: 18, 113
+  orig: 18, 113
+  offset: 0, 0
+  index: -1
+ArrowHolster_Back
+  rotate: false
+  xy: 388, 393
+  size: 94, 114
+  orig: 94, 114
+  offset: 0, 0
+  index: -1
+Arrow_2
+  rotate: false
+  xy: 434, 362
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 5, 6
+  size: 129, 84
+  orig: 129, 84
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 73, 259
+  size: 93, 83
+  orig: 93, 83
+  offset: 0, 0
+  index: -1
+BowBottom_FrontBack
+  rotate: false
+  xy: 161, 287
+  size: 9, 65
+  orig: 9, 65
+  offset: 0, 0
+  index: -1
+BowBottom_Side
+  rotate: false
+  xy: 464, 150
+  size: 42, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+BowHandle_Front
+  rotate: true
+  xy: 388, 365
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+BowTop_FrontBack
+  rotate: true
+  xy: 434, 380
+  size: 8, 65
+  orig: 8, 65
+  offset: 0, 0
+  index: -1
+BowTop_Side
+  rotate: true
+  xy: 427, 220
+  size: 40, 68
+  orig: 43, 69
+  offset: 2, 1
+  index: -1
+Brow
+  rotate: false
+  xy: 175, 10
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 299, 38
+  size: 86, 46
+  orig: 87, 47
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: false
+  xy: 390, 38
+  size: 84, 46
+  orig: 85, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: false
+  xy: 176, 30
+  size: 82, 46
+  orig: 82, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: false
+  xy: 329, 214
+  size: 93, 46
+  orig: 93, 46
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: true
+  xy: 139, 53
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: false
+  xy: 466, 314
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 466, 266
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: false
+  xy: 464, 102
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: false
+  xy: 299, 89
+  size: 160, 109
+  orig: 160, 109
+  offset: 0, 0
+  index: -1
+Hat_Side
+  rotate: false
+  xy: 229, 361
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 176, 203
+  size: 148, 149
+  orig: 148, 149
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 95
+  size: 166, 151
+  orig: 166, 151
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: true
+  xy: 73, 357
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 427, 210
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: false
+  xy: 480, 362
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: false
+  xy: 203, 12
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: true
+  xy: 161, 263
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: true
+  xy: 263, 47
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: true
+  xy: 263, 17
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+TopEdge_2
+  rotate: true
+  xy: 329, 265
+  size: 91, 132
+  orig: 91, 132
+  offset: 0, 0
+  index: -1
+TopEdge_Back_2
+  rotate: true
+  xy: 176, 81
+  size: 117, 118
+  orig: 117, 118
+  offset: 0, 0
+  index: -1
+TowerWall_2
+  rotate: false
+  xy: 5, 251
+  size: 63, 256
+  orig: 63, 256
+  offset: 0, 0
+  index: -1

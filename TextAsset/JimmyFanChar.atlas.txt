@@ -1,0 +1,132 @@
+
+JimmyFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow
+  rotate: false
+  xy: 411, 54
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+ArmUp_Side
+  rotate: false
+  xy: 450, 254
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: true
+  xy: 241, 109
+  size: 140, 141
+  orig: 140, 142
+  offset: 0, 1
+  index: -1
+Cape_Front
+  rotate: false
+  xy: 269, 350
+  size: 160, 157
+  orig: 161, 157
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 269, 254
+  size: 176, 91
+  orig: 176, 91
+  offset: 0, 0
+  index: -1
+CrunchLow_Front
+  rotate: false
+  xy: 445, 117
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+CrunchUp_Front
+  rotate: true
+  xy: 450, 320
+  size: 60, 49
+  orig: 60, 51
+  offset: 0, 2
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 434, 385
+  size: 122, 68
+  orig: 122, 68
+  offset: 0, 0
+  index: -1
+Feather
+  rotate: true
+  xy: 195, 8
+  size: 96, 162
+  orig: 96, 162
+  offset: 0, 0
+  index: -1
+Hand_Back_1
+  rotate: false
+  xy: 362, 10
+  size: 37, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+Hand_Front_1
+  rotate: false
+  xy: 450, 77
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: false
+  xy: 5, 114
+  size: 231, 150
+  orig: 231, 223
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 269
+  size: 259, 238
+  orig: 259, 238
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 387, 126
+  size: 123, 53
+  orig: 123, 53
+  offset: 0, 0
+  index: -1
+Legs_Front_LeftFoot
+  rotate: false
+  xy: 445, 200
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+Legs_Front_RightFoot
+  rotate: true
+  xy: 362, 39
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+Loot
+  rotate: false
+  xy: 5, 15
+  size: 185, 94
+  orig: 185, 94
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 387, 113
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1

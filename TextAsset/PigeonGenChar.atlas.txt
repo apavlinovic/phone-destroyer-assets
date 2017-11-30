@@ -1,0 +1,181 @@
+
+PigeonGenChar.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beak_Front_Closed
+  rotate: false
+  xy: 116, 5
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+Beak_Front_Open
+  rotate: true
+  xy: 227, 42
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+Beak_Side_Closed
+  rotate: false
+  xy: 227, 27
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Beak_Side_Open
+  rotate: true
+  xy: 205, 29
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 5, 81
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+Body_Front_1
+  rotate: false
+  xy: 5, 166
+  size: 79, 85
+  orig: 79, 85
+  offset: 0, 0
+  index: -1
+Body_Front_2
+  rotate: false
+  xy: 89, 118
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 89, 188
+  size: 85, 63
+  orig: 85, 63
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 133, 6
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 165, 14
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 148, 15
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 182, 12
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+LegLow_Back
+  rotate: false
+  xy: 179, 29
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+LegLow_Front
+  rotate: false
+  xy: 55, 53
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+LegLow_Side_1
+  rotate: false
+  xy: 148, 32
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+LegLow_Side_2
+  rotate: false
+  xy: 227, 86
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+LegUp_Front
+  rotate: false
+  xy: 227, 59
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+LegUp_Side
+  rotate: false
+  xy: 116, 23
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Neck_Front_1
+  rotate: true
+  xy: 55, 5
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+Neck_Front_2
+  rotate: false
+  xy: 5, 5
+  size: 45, 71
+  orig: 45, 71
+  offset: 0, 0
+  index: -1
+Neck_Side
+  rotate: false
+  xy: 179, 214
+  size: 72, 37
+  orig: 72, 37
+  offset: 0, 0
+  index: -1
+TailFeathers_Front
+  rotate: true
+  xy: 162, 49
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+TailFeathers_Side
+  rotate: false
+  xy: 179, 180
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+Wing_Front_Left
+  rotate: false
+  xy: 173, 112
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+Wing_Front_Right
+  rotate: true
+  xy: 89, 53
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1

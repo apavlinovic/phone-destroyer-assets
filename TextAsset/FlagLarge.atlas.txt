@@ -1,0 +1,27 @@
+
+FlagLarge.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FlagL1
+  rotate: false
+  xy: 5, 5
+  size: 150, 241
+  orig: 150, 241
+  offset: 0, 0
+  index: -1
+FlagL2
+  rotate: false
+  xy: 160, 121
+  size: 74, 125
+  orig: 74, 125
+  offset: 0, 0
+  index: -1
+FlagL3
+  rotate: false
+  xy: 160, 100
+  size: 58, 16
+  orig: 58, 16
+  offset: 0, 0
+  index: -1

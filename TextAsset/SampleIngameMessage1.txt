@@ -1,0 +1,37 @@
+{
+  "id": 1,
+  "actorId": "Cartman",
+  "threadTitle": "Sample",
+  "messages": [
+    {
+      "id": 1,
+      "actorId": "Stan",
+      "messageTextKey": "DF_VM_TEST_06",
+      "messageAudioKey": "Play_VM_CAR_02",
+      "forcedMessage": true,
+      "playNext": true,
+      "leftSide" :  true,
+      "delay": 5.0
+    },
+    {
+      "id": 2,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_VM_TEST_07",
+      "messageAudioKey": "Play_VM_CAR_02",
+      "forcedMessage": true,
+      "playNext": true,
+      "leftSide" :  true,
+      "delay": 5.0
+    },
+    {
+      "id": 3,
+      "actorId": "Kenny",
+      "messageTextKey": "DF_VM_TEST_08",
+      "messageAudioKey": "",
+      "forcedMessage": true,
+      "playNext": false,
+      "leftSide" :  false,
+      "delay": 5.0
+    }
+  ]
+}

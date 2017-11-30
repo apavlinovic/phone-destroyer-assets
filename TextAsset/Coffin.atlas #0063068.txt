@@ -1,0 +1,55 @@
+
+Coffin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Candle2
+  rotate: false
+  xy: 363, 17
+  size: 21, 35
+  orig: 35, 35
+  offset: 7, 0
+  index: -1
+coffin1
+  rotate: false
+  xy: 162, 123
+  size: 223, 381
+  orig: 223, 381
+  offset: 0, 0
+  index: -1
+coffinDoorL
+  rotate: true
+  xy: 5, 5
+  size: 97, 353
+  orig: 97, 353
+  offset: 0, 0
+  index: -1
+coffinDoorL1
+  rotate: false
+  xy: 84, 119
+  size: 73, 385
+  orig: 73, 385
+  offset: 0, 0
+  index: -1
+coffinDoorR
+  rotate: false
+  xy: 390, 144
+  size: 112, 360
+  orig: 112, 360
+  offset: 0, 0
+  index: -1
+coffinDoorR1
+  rotate: false
+  xy: 5, 107
+  size: 74, 397
+  orig: 74, 397
+  offset: 0, 0
+  index: -1
+food
+  rotate: false
+  xy: 363, 57
+  size: 53, 61
+  orig: 70, 70
+  offset: 9, 5
+  index: -1

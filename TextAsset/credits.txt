@@ -1,0 +1,1898 @@
+{  
+   "credits":{  
+      "studio":[  
+         {  
+            "name":"South Park Digital Studio",
+            "teams":[  
+               {  
+                  "name":"Executive Producers",
+                  "Members":[  
+                     {  
+                        "name":"Trey Parker"
+                     },
+                     {  
+                        "name":"Matt Stone"
+                     },
+                     {  
+                        "name":"Anne Garefino"
+                     },
+                     {  
+                        "name":"Frank C Agnone II"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Written and Directed by",
+                  "Members":[  
+                     {  
+                        "name":"Trey Parker"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Producers",
+                  "Members":[  
+                     {  
+                        "name":"Eric Stough"
+                     },
+                     {  
+                        "name":"Bruce Howell"
+                     },
+                     {  
+                        "name":"Adrien Beard"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Created by",
+                  "Members":[  
+                     {  
+                        "name":"Trey Parker"
+                     },
+                     {  
+                        "name":"Matt Stone"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Voices",
+                  "Members":[  
+                     {  
+                        "name":"Trey Parker"
+                     },
+                     {  
+                        "name":"Matt Stone"
+                     },
+                     {  
+                        "name":"April Stewart"
+                     },
+                     {  
+                        "name":"Betty Parker"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Original Music",
+                  "Members":[  
+                     {  
+                        "name":"Jamie Dunlap"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Line Producer",
+                  "Members":[  
+                     {  
+                        "name":"Daryl Sancton"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Animation Producer",
+                  "Members":[  
+                     {  
+                        "name":"Jack Shih"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Director of Animation",
+                  "Members":[  
+                     {  
+                        "name":"Jenny Yu"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Editors",
+                  "Members":[  
+                     {  
+                        "name":"David List"
+                     },
+                     {  
+                        "name":"Nate Pellettieri"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Animators",
+                  "Members":[  
+                     {  
+                        "name":"Megan Prazenica"
+                     },
+                     {  
+                        "name":"Edgar Tellez"
+                     },
+                     {  
+                        "name":"Dan Becker"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Technical Directors",
+                  "Members":[  
+                     {  
+                        "name":"Nicole Filiatrault"
+                     },
+                     {  
+                        "name":"Bruna Menezes White"
+                     },
+                     {  
+                        "name":"Daniel Patao"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Production Supervisor",
+                  "Members":[  
+                     {  
+                        "name":"John Hansen"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Character and Background Designers",
+                  "Members":[  
+                     {  
+                        "name":"Greg Postma"
+                     },
+                     {  
+                        "name":"Keo Thongkham"
+                     },
+                     {  
+                        "name":"Katie Frasier"
+                     },
+                     {  
+                        "name":"Charis Patton"
+                     },
+                     {  
+                        "name":"Shaina Reyes"
+                     },
+                     {  
+                        "name":"David Brown"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Sound Engineer",
+                  "Members":[  
+                     {  
+                        "name":"Lydia Quidilla"
+                     }
+                  ]
+               },
+               {  
+                  "name":"C.T.O.",
+                  "Members":[  
+                     {  
+                        "name":"Mark Dietel"
+                     }
+                  ]
+               },
+               {  
+                  "name":"C.I.O.",
+                  "Members":[  
+                     {  
+                        "name":"JJ Franzen"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Chief Engineer",
+                  "Members":[  
+                     {  
+                        "name":"Vernon Harveaux"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Production Accountant",
+                  "Members":[  
+                     {  
+                        "name":"Kirstin Moser"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Assistant Production Accountant",
+                  "Members":[  
+                     {  
+                        "name":"Valeska Difrieri"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Associate Producers",
+                  "Members":[  
+                     {  
+                        "name":"Gary Martinez"
+                     },
+                     {  
+                        "name":"Kurt Nickels"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Production Manager",
+                  "Members":[  
+                     {  
+                        "name":"Elyse Ramsdell"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Office Manager",
+                  "Members":[  
+                     {  
+                        "name":"Tina Middleton"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Assistant to the Executive Producers",
+                  "Members":[  
+                     {  
+                        "name":"Carly J Price"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Key PAs",
+                  "Members":[  
+                     {  
+                        "name":"Marc Flores"
+                     },
+                     {  
+                        "name":"Julianne O’Hara"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Production Assistants",
+                  "Members":[  
+                     {  
+                        "name":"Spencer Howland"
+                     },
+                     {  
+                        "name":"Joe Corcoran"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Lip Sync Artists",
+                  "Members":[  
+                     {  
+                        "name":"Eddie Alvarado"
+                     },
+                     {  
+                        "name":"Anthony Sant’Anselmo"
+                     },
+                     {  
+                        "name":"James Dion"
+                     },
+                     {  
+                        "name":"Jonathan Robert"
+                     }
+                  ]
+               },
+               {  
+                  "name":"SPDS",
+                  "Members":[  
+                     {  
+                        "name":"Christopher “Crispy” Brion",
+                        "designation":"Creative Director"
+                     },
+                     {  
+                        "name":"Todd Benson",
+                        "designation":"Senior Producer"
+                     },
+                     {  
+                        "name":"Miles Halpin",
+                        "designation":"Director of Technology"
+                     },
+                     {  
+                        "name":"Camila Carvalho",
+                        "designation":"Director of Program Operations"
+                     },
+                     {  
+                        "name":"Scott Iasillo",
+                        "designation":"Video & Audio Editor"
+                     },
+                     {  
+                        "name":"Joel Hanlin",
+                        "designation":"Art Director"
+                     },
+                     {  
+                        "name":"Steve Michel",
+                        "designation":"Community Manager"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Viacom",
+                  "Members":[  
+                     {  
+                        "name":"Jason Jordan",
+                        "designation":"Executive Vice President, Multiplatform Strategy and Operations"
+                     },
+                     {  
+                        "name":"Ben Hurst",
+                        "designation":"Senior Vice President Mobile and Emerging Platforms"
+                     },
+                     {  
+                        "name":"Lauren Friedman",
+                        "designation":"Director, Mobile and Emerging Platforms"
+                     },
+                     {  
+                        "name":"Emily Peska",
+                        "designation":"Vice President, Business & Legal Affairs"
+                     },
+                     {  
+                        "name":"Dan Yang",
+                        "designation":"Special Thanks"
+                     }
+                  ]
+               }
+            ]
+         },
+         {  
+            "name":"RedLynx Core",
+            "teams":[  
+               {  
+                  "name":"Creative Director",
+                  "Members":[  
+                     {  
+                        "name":"Justin Swan"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Producer",
+                  "Members":[  
+                     {  
+                        "name":"Neha Joshi"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Project Content Director",
+                  "Members":[  
+                     {  
+                        "name":"Casey Kuczik"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Technical Director",
+                  "Members":[  
+                     {  
+                        "name":"Roland Kindermann"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Active Game Manager",
+                  "Members":[  
+                     {  
+                        "name":"Roland Peters"
+                     }
+                  ]
+               },
+               {  
+                  "name":"QC manager",
+                  "Members":[  
+                     {  
+                        "name":"Diana-Ruxandra Nedelcu"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Head of BI & Analytics",
+                  "Members":[  
+                     {  
+                        "name":"Kari Silvennoinen"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Lead Audio Designer",
+                  "Members":[  
+                     {  
+                        "name":"Vili Viitaniemi"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Art Director",
+                  "Members":[  
+                     {  
+                        "name":"Dan Rossati"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Senior Creative Director",
+                  "Members":[  
+                     {  
+                        "name":"Antti Ilvessuo"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Production",
+                  "Members":[  
+                     {  
+                        "name":"Alexandre Mathieu",
+                        "designation":"Associate Producer"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Design",
+                  "Members":[  
+                     {  
+                        "name":"Alexander Lashin",
+                        "designation":"Economy Designer"
+                     },
+                     {  
+                        "name":"Maria Zudina",
+                        "designation":"Level Designer"
+                     },
+                     {  
+                        "name":"Reina Magica",
+                        "designation":"Game Designer"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Programming",
+                  "Members":[  
+                     {  
+                        "name":"Agnieszka Besz",
+                        "designation":"Lead Programmer"
+                     },
+                     {  
+                        "name":"Evgenia Antonova",
+                        "designation":"Tools and Online Programmer"
+                     },
+                     {  
+                        "name":"Maimuna Syed",
+                        "designation":"Tools Programmer"
+                     },
+                     {  
+                        "name":"Jaakko Lindvall",
+                        "designation":"Gameplay Programmer"
+                     },
+                     {  
+                        "name":"Jon Ander Hernandez Pradera",
+                        "designation":"Gameplay Programmer"
+                     },
+                     {  
+                        "name":"Mika Laukka",
+                        "designation":"Online Programmer"
+                     },
+                     {  
+                        "name":"Pekka Sarkimo",
+                        "designation":"Online Programmer"
+                     },
+                     {  
+                        "name":"Topias Vesalainen",
+                        "designation":"Gameplay Programmer"
+                     },
+                     {  
+                        "name":"Ville Lehtinen",
+                        "designation":"Gameplay Programmer"
+                     },
+                     {  
+                        "name":"Carlos Zafra",
+                        "designation":"Gameplay Programmer"
+                     },
+                     {  
+                        "name":"Arttu Väänänen",
+                        "designation":"Gameplay Programmer"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Art",
+                  "Members":[  
+                     {  
+                        "name":"Andrea Fryer",
+                        "designation":"Expert Artist"
+                     },
+                     {  
+                        "name":"Ines Freitas",
+                        "designation":"2D artist"
+                     },
+                     {  
+                        "name":"Louise Lazzari",
+                        "designation":"UI Artist"
+                     },
+                     {  
+                        "name":"Rafael Lima",
+                        "designation":"UI Artist"
+                     },
+                     {  
+                        "name":"Miguel Mendes",
+                        "designation":"Animator"
+                     },
+                     {  
+                        "name":"Petri Sorsakivi",
+                        "designation":"2D artist"
+                     },
+                     {  
+                        "name":"Rui Wang",
+                        "designation":"2D artist"
+                     },
+                     {  
+                        "name":"Saku Jalkanen",
+                        "designation":"Animator"
+                     },
+                     {  
+                        "name":"Sauli Korhonen",
+                        "designation":"VFX artist"
+                     },
+                     {  
+                        "name":"Ukko-Pekka Kuivalainen",
+                        "designation":"3D artist"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Quality Control",
+                  "Members":[  
+                     {  
+                        "name":"Dani Jompero",
+                        "designation":"QC"
+                     },
+                     {  
+                        "name":"Eetu Vilhunen",
+                        "designation":"QC"
+                     },
+                     {  
+                        "name":"Eirikur Hedinsson Mortensen",
+                        "designation":"QC"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Release and Build Management",
+                  "Members":[  
+                     {  
+                        "name":"Jaakko Lehikoinen",
+                        "designation":"Release and Build Specialist"
+                     },
+                     {  
+                        "name":"Jon Kauppinen",
+                        "designation":"Release and Build Specialist"
+                     },
+                     {  
+                        "name":"Jussi Kössi",
+                        "designation":"Release and Build Specialist"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Business Intelligence",
+                  "Members":[  
+                     {  
+                        "name":"Heikki Kruus",
+                        "designation":"Analyst and Economy Design"
+                     },
+                     {  
+                        "name":"Kimmo Hirvonen",
+                        "designation":"Analyst"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Audio",
+                  "Members":[  
+                     {  
+                        "name":"Matti Tuomela",
+                        "designation":"Audio Designer"
+                     },
+                     {  
+                        "name":"Denis Zlobin",
+                        "designation":"Audio Designer"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Community",
+                  "Members":[  
+                     {  
+                        "name":"Steve Stewart",
+                        "designation":"Community Developer"
+                     },
+                     {  
+                        "name":"Eero Harju",
+                        "designation":"Community Specialist"
+                     },
+                     {  
+                        "name":"Amanda Gavin",
+                        "designation":"Community Manager"
+                     }
+                  ]
+               },
+               {  
+                  "name":"HR",
+                  "Members":[  
+                     {  
+                        "name":"Salla Reinikainen",
+                        "designation":"HR"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Original Prototype Design",
+                  "Members":[  
+                     {  
+                        "name":"Karri Kiviluoma"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Thanks",
+                  "Members":[  
+                     {  
+                        "name":"Antti Kuukka"
+                     },
+                     {  
+                        "name":"Antti Szurawitzki"
+                     },
+                     {  
+                        "name":"Antonio Cano"
+                     },
+                     {  
+                        "name":"Anu Kurikka"
+                     },
+                     {  
+                        "name":"Anu Sharma"
+                     },
+                     {  
+                        "name":"Atte Ilvessuo"
+                     },
+                     {  
+                        "name":"David Pellet"
+                     },
+                     {  
+                        "name":"Erkki Etzell"
+                     },
+                     {  
+                        "name":"Goncalo Antunes"
+                     },
+                     {  
+                        "name":"Helen Kaur"
+                     },
+                     {  
+                        "name":"Henri Kutvonen"
+                     },
+                     {  
+                        "name":"Hristos Cuchidis"
+                     },
+                     {  
+                        "name":"Ilmari Kumpunen"
+                     },
+                     {  
+                        "name":"Janne Immonen"
+                     },
+                     {  
+                        "name":"Jyri Partanen"
+                     },
+                     {  
+                        "name":"Karri Kiviluoma"
+                     },
+                     {  
+                        "name":"Maxime Mercier"
+                     },
+                     {  
+                        "name":"Nelly Sääksjärvi"
+                     },
+                     {  
+                        "name":"Olli Aalto"
+                     },
+                     {  
+                        "name":"Pietari Majaniemi"
+                     },
+                     {  
+                        "name":"Salla Hämäläinen"
+                     },
+                     {  
+                        "name":"Toni Lääveri"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Special Thanks",
+                  "Members":[  
+                     {  
+                        "name":"Alexander Leo"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Production Babies",
+                  "Members":[  
+                     {  
+                        "name":"Matias Tamminen"
+                     },
+                     {  
+                        "name":"Matti Lehikoinen"
+                     },
+                     {  
+                        "name":"Nella Lehtinen"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Production Dogs",
+                  "Members":[  
+                     {  
+                        "name":"Nipsu"
+                     },
+                     {  
+                        "name":"Nuuka"
+                     }
+                  ]
+               }
+            ]
+         },
+         {  
+            "name":"Redlynx Team",
+            "teams":[  
+               {  
+                  "name":"Management",
+                  "Members":[  
+                     {  
+                        "name":"Joonas Tamminen",
+                        "designation":"Studio General Manager"
+                     },
+                     {  
+                        "name":"Antti Mannisto",
+                        "designation":"Technology Director"
+                     },
+                     {  
+                        "name":"Mirella Keto",
+                        "designation":"HR"
+                     },
+                     {  
+                        "name":"Mari Liesjärvi",
+                        "designation":"HR"
+                     },
+                     {  
+                        "name":"Tuuli Peltonen",
+                        "designation":"HR"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Marketing",
+                  "Members":[  
+                     {  
+                        "name":"Mikko Katara",
+                        "designation":"Brand Manager"
+                     },
+                     {  
+                        "name":"Scott Mcfarlane",
+                        "designation":"Marketing Art Director"
+                     },
+                     {  
+                        "name":"Sara Halkola",
+                        "designation":"Marketing Artist"
+                     },
+                     {  
+                        "name":"Kalle Kotila",
+                        "designation":"Video Editor"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Finance",
+                  "Members":[  
+                     {  
+                        "name":"Minna Ilvessuo",
+                        "designation":"Finance Director"
+                     },
+                     {  
+                        "name":"Uwe Cario",
+                        "designation":"Financial Specialist"
+                     }
+                  ]
+               },
+               {  
+                  "name":"IT",
+                  "Members":[  
+                     {  
+                        "name":"Jesse Mäenpää",
+                        "designation":"IT"
+                     },
+                     {  
+                        "name":"Kaarlo Mäkelä",
+                        "designation":"IT"
+                     },
+                     {  
+                        "name":"Miika Yliluoma",
+                        "designation":"IT"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Office admin",
+                  "Members":[  
+                     {  
+                        "name":"Niina Pehkonen",
+                        "designation":"Office admin"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Thanks",
+                  "Members":[  
+                     {  
+                        "name":"Kim Lahti"
+                     },
+                     {  
+                        "name":"Samu Suutarinen"
+                     },
+                     {  
+                        "name":"Sofia Koivuniemi"
+                     }
+                  ]
+               }
+            ]
+         },
+         {  
+            "name":"Pune Studio",
+            "teams":[  
+               {  
+                  "name":"Production",
+                  "Members":[  
+                     {  
+                        "name":"Varun Menon",
+                        "designation":"Producer"
+                     },
+                     {  
+                        "name":"Ameya Rote",
+                        "designation":"Associate Producer"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Programming",
+                  "Members":[  
+                     {  
+                        "name":"Tushar Patil",
+                        "designation":"Lead Programmer"
+                     },
+                     {  
+                        "name":"Saurabh Daia",
+                        "designation":"Gameplay Programmer"
+                     },
+                     {  
+                        "name":"Anjibabu Nanduri",
+                        "designation":"Gameplay Programmer"
+                     },
+                     {  
+                        "name":"Utkarsh Bagade",
+                        "designation":"Gameplay Programmer"
+                     },
+                     {  
+                        "name":"Gokul Raj Ravikumar",
+                        "designation":"Gameplay Programmer"
+                     },
+                     {  
+                        "name":"Dhivakar Subramaniam",
+                        "designation":"Gameplay Programmer"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Art",
+                  "Members":[  
+                     {  
+                        "name":"Nils Velay",
+                        "designation":"Art Director"
+                     },
+                     {  
+                        "name":"Shreejith Nair",
+                        "designation":"Art Director"
+                     },
+                     {  
+                        "name":"Hugh Riley",
+                        "designation":"Art Manager"
+                     },
+                     {  
+                        "name":"Kailash Parmar",
+                        "designation":"Lead Artist"
+                     },
+                     {  
+                        "name":"Ram Lawrence Singh",
+                        "designation":"VFX artist"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Release and Build Management",
+                  "Members":[  
+                     {  
+                        "name":"Aniket Kakde",
+                        "designation":"Junior Build Engineer"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Quality Control",
+                  "Members":[  
+                     {  
+                        "name":"Sailaja Upadrasta",
+                        "designation":"Associate QC Lead"
+                     },
+                     {  
+                        "name":"Sarang Bhirud",
+                        "designation":"Tester"
+                     },
+                     {  
+                        "name":"Adnan Khan",
+                        "designation":"Tester"
+                     },
+                     {  
+                        "name":"Sarfaraz Memon",
+                        "designation":"Tester"
+                     },
+                     {  
+                        "name":"Supriya Sapkal",
+                        "designation":"Tester"
+                     },
+                     {  
+                        "name":"Piyush Ugale",
+                        "designation":"Tester"
+                     },
+                     {  
+                        "name":"Lakshya Saklecha",
+                        "designation":"Tester"
+                     },
+                     {  
+                        "name":"Azhar Maner",
+                        "designation":"Tester"
+                     },
+                     {  
+                        "name":"Tanishak Baijal",
+                        "designation":"Tester"
+                     },
+                     {  
+                        "name":"Bilal Shaikh",
+                        "designation":"Tester"
+                     },
+                     {  
+                        "name":"Richard Peter",
+                        "designation":"Tester"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Compatibility Lab",
+                  "Members":[  
+                     {  
+                        "name":"Gaurav Das"
+                     },
+                     {  
+                        "name":"Kalyani Tathe"
+                     },
+                     {  
+                        "name":"Pratik Wagh"
+                     },
+                     {  
+                        "name":"Rahul Kadam"
+                     },
+                     {  
+                        "name":"Siddhit Tambe"
+                     },
+                     {  
+                        "name":"Swapnil Ghatole"
+                     },
+                     {  
+                        "name":"Vinayak Rakshe"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Thanks",
+                  "Members":[  
+                     {  
+                        "name":"Jean-Philippe Pieuchot",
+                        "designation":"Studio Managing Director"
+                     },
+                     {  
+                        "name":"Sashi Menon",
+                        "designation":"Production Director"
+                     },
+                     {  
+                        "name":"Sumit Lakkewar",
+                        "designation":"Technical Manager"
+                     },
+                     {  
+                        "name":"Rahul Khatal",
+                        "designation":"QC Manager"
+                     },
+                     {  
+                        "name":"Ayan Sen",
+                        "designation":"Quality Control Lead"
+                     },
+                     {  
+                        "name":"Snehal Dhangare",
+                        "designation":"Quality Control Coordinator"
+                     },
+                     {  
+                        "name":"Rohit Maurya",
+                        "designation":"Gameplay Programmer"
+                     },
+                     {  
+                        "name":"Shubhada Vetal",
+                        "designation":"Graphic artist"
+                     },
+                     {  
+                        "name":"Sadhna Shah",
+                        "designation":"Tester"
+                     },
+                     {  
+                        "name":"Nobel Dhawale",
+                        "designation":"Tester"
+                     }
+                  ]
+               }
+            ]
+         },
+         {  
+            "name":"Ubisoft Mobile Games",
+            "teams":[  
+               {  
+                  "name":"Publisher",
+                  "Members":[  
+                     {  
+                        "name":"Yves Guillemot",
+                        "designation":"President and CEO"
+                     },
+                     {  
+                        "name":"Jean-Michel Detoc",
+                        "designation":"Executive Director"
+                     },
+                     {  
+                        "name":"Dominique Tardieu",
+                        "designation":"VP, Sales & Marketing"
+                     },
+                     {  
+                        "name":"Cyril Derouineau",
+                        "designation":"VP,  Technology & Content"
+                     },
+                     {  
+                        "name":"Fabrice Navrez",
+                        "designation":"Editorial Content Manager"
+                     },
+                     {  
+                        "name":"Anne-Catherine Chartres",
+                        "designation":"Operations Coordinator Director"
+                     },
+                     {  
+                        "name":"Brice Ramard",
+                        "designation":"Technical Director"
+                     },
+                     {  
+                        "name":"Xavier Spinat",
+                        "designation":"Production Director"
+                     },
+                     {  
+                        "name":"Jean-Bernard Jacon",
+                        "designation":"Line-Producer"
+                     },
+                     {  
+                        "name":"Bertrand de Swarte",
+                        "designation":"Associate Line Producer"
+                     },
+                     {  
+                        "name":"Frédéric Kramp",
+                        "designation":"Associate Line Producer"
+                     },
+                     {  
+                        "name":"Jonathan Lavergne",
+                        "designation":"Line-Designer"
+                     },
+                     {  
+                        "name":"Alexandre Leo",
+                        "designation":"Line UI/UX Designer"
+                     },
+                     {  
+                        "name":"Etienne Fougerousse",
+                        "designation":"Editorial Economic Designer"
+                     },
+                     {  
+                        "name":"Frédéric Peltier",
+                        "designation":"Technology Deployment Director"
+                     },
+                     {  
+                        "name":"Hugo Wyler",
+                        "designation":"User Research Manager"
+                     },
+                     {  
+                        "name":"Joshua Salmon",
+                        "designation":"User Research Manager"
+                     },
+                     {  
+                        "name":"Abhay Mandhalkar",
+                        "designation":"Mobile QC Coordinator"
+                     },
+                     {  
+                        "name":"Yan Levesque",
+                        "designation":"DBA Architect"
+                     },
+                     {  
+                        "name":"David Bellanger",
+                        "designation":"Middleware & Tools Developer"
+                     },
+                     {  
+                        "name":"Bastien Minarie Pagnier",
+                        "designation":"Middleware & Tools Developer"
+                     },
+                     {  
+                        "name":"Kevin Fischer",
+                        "designation":"BI Developer"
+                     },
+                     {  
+                        "name":"Yacine Serir",
+                        "designation":"BI Developer"
+                     },
+                     {  
+                        "name":"Baptiste Chardon",
+                        "designation":"Monetization Manager"
+                     },
+                     {  
+                        "name":"Paul Patrier",
+                        "designation":"Live Monetization Manager"
+                     },
+                     {  
+                        "name":"Alexis Rosa",
+                        "designation":"Advertising Optimization Specialist"
+                     },
+                     {  
+                        "name":"Sophie Colson",
+                        "designation":"Mobile Marketing and User Acquisition Director"
+                     },
+                     {  
+                        "name":"Maud Challier",
+                        "designation":"Mobile Brand Marketing Manager"
+                     },
+                     {  
+                        "name":"Patrick Do Nascimento",
+                        "designation":"User Acquisition Manager"
+                     },
+                     {  
+                        "name":"Carole Le Van",
+                        "designation":"Junior Acquisition Specialist"
+                     },
+                     {  
+                        "name":"Shumin Dai",
+                        "designation":"Junior Acquisition Specialist"
+                     },
+                     {  
+                        "name":"Sylvain Daressy",
+                        "designation":"Junior Product Manager"
+                     },
+                     {  
+                        "name":"Laurence Barlet",
+                        "designation":"CMK Manager - Mobile"
+                     },
+                     {  
+                        "name":"Etienne Tardieu",
+                        "designation":"Appstore Business Director"
+                     },
+                     {  
+                        "name":"Damian Dale",
+                        "designation":"Senior Social & Mobile Partnership Manager"
+                     },
+                     {  
+                        "name":"Kimberly Kaspar",
+                        "designation":"PR Manager NCSA"
+                     },
+                     {  
+                        "name":"Aurélien Palasse",
+                        "designation":"Head of Publishing Ubisoft Mobile ASIA"
+                     },
+                     {  
+                        "name":"Zhu Wei",
+                        "designation":"Localization Producer (Asia)"
+                     },
+                     {  
+                        "name":"Daphnee Ayabe",
+                        "designation":"International Product Manager (Asia)"
+                     },
+                     {  
+                        "name":"Chen Sheng Yun",
+                        "designation":"Game Product Manager (Asia)"
+                     },
+                     {  
+                        "name":"Qiao Xiao Bo",
+                        "designation":"Product Manager Assistant (Asia)"
+                     },
+                     {  
+                        "name":"Wen Guang Lin",
+                        "designation":"Senior Data Analyst (Asia)"
+                     },
+                     {  
+                        "name":"Zhong Jie",
+                        "designation":"Business Development Manager (Asia)"
+                     },
+                     {  
+                        "name":"Luo Xi",
+                        "designation":"Game Operation Manager (Asia)"
+                     },
+                     {  
+                        "name":"Pierre-Hugues Puechlong",
+                        "designation":"Mobile CRM & Community Developer"
+                     },
+                     {  
+                        "name":"Jules Vichot",
+                        "designation":"Appstore Operations Manager"
+                     },
+                     {  
+                        "name":"Victor Gont",
+                        "designation":"Certification Specialist"
+                     },
+                     {  
+                        "name":"Nicolae Jan Sercaianu",
+                        "designation":"Certification Specialist"
+                     },
+                     {  
+                        "name":"Hugo Lozano",
+                        "designation":"Junior Mobile Sales Analyst"
+                     },
+                     {  
+                        "name":"Anne Rubio-Fuertes",
+                        "designation":"Studios Operations & Communication Manager"
+                     },
+                     {  
+                        "name":"Gaëlle Periat",
+                        "designation":"Business Intelligence Manager"
+                     },
+                     {  
+                        "name":"Johan-André Jeanville",
+                        "designation":"Senior BI Specialist"
+                     },
+                     {  
+                        "name":"Théo Fossé",
+                        "designation":"Junior BI Analyst"
+                     },
+                     {  
+                        "name":"Frederick Faye",
+                        "designation":"Financial Planning Manager"
+                     },
+                     {  
+                        "name":"Claire Guerin",
+                        "designation":"Junior Financial Planning Analyst"
+                     },
+                     {  
+                        "name":"Edouard Licoys",
+                        "designation":"Live Financials Manager"
+                     },
+                     {  
+                        "name":"Adeline Maître",
+                        "designation":"Mobile HQ Financial Planning Analyst"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Licensing",
+                  "Members":[  
+                     {  
+                        "name":"Christian Salomon",
+                        "designation":"VP, WW Licensing"
+                     },
+                     {  
+                        "name":"Grégoire Gabalda",
+                        "designation":"SR DIR, Global Editorial Licensing"
+                     },
+                     {  
+                        "name":"Matt Marcheschi",
+                        "designation":"Global Editorial Licensing Manager"
+                     },
+                     {  
+                        "name":"François Denoeux",
+                        "designation":"Director, WW Licensing, Business Development"
+                     },
+                     {  
+                        "name":"Razvan Rotunjanu",
+                        "designation":"Worldwide Quality Control Director"
+                     },
+                     {  
+                        "name":"Navid Shaikh",
+                        "designation":"Worldwide Quality Control Coordinator"
+                     },
+                     {  
+                        "name":"Mircea Nutu",
+                        "designation":"Worldwide Quality Control Compliance Coordinator"
+                     }
+                  ]
+               }
+            ]
+         },
+         {  
+            "name":"Technology Group",
+            "teams":[  
+               {  
+                  "name":"Technology Group Director",
+                  "Members":[  
+                     {  
+                        "name":"Chadi Lebbos"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Technology Group Online Director",
+                  "Members":[  
+                     {  
+                        "name":"Jimmy Boulianne"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Online Deputy Director",
+                  "Members":[  
+                     {  
+                        "name":"Martin Lavoie"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Online Product Director",
+                  "Members":[  
+                     {  
+                        "name":"Steve Desjarlais"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Online Development Directors",
+                  "Members":[  
+                     {  
+                        "name":"Carl Dionne"
+                     },
+                     {  
+                        "name":"Jesse Henderson"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Online Service Directors",
+                  "Members":[  
+                     {  
+                        "name":"Alex Dandurand"
+                     },
+                     {  
+                        "name":"Jean-François Allard"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Tools & Middleware Engineering Leads",
+                  "Members":[  
+                     {  
+                        "name":"François Martel"
+                     },
+                     {  
+                        "name":"Cyrille Gauclin"
+                     },
+                     {  
+                        "name":"Nicolas Landron"
+                     },
+                     {  
+                        "name":"Thomas Félix"
+                     },
+                     {  
+                        "name":"Laurent Chouinard"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Tools & Middleware Product Managers",
+                  "Members":[  
+                     {  
+                        "name":"Alexandre Piché"
+                     },
+                     {  
+                        "name":"Alexandre Pichette"
+                     },
+                     {  
+                        "name":"Michel Gaudreault"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Online Product Manager",
+                  "Members":[  
+                     {  
+                        "name":"Bernard Desmons"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Online Product Specialist",
+                  "Members":[  
+                     {  
+                        "name":"Justin Wong"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Online Tool Support Specialist",
+                  "Members":[  
+                     {  
+                        "name":"Martin Tavernier"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Strategic Partner Managers",
+                  "Members":[  
+                     {  
+                        "name":"Romain Amichaud"
+                     },
+                     {  
+                        "name":"Stéphane Grenier"
+                     },
+                     {  
+                        "name":"Thomas Fortier"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Technology Group  Coordinator",
+                  "Members":[  
+                     {  
+                        "name":"Roger Saindon"
+                     },
+                     {  
+                        "name":"Valérie Lefebvre"
+                     }
+                  ]
+               }
+            ]
+         },
+         {  
+            "name":"DNA Team",
+            "teams":[  
+               {  
+                  "name":"Lead Programmer",
+                  "Members":[  
+                     {  
+                        "name":"Sébastien Hinse"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Team Lead",
+                  "Members":[  
+                     {  
+                        "name":"Étienne Borel"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Tech Lead",
+                  "Members":[  
+                     {  
+                        "name":"Francis Dallaire"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Product Manager",
+                  "Members":[  
+                     {  
+                        "name":"Pierre Bourgault"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Product Specialist",
+                  "Members":[  
+                     {  
+                        "name":"Luc Gagnon"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Tool Support Specialist",
+                  "Members":[  
+                     {  
+                        "name":"Kevork Najjarian"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Programmers",
+                  "Members":[  
+                     {  
+                        "name":"Boris Fersing"
+                     },
+                     {  
+                        "name":"Cyrille Karmann"
+                     },
+                     {  
+                        "name":"Éric Germain"
+                     },
+                     {  
+                        "name":"Eliott Hayut"
+                     },
+                     {  
+                        "name":"Éric Landry"
+                     },
+                     {  
+                        "name":"Nicolas Markovic"
+                     }
+                  ]
+               },
+               {  
+                  "name":"BI Developers",
+                  "Members":[  
+                     {  
+                        "name":"Olivier Régimbald-Brière"
+                     },
+                     {  
+                        "name":"Antoine Zieger"
+                     },
+                     {  
+                        "name":"Robert Baxter"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Web Developers",
+                  "Members":[  
+                     {  
+                        "name":"Tayana Jacques"
+                     },
+                     {  
+                        "name":"Renzo Calderon"
+                     },
+                     {  
+                        "name":"Hadi Bassil"
+                     },
+                     {  
+                        "name":"Jacinthe Bureau"
+                     }
+                  ]
+               }
+            ]
+         },
+         {  
+            "name":"Ubiservices Team",
+            "teams":[  
+               {  
+                  "name":"Product Manager",
+                  "Members":[  
+                     {  
+                        "name":"Frédéric Pichette"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Lead Programmer",
+                  "Members":[  
+                     {  
+                        "name":"Alain Cormier"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Lead Database Administrator",
+                  "Members":[  
+                     {  
+                        "name":"Serge Adourian"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Team Lead",
+                  "Members":[  
+                     {  
+                        "name":"Behrang Khoshnood"
+                     },
+                     {  
+                        "name":"Patrick du Boucher"
+                     },
+                     {  
+                        "name":"Robert Langlois"
+                     },
+                     {  
+                        "name":"Stéphane St-Arnauld"
+                     },
+                     {  
+                        "name":"Sylvain Demers"
+                     },
+                     {  
+                        "name":"Jean-François Mercier"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Programmers",
+                  "Members":[  
+                     {  
+                        "name":"Jean-François Mercier"
+                     },
+                     {  
+                        "name":"Alexandre Loisel"
+                     },
+                     {  
+                        "name":"Anh Bang Bui"
+                     },
+                     {  
+                        "name":"Carl Venne"
+                     },
+                     {  
+                        "name":"Carlos Andres Vargas Farfan"
+                     },
+                     {  
+                        "name":"Charles-Étienne Théberge"
+                     },
+                     {  
+                        "name":"David Charbonneau"
+                     },
+                     {  
+                        "name":"Dominique Doucet"
+                     },
+                     {  
+                        "name":"Felipe Cardoso Gonçalves"
+                     },
+                     {  
+                        "name":"Gabriel Federico Reyes Baldó"
+                     },
+                     {  
+                        "name":"Gabriel Espinoza Lahore"
+                     },
+                     {  
+                        "name":"Hector Salazar"
+                     },
+                     {  
+                        "name":"Hervé Grosdemanche"
+                     },
+                     {  
+                        "name":"Jean-François Durand"
+                     },
+                     {  
+                        "name":"Jie Xu"
+                     },
+                     {  
+                        "name":"Jonathan Arlauskas"
+                     },
+                     {  
+                        "name":"Kamran Khoshnasib"
+                     },
+                     {  
+                        "name":"Kate Patterson"
+                     },
+                     {  
+                        "name":"Martin Riendeau"
+                     },
+                     {  
+                        "name":"Mathieu Wrzesien"
+                     },
+                     {  
+                        "name":"Nicolas Heynen"
+                     },
+                     {  
+                        "name":"Partha Dhar"
+                     },
+                     {  
+                        "name":"Patrick Grondin"
+                     },
+                     {  
+                        "name":"Philippe Mercure"
+                     },
+                     {  
+                        "name":"Pier-Luc Théberge"
+                     },
+                     {  
+                        "name":"Samuel Verreault"
+                     },
+                     {  
+                        "name":"Shao Hang He"
+                     },
+                     {  
+                        "name":"Steven Ball"
+                     },
+                     {  
+                        "name":"Tristan Moreaux"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Release & Build Specialist",
+                  "Members":[  
+                     {  
+                        "name":"Joshua Heath"
+                     },
+                     {  
+                        "name":"Lan Wang (Angela)"
+                     }
+                  ]
+               }
+            ]
+         },
+         {  
+            "name":"Rendez-Vous Platform Team",
+            "teams":[  
+               {  
+                  "name":"Technical Lead",
+                  "Members":[  
+                     {  
+                        "name":"André Caron"
+                     },
+                     {  
+                        "name":"Francis Pagé"
+                     },
+                     {  
+                        "name":"Rodrigue Cloutier"
+                     },
+                     {  
+                        "name":"Serge Catudal"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Team Leads",
+                  "Members":[  
+                     {  
+                        "name":"Charles Beauchemin"
+                     },
+                     {  
+                        "name":"Jean-François Lévesque"
+                     },
+                     {  
+                        "name":"Etienne Cournoyer"
+                     },
+                     {  
+                        "name":"Jean-Marc Prud’Homme"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Programmers in Montreal",
+                  "Members":[  
+                     {  
+                        "name":"Bogdan Chisamera"
+                     },
+                     {  
+                        "name":"Daniel Gagné"
+                     },
+                     {  
+                        "name":"David Forget"
+                     },
+                     {  
+                        "name":"David Genest"
+                     },
+                     {  
+                        "name":"Gilles Douaire"
+                     },
+                     {  
+                        "name":"Jean-François Gosselin"
+                     },
+                     {  
+                        "name":"Jonathan Barbeau"
+                     },
+                     {  
+                        "name":"Julien Kauffmann"
+                     },
+                     {  
+                        "name":"Kevin Martinet"
+                     },
+                     {  
+                        "name":"Laurent Loubière"
+                     },
+                     {  
+                        "name":"Marc-Olivier Labarre"
+                     },
+                     {  
+                        "name":"Mathieu Yargeau"
+                     },
+                     {  
+                        "name":"Martin Asnong"
+                     },
+                     {  
+                        "name":"Martin Labonté"
+                     },
+                     {  
+                        "name":"Mickaël Mounier"
+                     },
+                     {  
+                        "name":"Michael McCliment"
+                     },
+                     {  
+                        "name":"Nicolas Corral"
+                     },
+                     {  
+                        "name":"Nicolas Mivielle"
+                     },
+                     {  
+                        "name":"Pascal Lalancette"
+                     },
+                     {  
+                        "name":"Philippe Lemoine"
+                     },
+                     {  
+                        "name":"Pierre-Alexandre Gagné"
+                     },
+                     {  
+                        "name":"Sandro Monti"
+                     },
+                     {  
+                        "name":"Simon Brisson"
+                     },
+                     {  
+                        "name":"Stéphane Létourneau"
+                     },
+                     {  
+                        "name":"Stephen Leong Koan"
+                     },
+                     {  
+                        "name":"Sylvain Duchesne"
+                     },
+                     {  
+                        "name":"Winston Lin"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Programmers in Craiova",
+                  "Members":[  
+                     {  
+                        "name":"Radu Dragomirescu"
+                     },
+                     {  
+                        "name":"Constantin Petrisor"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Tool Support Specialist",
+                  "Members":[  
+                     {  
+                        "name":"Marc-André Barbeau"
+                     },
+                     {  
+                        "name":"Patrick Paradis"
+                     }
+                  ]
+               },
+               {  
+                  "name":"Build Specialist",
+                  "Members":[  
+                     {  
+                        "name":"Cyril Bordat"
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+}

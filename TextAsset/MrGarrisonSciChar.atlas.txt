@@ -1,0 +1,341 @@
+
+MrGarrisonSciChar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow
+  rotate: true
+  xy: 839, 9
+  size: 33, 92
+  orig: 33, 92
+  offset: 0, 0
+  index: -1
+ArmUp_Front_Left
+  rotate: true
+  xy: 589, 6
+  size: 36, 122
+  orig: 36, 122
+  offset: 0, 0
+  index: -1
+ArmUp_Front_Right
+  rotate: true
+  xy: 715, 7
+  size: 35, 120
+  orig: 35, 120
+  offset: 0, 0
+  index: -1
+ArmUp_Side_Left
+  rotate: true
+  xy: 569, 254
+  size: 42, 120
+  orig: 42, 120
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 321, 188
+  size: 163, 244
+  orig: 163, 244
+  offset: 0, 0
+  index: -1
+EyeBrows_Left
+  rotate: false
+  xy: 4, 4
+  size: 56, 17
+  orig: 56, 17
+  offset: 0, 0
+  index: -1
+EyeBrows_Right
+  rotate: true
+  xy: 996, 860
+  size: 56, 18
+  orig: 56, 18
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: false
+  xy: 569, 300
+  size: 131, 51
+  orig: 131, 51
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: true
+  xy: 947, 77
+  size: 162, 72
+  orig: 162, 72
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 947, 4
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+Hair_Front
+  rotate: false
+  xy: 351, 471
+  size: 343, 549
+  orig: 343, 549
+  offset: 0, 0
+  index: -1
+Hair_Side
+  rotate: false
+  xy: 698, 520
+  size: 294, 500
+  orig: 294, 500
+  offset: 0, 0
+  index: -1
+Hair_Side_Extra
+  rotate: true
+  xy: 351, 355
+  size: 112, 365
+  orig: 112, 365
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 4, 439
+  size: 343, 581
+  orig: 343, 581
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 4, 172
+  size: 313, 263
+  orig: 313, 263
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 720, 243
+  size: 279, 273
+  orig: 279, 273
+  offset: 0, 0
+  index: -1
+Headband_Side
+  rotate: false
+  xy: 361, 33
+  size: 224, 151
+  orig: 224, 151
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 589, 46
+  size: 193, 354
+  orig: 193, 354
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 4, 25
+  size: 143, 353
+  orig: 143, 353
+  offset: 0, 0
+  index: -1
+Mouth_Front_A
+  rotate: true
+  xy: 698, 473
+  size: 43, 14
+  orig: 43, 14
+  offset: 0, 0
+  index: -1
+Mouth_Front_A2
+  rotate: true
+  xy: 996, 971
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 569, 210
+  size: 40, 9
+  orig: 40, 9
+  offset: 0, 0
+  index: -1
+Mouth_Front_O
+  rotate: false
+  xy: 996, 836
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: true
+  xy: 996, 920
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: true
+  xy: 321, 378
+  size: 57, 19
+  orig: 57, 19
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: true
+  xy: 704, 306
+  size: 45, 12
+  orig: 45, 12
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: false
+  xy: 321, 173
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+Mouth_Side_O
+  rotate: false
+  xy: 64, 7
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: true
+  xy: 693, 253
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+
+MrGarrisonSciChar2.png
+size: 978,385
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmUp_Side_Right
+  rotate: false
+  xy: 645, 4
+  size: 42, 120
+  orig: 42, 120
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 150, 125
+  size: 233, 256
+  orig: 233, 256
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 387, 125
+  size: 231, 256
+  orig: 231, 256
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 819, 312
+  size: 152, 69
+  orig: 152, 69
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 691, 8
+  size: 156, 72
+  orig: 156, 72
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: true
+  xy: 923, 18
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: true
+  xy: 572, 48
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: true
+  xy: 851, 8
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+Hand1
+  rotate: false
+  xy: 346, 41
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+Headband_Side_Left
+  rotate: true
+  xy: 819, 84
+  size: 224, 151
+  orig: 224, 151
+  offset: 0, 0
+  index: -1
+LegLow_Front
+  rotate: true
+  xy: 408, 43
+  size: 78, 160
+  orig: 78, 160
+  offset: 0, 0
+  index: -1
+LegUp_Front
+  rotate: true
+  xy: 168, 30
+  size: 91, 174
+  orig: 91, 174
+  offset: 0, 0
+  index: -1
+LegsLow_Side
+  rotate: true
+  xy: 4, 10
+  size: 109, 160
+  orig: 109, 160
+  offset: 0, 0
+  index: -1
+LegsUp_Front
+  rotate: false
+  xy: 622, 128
+  size: 193, 253
+  orig: 193, 253
+  offset: 0, 0
+  index: -1
+LegsUp_Side
+  rotate: false
+  xy: 4, 123
+  size: 142, 258
+  orig: 142, 258
+  offset: 0, 0
+  index: -1
+Mouth_Front_O2
+  rotate: false
+  xy: 397, 9
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: false
+  xy: 442, 12
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: false
+  xy: 346, 9
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1

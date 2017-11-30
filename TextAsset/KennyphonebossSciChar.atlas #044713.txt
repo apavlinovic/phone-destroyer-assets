@@ -1,0 +1,328 @@
+
+KennyphonebossSciChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: true
+  xy: 245, 54
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: true
+  xy: 358, 177
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+Arm_Left_Front_1
+  rotate: false
+  xy: 483, 236
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+Arm_Left_Front_2
+  rotate: false
+  xy: 245, 94
+  size: 31, 61
+  orig: 31, 61
+  offset: 0, 0
+  index: -1
+Arm_Left_Side_1
+  rotate: false
+  xy: 228, 5
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Arm_Left_Side_2
+  rotate: true
+  xy: 414, 95
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+Arm_Right_Phone
+  rotate: false
+  xy: 316, 181
+  size: 37, 56
+  orig: 59, 71
+  offset: 11, 4
+  index: -1
+Arm_Side_1
+  rotate: false
+  xy: 469, 82
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: false
+  xy: 361, 57
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 5, 8
+  size: 109, 115
+  orig: 109, 115
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 397, 337
+  size: 107, 77
+  orig: 107, 77
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 119, 37
+  size: 86, 71
+  orig: 86, 71
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 390, 85
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+CarBattery_Side
+  rotate: false
+  xy: 238, 245
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: true
+  xy: 189, 139
+  size: 84, 45
+  orig: 84, 45
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: false
+  xy: 420, 298
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: true
+  xy: 320, 242
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 195, 54
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: true
+  xy: 239, 160
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: true
+  xy: 370, 245
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: true
+  xy: 189, 228
+  size: 90, 44
+  orig: 90, 44
+  offset: 0, 0
+  index: -1
+Gear/FantasyShirt_Hand_LeftRight_Wear_1
+  rotate: false
+  xy: 410, 66
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+Gear/FantasyShirt_Hand_LeftRight_Wear_2
+  rotate: false
+  xy: 397, 35
+  size: 28, 26
+  orig: 88, 88
+  offset: 31, 31
+  index: -1
+Gear/NakedShirt_Arm_LeftRight_Wear_FrontBack_3
+  rotate: true
+  xy: 420, 254
+  size: 39, 58
+  orig: 59, 71
+  offset: 11, 2
+  index: -1
+Gear/NakedShirt_Hand3Thumb_LeftRight_Wear
+  rotate: true
+  xy: 195, 37
+  size: 12, 9
+  orig: 88, 88
+  offset: 42, 51
+  index: -1
+Gear/NakedShirt_Hand4Thumb_LeftRight_Wear
+  rotate: false
+  xy: 496, 153
+  size: 11, 22
+  orig: 88, 88
+  offset: 28, 36
+  index: -1
+Gear/NakedShirt_Hand_LeftRight_Wear_3
+  rotate: true
+  xy: 397, 5
+  size: 25, 29
+  orig: 88, 88
+  offset: 33, 31
+  index: -1
+Gear/NakedShirt_Hand_LeftRight_Wear_4
+  rotate: true
+  xy: 368, 19
+  size: 33, 24
+  orig: 88, 88
+  offset: 30, 31
+  index: -1
+Gear/Phone_BACK
+  rotate: true
+  xy: 345, 113
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+Gear/Phone_FRONT
+  rotate: true
+  xy: 393, 180
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+Gear/Phone_FRONT_broken
+  rotate: true
+  xy: 430, 189
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+Gear/Phone_Front_TILTED
+  rotate: true
+  xy: 281, 95
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+Gear/Phone_Front_TILTED_broken
+  rotate: true
+  xy: 313, 106
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+Gear/Phone_back_TILTED
+  rotate: true
+  xy: 382, 112
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+Gear/Phone_back_TILTED_2
+  rotate: true
+  xy: 467, 180
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+Gear/Phone_front_TILTED_2
+  rotate: true
+  xy: 414, 124
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+Gear/Phone_front_TILTED_2_broken
+  rotate: true
+  xy: 455, 124
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+HandRight_Front_2
+  rotate: false
+  xy: 261, 9
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+Hand_Right_Back
+  rotate: true
+  xy: 314, 17
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Hand_Right_Back_2
+  rotate: false
+  xy: 306, 54
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 323
+  size: 196, 184
+  orig: 196, 184
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 128
+  size: 179, 190
+  orig: 179, 190
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 206, 330
+  size: 186, 177
+  orig: 186, 177
+  offset: 0, 0
+  index: -1
+Hood_Front
+  rotate: false
+  xy: 397, 419
+  size: 101, 88
+  orig: 101, 88
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 119, 5
+  size: 104, 27
+  orig: 104, 27
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 289, 171
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1

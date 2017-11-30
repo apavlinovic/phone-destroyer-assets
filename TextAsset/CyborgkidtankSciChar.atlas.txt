@@ -1,0 +1,237 @@
+
+CyborgkidtankSciChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front
+  rotate: true
+  xy: 427, 100
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: true
+  xy: 442, 265
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: true
+  xy: 116, 13
+  size: 128, 110
+  orig: 128, 110
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 377, 351
+  size: 128, 109
+  orig: 128, 109
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 5, 10
+  size: 131, 106
+  orig: 131, 106
+  offset: 0, 0
+  index: -1
+Eyebrows
+  rotate: false
+  xy: 151, 158
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: false
+  xy: 299, 420
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookUp
+  rotate: false
+  xy: 219, 466
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: false
+  xy: 219, 334
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 426, 23
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 470, 64
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 231, 26
+  size: 144, 145
+  orig: 144, 145
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 299, 179
+  size: 138, 143
+  orig: 138, 143
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 151, 176
+  size: 143, 147
+  orig: 143, 147
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 380, 465
+  size: 127, 42
+  orig: 127, 42
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 171, 328
+  size: 87, 43
+  orig: 87, 43
+  offset: 0, 0
+  index: -1
+Mask-Front
+  rotate: false
+  xy: 5, 146
+  size: 141, 177
+  orig: 141, 177
+  offset: 0, 0
+  index: -1
+Mask-Side
+  rotate: false
+  xy: 5, 328
+  size: 161, 179
+  orig: 161, 179
+  offset: 0, 0
+  index: -1
+MetalArm_Front_1
+  rotate: false
+  xy: 442, 178
+  size: 42, 82
+  orig: 42, 82
+  offset: 0, 0
+  index: -1
+MetalArm_Front_2
+  rotate: false
+  xy: 258, 389
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+MetalArm_Side_1
+  rotate: true
+  xy: 299, 327
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+MetalArm_Side_2
+  rotate: true
+  xy: 442, 305
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+eyes1_Front
+  rotate: false
+  xy: 299, 374
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+eyes1_Side
+  rotate: false
+  xy: 219, 377
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+eyes2_Front
+  rotate: true
+  xy: 380, 97
+  size: 77, 42
+  orig: 77, 42
+  offset: 0, 0
+  index: -1
+eyes2_Side
+  rotate: false
+  xy: 171, 467
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+eyes3_Front
+  rotate: false
+  xy: 171, 420
+  size: 82, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+eyes3_Front_LookDown
+  rotate: true
+  xy: 380, 10
+  size: 82, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+eyes3_Side
+  rotate: false
+  xy: 427, 57
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+eyes5_Front
+  rotate: false
+  xy: 427, 142
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+eyes5_Side
+  rotate: false
+  xy: 470, 30
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+eyes6_Front
+  rotate: false
+  xy: 299, 466
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+eyes6_Side
+  rotate: false
+  xy: 258, 346
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+RedSciChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AlienEye_Front_Left
+  rotate: true
+  xy: 257, 271
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+AlienEye_Front_Right
+  rotate: true
+  xy: 357, 206
+  size: 86, 98
+  orig: 86, 98
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: false
+  xy: 460, 166
+  size: 40, 85
+  orig: 40, 85
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 334, 391
+  size: 167, 116
+  orig: 167, 116
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 357, 297
+  size: 144, 89
+  orig: 144, 89
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 257, 383
+  size: 124, 70
+  orig: 124, 70
+  offset: 0, 0
+  index: -1
+Glass_Front
+  rotate: true
+  xy: 234, 17
+  size: 235, 95
+  orig: 235, 95
+  offset: 0, 0
+  index: -1
+Hair_Back
+  rotate: false
+  xy: 35, 257
+  size: 217, 250
+  orig: 217, 250
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 453, 124
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: false
+  xy: 460, 256
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 9
+  size: 224, 239
+  orig: 224, 239
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 399, 15
+  size: 186, 49
+  orig: 186, 49
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 234, 5
+  size: 35, 7
+  orig: 35, 7
+  offset: 0, 0
+  index: -1
+Tube_Front
+  rotate: true
+  xy: 334, 9
+  size: 192, 60
+  orig: 192, 60
+  offset: 0, 0
+  index: -1
+Weapon_Straight
+  rotate: false
+  xy: 5, 253
+  size: 25, 254
+  orig: 25, 254
+  offset: 0, 0
+  index: -1

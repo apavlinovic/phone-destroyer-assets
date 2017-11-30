@@ -1,0 +1,97 @@
+
+StanphonebossAdvChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_Front
+  rotate: false
+  xy: 6, 50
+  size: 187, 129
+  orig: 187, 141
+  offset: 0, 0
+  index: -1
+Body_Front_Decoration
+  rotate: false
+  xy: 262, 385
+  size: 157, 121
+  orig: 187, 141
+  offset: 13, 15
+  index: -1
+Brow
+  rotate: false
+  xy: 6, 19
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: true
+  xy: 317, 236
+  size: 143, 77
+  orig: 143, 77
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 425, 370
+  size: 136, 76
+  orig: 136, 76
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: true
+  xy: 400, 228
+  size: 136, 76
+  orig: 136, 76
+  offset: 0, 0
+  index: -1
+Gear/NakedShirt_Arm_LeftRight_Wear_FrontBack_3
+  rotate: false
+  xy: 259, 82
+  size: 60, 91
+  orig: 100, 120
+  offset: 21, 9
+  index: -1
+Gear/NakedShirt_Hand3Thumb_LeftRight_Wear
+  rotate: true
+  xy: 482, 344
+  size: 20, 15
+  orig: 150, 150
+  offset: 72, 86
+  index: -1
+Gear/NakedShirt_Hand_LeftRight_Wear_3
+  rotate: false
+  xy: 317, 182
+  size: 43, 48
+  orig: 150, 150
+  offset: 56, 52
+  index: -1
+Gear/Phone_BACK
+  rotate: true
+  xy: 199, 79
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 185
+  size: 250, 321
+  orig: 250, 321
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 262, 179
+  size: 200, 49
+  orig: 200, 49
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 49, 6
+  size: 38, 8
+  orig: 38, 8
+  offset: 0, 0
+  index: -1

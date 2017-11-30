@@ -1,0 +1,83 @@
+
+WendyFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Side_2
+  rotate: false
+  xy: 378, 258
+  size: 50, 93
+  orig: 50, 93
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 384, 357
+  size: 147, 115
+  orig: 147, 115
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 434, 326
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 255, 220
+  size: 135, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Hair_Front
+  rotate: false
+  xy: 6, 51
+  size: 235, 194
+  orig: 235, 194
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 6, 6
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 251
+  size: 243, 253
+  orig: 243, 253
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 337, 239
+  size: 116, 35
+  orig: 116, 35
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 322, 176
+  size: 38, 8
+  orig: 38, 8
+  offset: 0, 0
+  index: -1
+ShieldPrespective
+  rotate: false
+  xy: 255, 361
+  size: 123, 143
+  orig: 125, 143
+  offset: 1, 0
+  index: -1
+Sword
+  rotate: false
+  xy: 247, 47
+  size: 69, 167
+  orig: 69, 167
+  offset: 0, 0
+  index: -1

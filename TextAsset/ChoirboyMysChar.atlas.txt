@@ -1,0 +1,237 @@
+
+ChoirboyMysChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: false
+  xy: 135, 158
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: true
+  xy: 135, 139
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: false
+  xy: 313, 385
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 5, 243
+  size: 90, 54
+  orig: 90, 54
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 5, 60
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 85, 107
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 500, 485
+  size: 22, 3
+  orig: 22, 3
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 246, 460
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+Collar_Side
+  rotate: false
+  xy: 5, 17
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 246, 412
+  size: 81, 43
+  orig: 81, 43
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: false
+  xy: 5, 111
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: false
+  xy: 335, 464
+  size: 79, 43
+  orig: 79, 43
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 5, 148
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+Eyes_Front_OpenLookSide
+  rotate: false
+  xy: 419, 464
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: false
+  xy: 5, 196
+  size: 86, 42
+  orig: 86, 42
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: true
+  xy: 96, 194
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: true
+  xy: 116, 64
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: false
+  xy: 70, 61
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 75, 15
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: false
+  xy: 86, 148
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+HandBell_1
+  rotate: true
+  xy: 100, 239
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+Hand_Back
+  rotate: false
+  xy: 153, 121
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Hand_Front_1
+  rotate: false
+  xy: 134, 120
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: true
+  xy: 147, 21
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 126, 408
+  size: 115, 99
+  orig: 115, 99
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 302
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 5, 407
+  size: 116, 100
+  orig: 116, 100
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 246, 387
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 119, 21
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 5, 8
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: true
+  xy: 147, 41
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: false
+  xy: 143, 11
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: false
+  xy: 119, 5
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1

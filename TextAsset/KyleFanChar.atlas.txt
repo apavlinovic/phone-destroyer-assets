@@ -1,0 +1,69 @@
+
+KyleFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: true
+  xy: 330, 228
+  size: 42, 126
+  orig: 42, 126
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: false
+  xy: 251, 19
+  size: 73, 112
+  orig: 73, 112
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: true
+  xy: 330, 323
+  size: 183, 145
+  orig: 183, 145
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 5, 5
+  size: 241, 126
+  orig: 241, 126
+  offset: 0, 0
+  index: -1
+Hand_Back
+  rotate: false
+  xy: 461, 234
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: false
+  xy: 329, 90
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 330, 275
+  size: 167, 43
+  orig: 167, 43
+  offset: 0, 0
+  index: -1
+Stick_3
+  rotate: true
+  xy: 5, 136
+  size: 76, 390
+  orig: 116, 391
+  offset: 19, 1
+  index: -1
+Temp_Head_Front_Whole
+  rotate: false
+  xy: 5, 217
+  size: 320, 289
+  orig: 320, 289
+  offset: 0, 0
+  index: -1

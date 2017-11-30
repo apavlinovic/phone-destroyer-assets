@@ -1,0 +1,20 @@
+
+ChineseLantern.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChineseLantern
+  rotate: false
+  xy: 3, 3
+  size: 96, 120
+  orig: 98, 120
+  offset: 1, 0
+  index: -1
+ChineseLanternRope
+  rotate: false
+  xy: 102, 48
+  size: 13, 75
+  orig: 14, 75
+  offset: 1, 0
+  index: -1

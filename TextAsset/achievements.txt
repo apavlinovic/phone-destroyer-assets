@@ -1,0 +1,1098 @@
+{  
+   "resources":{  
+      "achievementsDetails":[  
+         {
+            "achName":"achievement_you_killed_kenny",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQDQ",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.killed_kenny",
+            "achSteps":1,
+            "achIntId":1,
+            "achMaxSteps": 1,
+            "group":  "achievement_you_killed_kenny",
+            "groupLevel": 0,
+            "icon": "InGameAchievementsKenny",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 3
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_youre_really_good_at_this",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQDg",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.really_good_at_this",
+            "achSteps":1,
+            "achIntId":2,
+            "achMaxSteps": 1,
+            "group":  "achievement_youre_really_good_at_this",
+            "groupLevel": 0,
+            "icon": "InGameAchievementsLevelup",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 3
+               }],
+               "gear": [],
+               "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_episode_1_complete",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQDw",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.episode1",
+            "achSteps":1,
+            "achIntId":3,
+            "achMaxSteps":1,
+            "group":  "achievement_episode",
+            "groupLevel": 0,
+            "icon": "InGameAchievementsEpisode",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 5
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_episode_2_complete",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQEA",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.episode2",
+            "achSteps":1,
+            "achIntId":4,
+            "achMaxSteps": 1,
+            "group":  "achievement_episode",
+            "groupLevel": 1,
+            "icon": "InGameAchievementsEpisode",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 10
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_episode_3_complete",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQEQ",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.episode3",
+            "achSteps":1,
+            "achIntId":5,
+            "achMaxSteps": 1,
+            "group":  "achievement_episode",
+            "groupLevel": 2,
+            "icon": "InGameAchievementsEpisode",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 15
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_episode_4_complete",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQEg",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.episode4",
+            "achSteps":1,
+            "achIntId":6,
+            "achMaxSteps": 1,
+            "group":  "achievement_episode",
+            "groupLevel": 3,
+            "icon": "InGameAchievementsEpisode",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 20
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_battle_born",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQEw",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.battle_born",
+            "achSteps":1,
+            "achIntId":7,
+            "achMaxSteps": 1,
+            "group":  "achievement_battle",
+            "groupLevel": 0,
+            "icon": "InGameAchievementsPvpmatch",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 3
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_battle_hardened",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQOg",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.battle_hardened",
+            "achSteps":1,
+            "achIntId":8,
+            "achMaxSteps":10,
+            "group":  "achievement_battle",
+            "groupLevel": 1,
+            "icon": "InGameAchievementsPvpmatch",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 5
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_battle_veteran",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQFQ",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.battle_veteran",
+            "achSteps":1,
+            "achIntId":9,
+            "achMaxSteps":50,
+            "group":  "achievement_battle",
+            "groupLevel": 2,
+            "icon": "InGameAchievementsPvpmatch",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 10
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_battle_master",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQFg",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.battle_master",
+            "achSteps":1,
+            "achIntId":10,
+            "achMaxSteps":150,
+            "group":  "achievement_battle",
+            "groupLevel": 3,
+            "icon": "InGameAchievementsPvpmatch",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 15
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_battle_legend",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQFw",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.battle_legend",
+            "achSteps":1,
+            "achIntId":11,
+            "achMaxSteps":500,
+            "group":  "achievement_battle",
+            "groupLevel": 4,
+            "icon": "InGameAchievementsPvpmatch",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 20
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_battle_addict",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQGA",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.addict",
+            "achSteps":1,
+            "achIntId":12,
+            "achMaxSteps":2000,
+            "group":  "achievement_battle",
+            "groupLevel": 5,
+            "icon": "InGameAchievementsPvpmatch",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 30
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_season_opener",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQGQ",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.season_opener",
+            "achSteps":1,
+            "achIntId":13,
+            "achMaxSteps":1,
+            "group":  "achievement_season",
+            "groupLevel": 0,
+            "icon": "InGameAchievementsPvpseason",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 3
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_seasoned_performer",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQGg",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.seasoned_performer",
+            "achSteps":1,
+            "achIntId":14,
+            "achMaxSteps":1,
+            "group":  "achievement_season",
+            "groupLevel": 1,
+            "icon": "InGameAchievementsPvpseason",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 5
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_seasoned_pro",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQGw",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.seasoned_pro",
+            "achSteps":1,
+            "achIntId":15,
+            "achMaxSteps":1,
+            "group":  "achievement_season",
+            "groupLevel": 2,
+            "icon": "InGameAchievementsPvpseason",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 10
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_seasoned_veteran",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQHA",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.seasoned_veteran",
+            "achSteps":1,
+            "achIntId":16,
+            "achMaxSteps":1,
+            "group":  "achievement_season",
+            "groupLevel": 3,
+            "icon": "InGameAchievementsPvpseason",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 20
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_seasoned_legend",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQHQ",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.seasoned_legend",
+            "achSteps":1,
+            "achIntId":17,
+            "achMaxSteps":1,
+            "group":  "achievement_season",
+            "groupLevel": 4,
+            "icon": "InGameAchievementsPvpseason",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 30
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_sticker_starter",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQHg",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.sticker_starter",
+            "achSteps":1,
+            "achIntId":18,
+            "achMaxSteps":1,
+            "group":  "achievement_sticker",
+            "groupLevel": 0,
+            "icon": "InGameAchievementsUpgrade",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 3
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_sticker_fan",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQHw",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.sticker_fan",
+            "achSteps":1,
+            "achIntId":19,
+            "achMaxSteps":25,
+            "group":  "achievement_sticker",
+            "icon": "InGameAchievementsUpgrade",
+            "groupLevel": 1,
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 5
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_sticker_pro",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQIA",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.sticker_pro",
+            "achSteps":1,
+            "achIntId":20,
+            "achMaxSteps":100,
+            "group":  "achievement_sticker",
+            "groupLevel": 2,
+            "icon": "InGameAchievementsUpgrade",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 10
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_sticker_expert",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQIQ",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.sticker_expert",
+            "achSteps":1,
+            "achIntId":21,
+            "achMaxSteps":500,
+            "group":  "achievement_sticker",
+            "groupLevel": 3,
+            "icon": "InGameAchievementsUpgrade",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 15
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_sticker_fanatic",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQIg",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.sticker_fanatic",
+            "achSteps":1,
+            "achIntId":22,
+            "achMaxSteps":1000,
+            "group":  "achievement_sticker",
+            "groupLevel": 4,
+            "icon": "InGameAchievementsUpgrade",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 20
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_card_collector",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQIw",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.card_collector",
+            "achSteps":1,
+            "achIntId":23,
+            "achMaxSteps":15,
+            "group":  "achievement_card_collect",
+            "groupLevel": 0,
+            "icon": "InGameAchievementsCardcollect",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 5
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_card_connoisseur",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQJA",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.card_connoisseur",
+            "achSteps":1,
+            "achIntId":24,
+            "achMaxSteps":50,
+            "group":  "achievement_card_collect",
+            "groupLevel": 1,
+            "icon": "InGameAchievementsCardcollect",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 10
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_card_horder",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQJQ",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.card_hoarder",
+            "achSteps":1,
+            "achIntId":25,
+            "achMaxSteps":100,
+            "group":  "achievement_card_collect",
+            "groupLevel": 2,
+            "icon": "InGameAchievementsCardcollect",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 15
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_star_power_i",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQJg",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.star_power1",
+            "achSteps":1,
+            "achIntId":26,
+            "achMaxSteps":1,
+            "group":  "achievement_star_power",
+            "groupLevel": 0,
+            "icon": "InGameAchievementsStarlevel",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 3
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_star_power_ii",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQJw",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.star_power2",
+            "achSteps":1,
+            "achIntId":27,
+            "achMaxSteps":1,
+            "group":  "achievement_star_power",
+            "groupLevel": 1,
+            "icon": "InGameAchievementsStarlevel",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 5
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_star_power_iii",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQKA",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.star_power3",
+            "achSteps":1,
+            "achIntId":28,
+            "achMaxSteps":1,
+            "group":  "achievement_star_power",
+            "groupLevel": 2,
+            "icon": "InGameAchievementsStarlevel",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 10
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_star_power_iV",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQNw",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.star_power4",
+            "achSteps":1,
+            "achIntId":50,
+            "achMaxSteps":1,
+            "group":  "achievement_star_power",
+            "groupLevel": 3,
+            "icon": "InGameAchievementsStarlevel",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 15
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_star_power_V",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQOA",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.star_power5",
+            "achSteps":1,
+            "achIntId":51,
+            "achMaxSteps":1,
+            "group":  "achievement_star_power",
+            "groupLevel": 4,
+            "icon": "InGameAchievementsStarlevel",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 20
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_star_power_Vi",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQOQ",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.star_power6",
+            "achSteps":1,
+            "achIntId":52,
+            "achMaxSteps":1,
+            "group":  "achievement_star_power",
+            "groupLevel": 5,
+            "icon": "InGameAchievementsStarlevel",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 25
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_all_star_i",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQKQ",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.all_star1",
+            "achSteps":1,
+            "achIntId":29,
+            "achMaxSteps":50,
+            "group":  "achievement_star_all",
+            "groupLevel": 0,
+            "icon": "InGameAchievementsAllStar",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 5
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_all_star_ii",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQKg",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.all_star2",
+            "achSteps":1,
+            "achIntId":30,
+            "achMaxSteps":100,
+            "group":  "achievement_star_all",
+            "groupLevel": 1,
+            "icon": "InGameAchievementsAllStar",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 10
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_all_star_iii",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQKw",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.all_star3",
+            "achSteps":1,
+            "achIntId":31,
+            "achMaxSteps":200,
+            "group":  "achievement_star_all",
+            "groupLevel": 2,
+            "icon": "InGameAchievementsAllStar",
+            "rewards": {
+               "items": [{
+                  "id": 215,
+                  "quantity": 10
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_butters_customer_i",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQLA",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.butters_customer1",
+            "achSteps":1,
+            "achIntId":32,
+            "achMaxSteps":100,
+            "group":  "achievement_pvp_store",
+            "groupLevel": 0,
+            "icon": "InGameAchievementsCurrencypvp",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 3
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_butters_customer_ii",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQLQ",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.butters_customer2",
+            "achSteps":1,
+            "achIntId":33,
+            "achMaxSteps":1000,
+            "group":  "achievement_pvp_store",
+            "groupLevel": 1,
+            "icon": "InGameAchievementsCurrencypvp",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 5
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_butters_customer_iii",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQLg",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.butters_customer3",
+            "achSteps":1,
+            "achIntId":34,
+            "achMaxSteps":10000,
+            "group":  "achievement_pvp_store",
+            "groupLevel": 2,
+            "icon": "InGameAchievementsCurrencypvp",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 10
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_butters_customer_iv",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQLw",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.butters_customer4",
+            "achSteps":1,
+            "achIntId":35,
+            "achMaxSteps":100000,
+            "group":  "achievement_pvp_store",
+            "groupLevel": 3,
+            "icon": "InGameAchievementsCurrencypvp",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 15
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_butters_customer_v",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQMA",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.butters_customer5",
+            "achSteps":1,
+            "achIntId":36,
+            "achMaxSteps":1000000,
+            "group":  "achievement_pvp_store",
+            "groupLevel": 4,
+            "icon": "InGameAchievementsCurrencypvp",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 20
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_cartmans_customer_i",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQMQ",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.cartmans_customer1",
+            "achSteps":1,
+            "achIntId":37,
+            "achMaxSteps":100,
+            "group":  "achievement_dailyshop_store",
+            "groupLevel": 0,
+            "icon": "InGameAchievementsCurrency",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 3
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_cartmans_customer_ii",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQMg",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.cartmans_customer2",
+            "achSteps":1,
+            "achIntId":38,
+            "achMaxSteps":1000,
+            "group":  "achievement_dailyshop_store",
+            "groupLevel": 1,
+            "icon": "InGameAchievementsCurrency",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 5
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_cartmans_customer_iii",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQMw",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.cartmans_customer3",
+            "achSteps":1,
+            "achIntId":39,
+            "achMaxSteps":10000,
+            "group":  "achievement_dailyshop_store",
+            "groupLevel": 2,
+            "icon": "InGameAchievementsCurrency",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 10
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_cartmans_customer_iv",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQNA",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.cartmans_customer4",
+            "achSteps":1,
+            "achIntId":40,
+            "achMaxSteps":100000,
+            "group":  "achievement_dailyshop_store",
+            "groupLevel": 3,
+            "icon": "InGameAchievementsCurrency",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 15
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_cartmans_customer_v",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQNQ",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.cartmans_customer5",
+            "achSteps":1,
+            "achIntId":41,
+            "achMaxSteps": 1000000,
+            "group":  "achievement_dailyshop_store",
+            "groupLevel": 4,
+            "icon": "InGameAchievementsCurrency",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 20
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_level_master_i",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQNg",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.level_master1",
+            "achSteps":1,
+            "achIntId":42,
+            "achMaxSteps":10,
+            "group": "achievement_level_master",
+            "groupLevel": 0,
+            "icon": "InGameAchievementsSingleplayer",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 5
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_level_master_ii",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQBg",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.level_master2",
+            "achSteps":1,
+            "achIntId":43,
+            "achMaxSteps":100,
+            "group":  "achievement_level_master",
+            "groupLevel": 1,
+            "icon": "InGameAchievementsSingleplayer",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 10
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_level_master_iii",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQBw",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.level_master3",
+            "achSteps":1,
+            "achIntId":44,
+            "achMaxSteps":500,
+            "group":  "achievement_level_master",
+            "groupLevel": 2,
+            "icon": "InGameAchievementsSingleplayer",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 15
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_level_master_iv",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQCA",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.level_master4",
+            "achSteps":1,
+            "achIntId":45,
+            "achMaxSteps":1000,
+            "group":  "achievement_level_master",
+            "groupLevel": 3,
+            "icon": "InGameAchievementsSingleplayer",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 20
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_zapper_i",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQCQ",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.zapper1",
+            "achSteps":1,
+            "achIntId":46,
+            "achMaxSteps":100,
+            "group":  "achievement_zapper",
+            "groupLevel": 0,
+            "icon": "InGameAchievementsZapper",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 5
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_zapper_ii",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQCg",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.zapper2",
+            "achSteps":1,
+            "achIntId":47,
+            "achMaxSteps":1000,
+            "group":  "achievement_zapper",
+            "groupLevel": 1,
+            "icon": "InGameAchievementsZapper",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 10
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_zapper_iii",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQCw",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.zapper3",
+            "achSteps":1,
+            "achIntId":48,
+            "achMaxSteps":10000,
+            "group":  "achievement_zapper",
+            "groupLevel": 2,
+            "icon": "InGameAchievementsZapper",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 15
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         },
+         {  
+            "achName":"achievement_zapper_iv",
+            "achIdAndroid":"CgkIk7Gs99wHEAIQDA",
+            "achIdIOS":"com.ubisoft.redlynx.southpark.zapper4",
+            "achSteps":1,
+            "achIntId":49,
+            "achMaxSteps": 100000,
+            "group":  "achievement_zapper",
+            "groupLevel": 3,
+            "icon": "InGameAchievementsZapper",
+            "rewards": {
+               "items": [{
+                  "id": 214,
+                  "quantity": 20
+              }],
+              "gear": [ ],
+              "cards": []
+            },
+            "parameter": 0,
+            "state": 1
+         }
+      ]
+   }
+}

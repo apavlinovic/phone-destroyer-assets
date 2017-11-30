@@ -1,0 +1,20 @@
+
+Bonfire.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CampFire3
+  rotate: false
+  xy: 5, 85
+  size: 232, 152
+  orig: 239, 157
+  offset: 3, 2
+  index: -1
+CampFireGlowingCoal
+  rotate: false
+  xy: 5, 33
+  size: 137, 47
+  orig: 137, 47
+  offset: 0, 0
+  index: -1

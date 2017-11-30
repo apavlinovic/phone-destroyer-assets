@@ -1,0 +1,293 @@
+
+JimmyAdvChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow
+  rotate: false
+  xy: 413, 67
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+ArmUp_Side
+  rotate: true
+  xy: 163, 5
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 201, 86
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: true
+  xy: 220, 201
+  size: 111, 121
+  orig: 111, 121
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 346, 202
+  size: 110, 97
+  orig: 110, 97
+  offset: 0, 0
+  index: -1
+CrunchLow_Front
+  rotate: true
+  xy: 347, 73
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+CrunchUp_Front
+  rotate: false
+  xy: 401, 22
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+Crunch_Side
+  rotate: true
+  xy: 5, 5
+  size: 38, 113
+  orig: 38, 113
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: false
+  xy: 201, 39
+  size: 99, 42
+  orig: 99, 42
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: false
+  xy: 201, 39
+  size: 99, 42
+  orig: 99, 42
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight2
+  rotate: true
+  xy: 326, 98
+  size: 98, 16
+  orig: 98, 16
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight2
+  rotate: true
+  xy: 326, 98
+  size: 98, 16
+  orig: 98, 16
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 448, 250
+  size: 93, 53
+  orig: 93, 53
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 421, 460
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: false
+  xy: 421, 408
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+Hand_Back_1
+  rotate: true
+  xy: 281, 5
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Hand_Back_2
+  rotate: true
+  xy: 492, 137
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+Hand_Front_1
+  rotate: true
+  xy: 249, 5
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: false
+  xy: 215, 5
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 220, 317
+  size: 196, 190
+  orig: 201, 190
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 269
+  size: 210, 238
+  orig: 210, 238
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 5, 48
+  size: 191, 216
+  orig: 191, 216
+  offset: 0, 0
+  index: -1
+Legs_Back
+  rotate: false
+  xy: 347, 117
+  size: 87, 34
+  orig: 89, 35
+  offset: 1, 1
+  index: -1
+Legs_Back_LeftFoot
+  rotate: false
+  xy: 123, 5
+  size: 35, 38
+  orig: 40, 41
+  offset: 2, 0
+  index: -1
+Legs_Back_RightFoot
+  rotate: false
+  xy: 342, 32
+  size: 54, 36
+  orig: 56, 38
+  offset: 1, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 347, 156
+  size: 93, 41
+  orig: 94, 42
+  offset: 1, 1
+  index: -1
+Legs_Front_LeftFoot
+  rotate: true
+  xy: 445, 127
+  size: 39, 42
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+Legs_Front_RightFoot
+  rotate: false
+  xy: 448, 208
+  size: 55, 37
+  orig: 56, 38
+  offset: 0, 1
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 421, 348
+  size: 81, 55
+  orig: 82, 55
+  offset: 1, 0
+  index: -1
+Legs_Side_LeftFoot
+  rotate: true
+  xy: 305, 26
+  size: 55, 32
+  orig: 59, 35
+  offset: 2, 0
+  index: -1
+Legs_Side_RightFoot
+  rotate: false
+  xy: 448, 171
+  size: 47, 32
+  orig: 50, 35
+  offset: 0, 1
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 492, 126
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: false
+  xy: 492, 126
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: false
+  xy: 444, 103
+  size: 32, 19
+  orig: 35, 23
+  offset: 3, 3
+  index: -1
+Mouth_Side_Open1
+  rotate: false
+  xy: 444, 103
+  size: 32, 19
+  orig: 35, 23
+  offset: 3, 3
+  index: -1
+Mouth_Front_Twitch1
+  rotate: false
+  xy: 421, 337
+  size: 12, 6
+  orig: 15, 6
+  offset: 1, 0
+  index: -1
+Mouth_Side_Twitch1
+  rotate: false
+  xy: 421, 337
+  size: 12, 6
+  orig: 15, 6
+  offset: 1, 0
+  index: -1
+Mouth_Front_Twitch2
+  rotate: false
+  xy: 201, 258
+  size: 13, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Twitch2
+  rotate: false
+  xy: 201, 258
+  size: 13, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Mouth_Front_Twitch3
+  rotate: true
+  xy: 481, 107
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Twitch3
+  rotate: true
+  xy: 481, 107
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1

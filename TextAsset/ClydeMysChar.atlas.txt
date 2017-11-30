@@ -1,0 +1,321 @@
+
+ClydeMysChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: true
+  xy: 354, 68
+  size: 30, 62
+  orig: 33, 62
+  offset: 3, 0
+  index: -1
+Arm_Front_2
+  rotate: true
+  xy: 354, 103
+  size: 32, 62
+  orig: 35, 62
+  offset: 3, 0
+  index: -1
+Arm_Side_1
+  rotate: true
+  xy: 195, 6
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: false
+  xy: 421, 81
+  size: 31, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 5, 52
+  size: 138, 105
+  orig: 138, 105
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 361, 414
+  size: 125, 93
+  orig: 125, 93
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 361, 333
+  size: 102, 76
+  orig: 102, 76
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 238, 5
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+Cape_Front
+  rotate: false
+  xy: 186, 231
+  size: 140, 99
+  orig: 140, 99
+  offset: 0, 0
+  index: -1
+Cape_Side
+  rotate: false
+  xy: 468, 323
+  size: 39, 86
+  orig: 39, 86
+  offset: 0, 0
+  index: -1
+Collar_Back
+  rotate: false
+  xy: 261, 35
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: true
+  xy: 421, 49
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Collar_Side
+  rotate: false
+  xy: 202, 42
+  size: 54, 23
+  orig: 54, 23
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 202, 124
+  size: 93, 49
+  orig: 93, 49
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 331, 231
+  size: 87, 37
+  orig: 87, 37
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: false
+  xy: 202, 70
+  size: 90, 49
+  orig: 90, 49
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 373, 278
+  size: 88, 50
+  orig: 88, 50
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: false
+  xy: 373, 224
+  size: 88, 49
+  orig: 88, 49
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: false
+  xy: 357, 169
+  size: 88, 50
+  orig: 88, 50
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookUp
+  rotate: true
+  xy: 300, 85
+  size: 88, 49
+  orig: 88, 49
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: true
+  xy: 148, 58
+  size: 99, 49
+  orig: 99, 49
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 148, 5
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: false
+  xy: 299, 45
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: false
+  xy: 457, 119
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 466, 272
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookBack
+  rotate: false
+  xy: 466, 221
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: true
+  xy: 457, 73
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: false
+  xy: 450, 170
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Hand_Back
+  rotate: false
+  xy: 299, 13
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 421, 16
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: false
+  xy: 354, 37
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 335
+  size: 179, 172
+  orig: 179, 172
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 162
+  size: 176, 168
+  orig: 176, 168
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 189, 335
+  size: 167, 172
+  orig: 167, 172
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 5, 16
+  size: 131, 31
+  orig: 131, 31
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 354, 140
+  size: 76, 24
+  orig: 76, 24
+  offset: 0, 0
+  index: -1
+Mace
+  rotate: true
+  xy: 186, 178
+  size: 48, 166
+  orig: 48, 166
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 344, 56
+  size: 24, 5
+  orig: 24, 5
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: false
+  xy: 262, 15
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: true
+  xy: 491, 428
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: true
+  xy: 409, 35
+  size: 28, 7
+  orig: 28, 7
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: false
+  xy: 331, 323
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: false
+  xy: 457, 50
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: true
+  xy: 491, 477
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: true
+  xy: 390, 36
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+SpellarrowstormAdvTot.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow_Blue
+  rotate: true
+  xy: 294, 355
+  size: 42, 195
+  orig: 42, 195
+  offset: 0, 0
+  index: -1
+Arrow_Green
+  rotate: true
+  xy: 114, 157
+  size: 42, 199
+  orig: 42, 199
+  offset: 0, 0
+  index: -1
+Arrow_Orange
+  rotate: true
+  xy: 114, 63
+  size: 42, 187
+  orig: 42, 187
+  offset: 0, 0
+  index: -1
+Arrow_Purple
+  rotate: true
+  xy: 294, 402
+  size: 50, 205
+  orig: 50, 205
+  offset: 0, 0
+  index: -1
+Arrow_Red
+  rotate: true
+  xy: 294, 457
+  size: 50, 213
+  orig: 50, 213
+  offset: 0, 0
+  index: -1
+Arrow_RedPurple
+  rotate: false
+  xy: 461, 175
+  size: 42, 175
+  orig: 42, 175
+  offset: 0, 0
+  index: -1
+Arrow_Yellow
+  rotate: true
+  xy: 114, 110
+  size: 42, 192
+  orig: 42, 192
+  offset: 0, 0
+  index: -1
+CellPhoneOff
+  rotate: false
+  xy: 375, 199
+  size: 81, 151
+  orig: 104, 155
+  offset: 8, 0
+  index: -1
+CellPhoneOn
+  rotate: false
+  xy: 5, 44
+  size: 104, 155
+  orig: 104, 155
+  offset: 0, 0
+  index: -1
+Feather_Behind
+  rotate: true
+  xy: 114, 27
+  size: 31, 179
+  orig: 31, 179
+  offset: 0, 0
+  index: -1
+Feather_OnTop
+  rotate: true
+  xy: 318, 144
+  size: 50, 135
+  orig: 50, 135
+  offset: 0, 0
+  index: -1
+RodLow
+  rotate: true
+  xy: 5, 204
+  size: 36, 329
+  orig: 36, 329
+  offset: 0, 0
+  index: -1
+RodUp
+  rotate: true
+  xy: 5, 245
+  size: 71, 365
+  orig: 71, 365
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 5, 321
+  size: 284, 186
+  orig: 284, 186
+  offset: 0, 0
+  index: -1

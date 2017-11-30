@@ -1,0 +1,313 @@
+
+TimmyAdvChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow_Right_Front_2
+  rotate: false
+  xy: 215, 20
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Arm_Right_Front_1
+  rotate: true
+  xy: 447, 14
+  size: 17, 48
+  orig: 17, 48
+  offset: 0, 0
+  index: -1
+Cannon_Front
+  rotate: true
+  xy: 245, 5
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+Cannon_Side
+  rotate: true
+  xy: 331, 7
+  size: 62, 83
+  orig: 63, 89
+  offset: 1, 0
+  index: -1
+Cannon_Side_Hole
+  rotate: true
+  xy: 199, 7
+  size: 40, 11
+  orig: 43, 11
+  offset: 1, 0
+  index: -1
+Chair_Back
+  rotate: false
+  xy: 329, 270
+  size: 172, 237
+  orig: 173, 237
+  offset: 1, 0
+  index: -1
+Chair_Front_1
+  rotate: true
+  xy: 5, 105
+  size: 170, 235
+  orig: 171, 235
+  offset: 0, 0
+  index: -1
+Chair_Side
+  rotate: false
+  xy: 5, 280
+  size: 319, 227
+  orig: 319, 227
+  offset: 0, 0
+  index: -1
+Eyebrows_Side
+  rotate: false
+  xy: 500, 231
+  size: 7, 34
+  orig: 7, 34
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 199, 52
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+Hand_Right_Front_1
+  rotate: true
+  xy: 419, 12
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+Hat_Back
+  rotate: false
+  xy: 5, 6
+  size: 189, 94
+  orig: 189, 94
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: true
+  xy: 245, 83
+  size: 192, 79
+  orig: 192, 81
+  offset: 0, 1
+  index: -1
+Head_Side
+  rotate: false
+  xy: 329, 74
+  size: 166, 191
+  orig: 173, 191
+  offset: 1, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 419, 36
+  size: 80, 33
+  orig: 80, 33
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 245, 74
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: false
+  xy: 215, 9
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+
+TimmyAdvChar2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow_Right_Side_2
+  rotate: true
+  xy: 260, 41
+  size: 13, 25
+  orig: 14, 26
+  offset: 1, 1
+  index: -1
+ArmUp_Right_Front_2
+  rotate: false
+  xy: 361, 301
+  size: 10, 32
+  orig: 12, 32
+  offset: 1, 0
+  index: -1
+ArmUp_Right_Side_2
+  rotate: false
+  xy: 378, 354
+  size: 12, 32
+  orig: 14, 33
+  offset: 1, 1
+  index: -1
+Arm_Right_Side_1
+  rotate: false
+  xy: 480, 426
+  size: 27, 33
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: true
+  xy: 290, 106
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 328, 391
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+CannonBall
+  rotate: false
+  xy: 438, 422
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+CannonBall2
+  rotate: false
+  xy: 290, 21
+  size: 81, 80
+  orig: 83, 84
+  offset: 1, 1
+  index: -1
+ChairBack_Side
+  rotate: false
+  xy: 5, 448
+  size: 318, 59
+  orig: 319, 60
+  offset: 0, 0
+  index: -1
+ChairWheelBig_Side
+  rotate: false
+  xy: 172, 78
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+ChairWheelSmall_Side
+  rotate: false
+  xy: 156, 27
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Chair_Front_2
+  rotate: false
+  xy: 176, 300
+  size: 146, 143
+  orig: 146, 144
+  offset: 0, 1
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 405, 426
+  size: 37, 28
+  orig: 73, 31
+  offset: 0, 2
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 327, 338
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: true
+  xy: 441, 464
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: true
+  xy: 327, 300
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: true
+  xy: 207, 32
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+Feet_Front
+  rotate: false
+  xy: 328, 468
+  size: 108, 39
+  orig: 108, 39
+  offset: 0, 0
+  index: -1
+Hat_Side
+  rotate: false
+  xy: 176, 196
+  size: 193, 99
+  orig: 193, 99
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 87
+  size: 162, 169
+  orig: 162, 169
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 261
+  size: 166, 182
+  orig: 167, 182
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: false
+  xy: 260, 23
+  size: 25, 13
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: false
+  xy: 156, 5
+  size: 31, 17
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: false
+  xy: 260, 59
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: false
+  xy: 405, 408
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+PirateFlag
+  rotate: true
+  xy: 5, 13
+  size: 69, 146
+  orig: 70, 146
+  offset: 0, 0
+  index: -1

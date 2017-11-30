@@ -1,0 +1,439 @@
+
+ClydeSciChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alien-Eye-copy-3
+  rotate: true
+  xy: 355, 24
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Arm_Front_1
+  rotate: true
+  xy: 265, 315
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: true
+  xy: 5, 8
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+BicycleHelmet_Back
+  rotate: false
+  xy: 5, 315
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+BicycleHelmet_Side_1
+  rotate: true
+  xy: 195, 138
+  size: 172, 181
+  orig: 172, 181
+  offset: 0, 0
+  index: -1
+BicycleHelmet_Side_2
+  rotate: true
+  xy: 381, 162
+  size: 148, 122
+  orig: 148, 122
+  offset: 0, 0
+  index: -1
+BicycleHelmets_Front
+  rotate: false
+  xy: 5, 126
+  size: 185, 184
+  orig: 185, 184
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 5, 39
+  size: 112, 82
+  orig: 112, 82
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 122, 33
+  size: 88, 66
+  orig: 88, 66
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 492, 90
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 341, 53
+  size: 80, 34
+  orig: 80, 34
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: false
+  xy: 386, 316
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: false
+  xy: 307, 5
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Facehugger
+  rotate: false
+  xy: 195, 61
+  size: 141, 72
+  orig: 145, 75
+  offset: 1, 1
+  index: -1
+Hand_Back
+  rotate: false
+  xy: 356, 315
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 324, 315
+  size: 27, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: true
+  xy: 475, 318
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+LobsterAntennae_Left
+  rotate: false
+  xy: 65, 24
+  size: 51, 10
+  orig: 51, 10
+  offset: 0, 0
+  index: -1
+LobsterArm
+  rotate: false
+  xy: 121, 10
+  size: 65, 18
+  orig: 65, 18
+  offset: 0, 0
+  index: -1
+LobsterBody
+  rotate: false
+  xy: 202, 315
+  size: 58, 23
+  orig: 58, 29
+  offset: 0, 4
+  index: -1
+LobsterTail
+  rotate: false
+  xy: 428, 319
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+MotorcycleHelmet_Front
+  rotate: true
+  xy: 202, 343
+  size: 164, 179
+  orig: 164, 179
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: true
+  xy: 492, 57
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: true
+  xy: 492, 117
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: false
+  xy: 65, 12
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: false
+  xy: 355, 12
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: true
+  xy: 492, 26
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+Tail_Front
+  rotate: false
+  xy: 193, 10
+  size: 109, 46
+  orig: 109, 46
+  offset: 0, 0
+  index: -1
+Vizor_Front_1
+  rotate: true
+  xy: 381, 6
+  size: 151, 106
+  orig: 151, 106
+  offset: 0, 0
+  index: -1
+Vizor_Front_2
+  rotate: true
+  xy: 386, 353
+  size: 154, 121
+  orig: 154, 121
+  offset: 0, 0
+  index: -1
+
+ClydeSciChar2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Side_1
+  rotate: false
+  xy: 305, 310
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: true
+  xy: 208, 219
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 346, 269
+  size: 128, 80
+  orig: 128, 80
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 173, 183
+  size: 94, 31
+  orig: 94, 31
+  offset: 0, 0
+  index: -1
+Collar_Side
+  rotate: false
+  xy: 156, 9
+  size: 74, 11
+  orig: 74, 11
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 208, 249
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: false
+  xy: 346, 218
+  size: 83, 46
+  orig: 83, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 434, 182
+  size: 82, 46
+  orig: 82, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: true
+  xy: 292, 127
+  size: 82, 46
+  orig: 82, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: true
+  xy: 292, 40
+  size: 82, 46
+  orig: 82, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: false
+  xy: 208, 300
+  size: 92, 45
+  orig: 92, 45
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 343, 53
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: false
+  xy: 387, 54
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: true
+  xy: 343, 10
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookBack
+  rotate: true
+  xy: 299, 257
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: true
+  xy: 299, 214
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 346
+  size: 167, 159
+  orig: 167, 159
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 177, 350
+  size: 164, 155
+  orig: 164, 155
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 346, 354
+  size: 152, 151
+  orig: 152, 151
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 173, 219
+  size: 122, 30
+  orig: 122, 30
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 479, 279
+  size: 70, 22
+  orig: 70, 22
+  offset: 0, 0
+  index: -1
+LobsterAntennae_Right
+  rotate: true
+  xy: 485, 214
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+LobsterClaw
+  rotate: true
+  xy: 336, 317
+  size: 28, 5
+  orig: 28, 5
+  offset: 0, 0
+  index: -1
+LobsterLegs
+  rotate: false
+  xy: 343, 102
+  size: 54, 54
+  orig: 67, 59
+  offset: 7, 1
+  index: -1
+LobsterLegs2
+  rotate: false
+  xy: 346, 161
+  size: 55, 52
+  orig: 67, 59
+  offset: 5, 2
+  index: -1
+MotorcycleHelmet_Back
+  rotate: true
+  xy: 5, 11
+  size: 167, 146
+  orig: 167, 146
+  offset: 0, 0
+  index: -1
+MotorcycleHelmet_Side
+  rotate: false
+  xy: 5, 183
+  size: 163, 158
+  orig: 163, 158
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 305, 300
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: false
+  xy: 263, 228
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: true
+  xy: 406, 185
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+Vizor_Side
+  rotate: true
+  xy: 156, 25
+  size: 153, 131
+  orig: 153, 131
+  offset: 0, 0
+  index: -1

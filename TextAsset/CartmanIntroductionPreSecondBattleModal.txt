@@ -1,0 +1,26 @@
+{
+  "id": 6,
+  "actorId": "Cartman",
+  "threadTitle": "Finish him off!",
+  "messages": [
+    {
+      "id": 1,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_VM_FIRST_CARTMAN_BEAT_STAN",
+      "messageAudioKey": "",
+      "forcedMessage": true,
+      "playNext": true,
+      "delay": 0.0
+    },
+    {
+      "id": 2,
+      "actorId": "Stan",
+      "messageTextKey": "DF_VM_FIRST_STAN_RATS",
+      "messageAudioKey": "",
+      "forcedMessage": true,
+      "playNext": false,
+      "delay": 0.0
+    }
+
+  ]
+}

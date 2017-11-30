@@ -1,0 +1,47 @@
+{
+  "Dialog_1": 
+  {
+    "Position": 2,
+    "LocalizationKey": "DF_TUTORIAL_SHOWDOWN1",
+    "SkeletonData": "StanAdvCharPF",
+    "AnimationName": "Idle_Down",
+    "TypingDelay": 3.0,
+    "Type": 1,
+    "LoopAnimation": true,
+    "PauseOnDialogPause": true,
+	"CharacterActiveAfterDialogEnd": true,
+	"AnimateAfterDialogEnd": true,
+	"AnimationNameAfterDialogEnd": "Idle_Down",
+	"LoopAnimationAfterDialogEnd": true
+  },
+  "Dialog_2": 
+  {
+    "Position": 1,
+    "LocalizationKey": "DF_TUTORIAL_SHOWDOWN2",
+    "SkeletonData": "CartmanAdvCharPF",
+    "AnimationName": "Idle_Down",
+    "TypingDelay": 3.0,
+    "Type": 1,
+    "LoopAnimation": true,
+    "PauseOnDialogPause": true,
+	"CharacterActiveAfterDialogEnd": true,
+	"AnimateAfterDialogEnd": true,
+	"AnimationNameAfterDialogEnd": "Idle_Down",
+	"LoopAnimationAfterDialogEnd": true
+  },
+  "Dialog_3": 
+  {
+    "Position": 2,
+    "LocalizationKey": "DF_TUTORIAL_SHOWDOWN3",
+    "SkeletonData": "StanAdvCharPF",
+    "AnimationName": "Idle_Down",
+    "TypingDelay": 3.0,
+    "Type": 1,
+    "LoopAnimation": true,
+    "PauseOnDialogPause": true,
+	"CharacterActiveAfterDialogEnd": true,
+	"AnimateAfterDialogEnd": true,
+	"AnimationNameAfterDialogEnd": "Idle_Down",
+	"LoopAnimationAfterDialogEnd": true
+  }
+}

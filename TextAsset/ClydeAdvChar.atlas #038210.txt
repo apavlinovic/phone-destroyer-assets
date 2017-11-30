@@ -1,0 +1,76 @@
+
+ClydeAdvChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Side_2
+  rotate: true
+  xy: 357, 38
+  size: 55, 83
+  orig: 55, 83
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 284, 343
+  size: 187, 163
+  orig: 187, 163
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 425, 312
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: true
+  xy: 357, 99
+  size: 156, 97
+  orig: 156, 97
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 284, 261
+  size: 135, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: false
+  xy: 6, 64
+  size: 345, 179
+  orig: 345, 179
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 249
+  size: 272, 257
+  orig: 272, 257
+  offset: 0, 0
+  index: -1
+HookHand_Front
+  rotate: true
+  xy: 214, 6
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 6, 10
+  size: 202, 48
+  orig: 202, 48
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: true
+  xy: 477, 439
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1

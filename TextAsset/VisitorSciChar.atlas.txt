@@ -1,0 +1,237 @@
+
+VisitorSciChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow_Front
+  rotate: false
+  xy: 436, 355
+  size: 17, 105
+  orig: 17, 105
+  offset: 0, 0
+  index: -1
+ArmLow_Side_Behind
+  rotate: false
+  xy: 355, 141
+  size: 15, 148
+  orig: 15, 148
+  offset: 0, 0
+  index: -1
+ArmLow_Side_OnTop
+  rotate: false
+  xy: 333, 140
+  size: 17, 149
+  orig: 17, 149
+  offset: 0, 0
+  index: -1
+ArmUp_Front
+  rotate: false
+  xy: 261, 127
+  size: 20, 162
+  orig: 20, 162
+  offset: 0, 0
+  index: -1
+ArmUp_Side_Behind
+  rotate: false
+  xy: 310, 135
+  size: 18, 154
+  orig: 18, 154
+  offset: 0, 0
+  index: -1
+ArmUp_Side_OnTop
+  rotate: false
+  xy: 286, 134
+  size: 19, 155
+  orig: 19, 155
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 160, 73
+  size: 42, 214
+  orig: 42, 214
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 112, 65
+  size: 43, 218
+  orig: 43, 218
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 222, 465
+  size: 42, 232
+  orig: 42, 232
+  offset: 0, 0
+  index: -1
+Eyes_Closed_Front
+  rotate: false
+  xy: 375, 126
+  size: 101, 56
+  orig: 101, 56
+  offset: 0, 0
+  index: -1
+Eyes_Closed_Side
+  rotate: false
+  xy: 458, 392
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+Eyes_Open_Front
+  rotate: false
+  xy: 170, 12
+  size: 100, 56
+  orig: 100, 56
+  offset: 0, 0
+  index: -1
+Eyes_Open_Side
+  rotate: false
+  xy: 119, 5
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+Eyes_Squinting_Front
+  rotate: true
+  xy: 375, 187
+  size: 102, 58
+  orig: 102, 58
+  offset: 0, 0
+  index: -1
+Eyes_Squinting_Side
+  rotate: false
+  xy: 459, 451
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+FistUp_Side_Behind
+  rotate: true
+  xy: 458, 358
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+FistUp_Side_OnTop
+  rotate: false
+  xy: 409, 296
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 62
+  size: 102, 221
+  orig: 102, 221
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 288
+  size: 106, 219
+  orig: 106, 219
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 116, 292
+  size: 101, 215
+  orig: 101, 215
+  offset: 0, 0
+  index: -1
+LaserPistol
+  rotate: false
+  xy: 222, 354
+  size: 158, 106
+  orig: 158, 106
+  offset: 0, 0
+  index: -1
+LaserPistol_Back
+  rotate: true
+  xy: 5, 14
+  size: 43, 109
+  orig: 43, 109
+  offset: 0, 0
+  index: -1
+LaserPistol_Front
+  rotate: false
+  xy: 385, 354
+  size: 46, 106
+  orig: 46, 106
+  offset: 0, 0
+  index: -1
+LegLow_Front
+  rotate: false
+  xy: 207, 105
+  size: 22, 182
+  orig: 22, 182
+  offset: 0, 0
+  index: -1
+LegLow_Side_OnTop
+  rotate: true
+  xy: 222, 324
+  size: 25, 182
+  orig: 25, 182
+  offset: 0, 0
+  index: -1
+LegUp_Front
+  rotate: false
+  xy: 234, 126
+  size: 22, 163
+  orig: 22, 163
+  offset: 0, 0
+  index: -1
+LegUp_Side_OnTop
+  rotate: true
+  xy: 222, 294
+  size: 25, 163
+  orig: 25, 163
+  offset: 0, 0
+  index: -1
+Mouth_Side_Basic_2
+  rotate: true
+  xy: 390, 302
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+mth10_Front
+  rotate: false
+  xy: 207, 90
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+mth10_Side
+  rotate: false
+  xy: 234, 111
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+mth21_Front
+  rotate: false
+  xy: 5, 6
+  size: 22, 3
+  orig: 22, 3
+  offset: 0, 0
+  index: -1
+mth4_Front
+  rotate: false
+  xy: 207, 75
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+mth4_Side
+  rotate: false
+  xy: 398, 311
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1

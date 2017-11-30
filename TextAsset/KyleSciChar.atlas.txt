@@ -1,0 +1,83 @@
+
+KyleSciChar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_2
+  rotate: false
+  xy: 792, 860
+  size: 89, 64
+  orig: 90, 65
+  offset: 0, 0
+  index: -1
+Backpack_Back
+  rotate: false
+  xy: 6, 596
+  size: 205, 380
+  orig: 205, 380
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 6, 468
+  size: 181, 122
+  orig: 181, 123
+  offset: 0, 0
+  index: -1
+Bountyhuntergun
+  rotate: false
+  xy: 380, 649
+  size: 122, 70
+  orig: 126, 74
+  offset: 2, 1
+  index: -1
+Cape_Front
+  rotate: true
+  xy: 217, 618
+  size: 101, 157
+  orig: 102, 159
+  offset: 1, 1
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 6, 386
+  size: 134, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: true
+  xy: 146, 420
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 6, 341
+  size: 47, 39
+  orig: 49, 39
+  offset: 1, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 217, 725
+  size: 294, 251
+  orig: 295, 252
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 792, 930
+  size: 184, 46
+  orig: 184, 46
+  offset: 0, 0
+  index: -1
+WeldingMask_Front
+  rotate: true
+  xy: 517, 733
+  size: 243, 269
+  orig: 243, 269
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+StanFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Side_2
+  rotate: false
+  xy: 259, 257
+  size: 42, 83
+  orig: 42, 83
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 6, 37
+  size: 177, 142
+  orig: 177, 142
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 6, 6
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 259, 346
+  size: 135, 77
+  orig: 135, 77
+  offset: 0, 0
+  index: -1
+Hand_HoldingBat1_Behind
+  rotate: true
+  xy: 259, 204
+  size: 47, 37
+  orig: 49, 40
+  offset: 1, 3
+  index: -1
+Hand_HoldingBat1_InFront
+  rotate: false
+  xy: 307, 306
+  size: 45, 34
+  orig: 49, 40
+  offset: 3, 2
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 400, 382
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 185
+  size: 247, 314
+  orig: 247, 314
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 189, 62
+  size: 117, 39
+  orig: 117, 39
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 489, 462
+  size: 37, 8
+  orig: 37, 8
+  offset: 0, 0
+  index: -1
+WoodSword_Front
+  rotate: false
+  xy: 259, 429
+  size: 224, 70
+  orig: 224, 70
+  offset: 0, 0
+  index: -1

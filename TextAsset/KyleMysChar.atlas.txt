@@ -1,0 +1,342 @@
+
+KyleMysChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: false
+  xy: 344, 83
+  size: 19, 46
+  orig: 19, 46
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: false
+  xy: 484, 170
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: true
+  xy: 368, 80
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: true
+  xy: 410, 133
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: true
+  xy: 419, 287
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 136, 233
+  size: 93, 76
+  orig: 93, 76
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 285, 223
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 210, 16
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: true
+  xy: 439, 434
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+Eyes_Front_Aim
+  rotate: false
+  xy: 439, 389
+  size: 68, 40
+  orig: 70, 40
+  offset: 2, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: true
+  xy: 240, 157
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: false
+  xy: 410, 209
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: false
+  xy: 410, 243
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 365, 224
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: true
+  xy: 240, 82
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: false
+  xy: 285, 134
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: false
+  xy: 285, 179
+  size: 79, 39
+  orig: 79, 39
+  offset: 0, 0
+  index: -1
+Eyes_Side_Aim
+  rotate: true
+  xy: 240, 298
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: true
+  xy: 469, 132
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: false
+  xy: 406, 74
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: true
+  xy: 369, 185
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: true
+  xy: 369, 148
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookBack
+  rotate: false
+  xy: 368, 107
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: true
+  xy: 468, 95
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: false
+  xy: 240, 335
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Hand_Back
+  rotate: false
+  xy: 340, 13
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 398, 47
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Hand_Palm_Side
+  rotate: false
+  xy: 405, 107
+  size: 27, 21
+  orig: 27, 22
+  offset: 0, 1
+  index: -1
+Hand_Side
+  rotate: false
+  xy: 437, 107
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+Hat_Back
+  rotate: false
+  xy: 281, 404
+  size: 153, 103
+  orig: 153, 103
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: true
+  xy: 5, 72
+  size: 153, 100
+  orig: 153, 100
+  offset: 0, 0
+  index: -1
+Hat_Side
+  rotate: false
+  xy: 281, 299
+  size: 133, 100
+  orig: 133, 100
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 110, 99
+  size: 125, 126
+  orig: 127, 126
+  offset: 1, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 230
+  size: 126, 133
+  orig: 140, 140
+  offset: 7, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 5, 368
+  size: 129, 139
+  orig: 150, 151
+  offset: 9, 0
+  index: -1
+JewStar_1
+  rotate: false
+  xy: 367, 48
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Jewish Star
+  rotate: false
+  xy: 139, 377
+  size: 137, 130
+  orig: 148, 166
+  offset: 5, 18
+  index: -1
+Knot_Back
+  rotate: false
+  xy: 340, 40
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 109, 11
+  size: 96, 24
+  orig: 96, 24
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 487, 223
+  size: 59, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+Scroll Case
+  rotate: false
+  xy: 110, 40
+  size: 117, 54
+  orig: 117, 54
+  offset: 0, 0
+  index: -1
+Scroll Case Side
+  rotate: false
+  xy: 234, 236
+  size: 46, 57
+  orig: 46, 71
+  offset: 0, 7
+  index: -1
+Scroll page empty
+  rotate: true
+  xy: 410, 160
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+Scroll page1
+  rotate: false
+  xy: 232, 24
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+Scroll page2
+  rotate: true
+  xy: 285, 79
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+Scroll page3
+  rotate: true
+  xy: 281, 24
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+Scroll_Left
+  rotate: true
+  xy: 5, 9
+  size: 58, 99
+  orig: 58, 99
+  offset: 0, 0
+  index: -1
+Scroll_Right
+  rotate: true
+  xy: 139, 314
+  size: 58, 96
+  orig: 59, 99
+  offset: 1, 2
+  index: -1

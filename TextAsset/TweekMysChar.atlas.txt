@@ -1,0 +1,90 @@
+
+TweekMysChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_2
+  rotate: false
+  xy: 46, 36
+  size: 68, 81
+  orig: 68, 81
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 5, 122
+  size: 174, 127
+  orig: 174, 127
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 5, 76
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 119, 5
+  size: 153, 100
+  orig: 153, 100
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 425, 70
+  size: 122, 68
+  orig: 122, 68
+  offset: 0, 0
+  index: -1
+Feet_Front
+  rotate: true
+  xy: 316, 104
+  size: 168, 104
+  orig: 168, 104
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: true
+  xy: 5, 22
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 254
+  size: 306, 248
+  orig: 306, 248
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 425, 238
+  size: 34, 7
+  orig: 34, 7
+  offset: 0, 0
+  index: -1
+Pitch_Fork
+  rotate: false
+  xy: 438, 197
+  size: 61, 305
+  orig: 61, 305
+  offset: 0, 0
+  index: -1
+Tail_Back
+  rotate: false
+  xy: 316, 277
+  size: 117, 225
+  orig: 117, 225
+  offset: 0, 0
+  index: -1
+Wing_Side_Blurred
+  rotate: true
+  xy: 184, 110
+  size: 139, 119
+  orig: 139, 119
+  offset: 0, 0
+  index: -1

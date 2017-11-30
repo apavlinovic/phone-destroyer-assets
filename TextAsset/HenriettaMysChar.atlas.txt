@@ -1,0 +1,412 @@
+
+HenriettaMysChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: true
+  xy: 343, 310
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: true
+  xy: 40, 7
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: true
+  xy: 5, 5
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: true
+  xy: 393, 312
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 343, 425
+  size: 118, 82
+  orig: 118, 82
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 343, 338
+  size: 118, 82
+  orig: 118, 82
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 182, 300
+  size: 93, 68
+  orig: 93, 68
+  offset: 0, 0
+  index: -1
+CigaretteHolder_Front
+  rotate: true
+  xy: 466, 376
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+CigaretteHolder_Side
+  rotate: true
+  xy: 327, 311
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+Cigarette_Ash
+  rotate: true
+  xy: 500, 388
+  size: 10, 7
+  orig: 11, 9
+  offset: 1, 1
+  index: -1
+Cigarette_Fire
+  rotate: false
+  xy: 501, 441
+  size: 6, 5
+  orig: 8, 7
+  offset: 1, 1
+  index: -1
+Cigarette_Front
+  rotate: false
+  xy: 363, 293
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Cigarette_Glow
+  rotate: false
+  xy: 346, 269
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Cigarette_Side
+  rotate: true
+  xy: 500, 370
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+Eyebrow_Front
+  rotate: true
+  xy: 442, 312
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+Eyes_Front_01
+  rotate: false
+  xy: 161, 5
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+Eyes_Front_02
+  rotate: false
+  xy: 168, 250
+  size: 85, 45
+  orig: 85, 45
+  offset: 0, 0
+  index: -1
+Eyes_Front_02_LookDown
+  rotate: false
+  xy: 161, 150
+  size: 85, 45
+  orig: 85, 45
+  offset: 0, 0
+  index: -1
+Eyes_Front_02_LookSide
+  rotate: false
+  xy: 161, 100
+  size: 85, 45
+  orig: 85, 45
+  offset: 0, 0
+  index: -1
+Eyes_Front_03
+  rotate: false
+  xy: 168, 200
+  size: 85, 45
+  orig: 85, 45
+  offset: 0, 0
+  index: -1
+Eyes_Front_04
+  rotate: false
+  xy: 161, 52
+  size: 82, 43
+  orig: 82, 43
+  offset: 0, 0
+  index: -1
+Eyes_Front_05
+  rotate: true
+  xy: 466, 437
+  size: 70, 30
+  orig: 70, 30
+  offset: 0, 0
+  index: -1
+Eyes_Front_06
+  rotate: true
+  xy: 258, 226
+  size: 69, 11
+  orig: 69, 11
+  offset: 0, 0
+  index: -1
+Eyes_Side_1
+  rotate: false
+  xy: 248, 52
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+Eyes_Side_2
+  rotate: true
+  xy: 247, 5
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Eyes_Side_3
+  rotate: false
+  xy: 280, 322
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Eyes_Side_4
+  rotate: false
+  xy: 280, 273
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+Eyes_Side_5
+  rotate: true
+  xy: 466, 337
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+Eyes_Side_6
+  rotate: true
+  xy: 168, 321
+  size: 32, 9
+  orig: 32, 9
+  offset: 0, 0
+  index: -1
+Hand_Front_1
+  rotate: false
+  xy: 274, 241
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Hand_Front_2
+  rotate: true
+  xy: 305, 242
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Hand_Front_2_Finger
+  rotate: false
+  xy: 168, 301
+  size: 9, 15
+  orig: 10, 16
+  offset: 1, 1
+  index: -1
+Hand_Front_3
+  rotate: true
+  xy: 113, 5
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Hand_Front_3_Finger
+  rotate: true
+  xy: 258, 207
+  size: 14, 8
+  orig: 15, 10
+  offset: 1, 1
+  index: -1
+Head_Back
+  rotate: false
+  xy: 182, 373
+  size: 156, 134
+  orig: 156, 134
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 216
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 5, 358
+  size: 172, 149
+  orig: 172, 149
+  offset: 0, 0
+  index: -1
+Legs_Back
+  rotate: true
+  xy: 5, 30
+  size: 181, 49
+  orig: 181, 49
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 59, 30
+  size: 181, 49
+  orig: 181, 49
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 113, 34
+  size: 177, 43
+  orig: 177, 43
+  offset: 0, 0
+  index: -1
+Mouth_Front_01
+  rotate: true
+  xy: 335, 256
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+Mouth_Front_02
+  rotate: true
+  xy: 501, 467
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Mouth_Front_03
+  rotate: true
+  xy: 80, 5
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+Mouth_Front_04
+  rotate: false
+  xy: 500, 420
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+Mouth_Front_05
+  rotate: true
+  xy: 274, 222
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+Mouth_Front_06
+  rotate: false
+  xy: 461, 318
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+Mouth_Front_07
+  rotate: true
+  xy: 143, 11
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+Mouth_Front_08
+  rotate: true
+  xy: 501, 488
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Mouth_Front_09
+  rotate: false
+  xy: 366, 274
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Mouth_Side_01
+  rotate: true
+  xy: 501, 451
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_02
+  rotate: true
+  xy: 485, 320
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+Mouth_Side_03
+  rotate: true
+  xy: 500, 403
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+Mouth_Side_04
+  rotate: false
+  xy: 271, 205
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Mouth_Side_05
+  rotate: true
+  xy: 342, 291
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+Mouth_Side_06
+  rotate: true
+  xy: 327, 273
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Mouth_Side_07
+  rotate: false
+  xy: 95, 10
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+Mouth_Side_08
+  rotate: true
+  xy: 288, 207
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+Mouth_Side_09
+  rotate: false
+  xy: 327, 291
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1

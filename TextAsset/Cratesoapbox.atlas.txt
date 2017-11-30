@@ -1,0 +1,146 @@
+
+Cratesoapbox.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Behind
+  rotate: true
+  xy: 165, 159
+  size: 92, 68
+  orig: 92, 68
+  offset: 0, 0
+  index: -1
+BoardWithHole
+  rotate: false
+  xy: 110, 75
+  size: 74, 17
+  orig: 74, 17
+  offset: 0, 0
+  index: -1
+BoxBase
+  rotate: false
+  xy: 5, 79
+  size: 100, 69
+  orig: 100, 69
+  offset: 0, 0
+  index: -1
+BrokenBoard
+  rotate: false
+  xy: 174, 6
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+FrontBoard1
+  rotate: false
+  xy: 97, 34
+  size: 74, 16
+  orig: 74, 16
+  offset: 0, 0
+  index: -1
+FrontBoard2
+  rotate: false
+  xy: 95, 13
+  size: 74, 16
+  orig: 74, 16
+  offset: 0, 0
+  index: -1
+FrontBoard3
+  rotate: false
+  xy: 97, 55
+  size: 84, 15
+  orig: 84, 15
+  offset: 0, 0
+  index: -1
+FrontFace_Left_1
+  rotate: true
+  xy: 218, 104
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+FrontFace_Left_2
+  rotate: true
+  xy: 110, 97
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+FrontFace_Right_1
+  rotate: false
+  xy: 189, 55
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+FrontFace_Right_2
+  rotate: false
+  xy: 165, 113
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+HeadBoard_Front
+  rotate: true
+  xy: 165, 97
+  size: 11, 46
+  orig: 11, 46
+  offset: 0, 0
+  index: -1
+HeadBoard_Front_Behind
+  rotate: false
+  xy: 238, 213
+  size: 8, 38
+  orig: 8, 38
+  offset: 0, 0
+  index: -1
+PileOfWood
+  rotate: false
+  xy: 5, 153
+  size: 155, 98
+  orig: 155, 98
+  offset: 0, 0
+  index: -1
+SideBoardDamaged
+  rotate: false
+  xy: 5, 5
+  size: 24, 69
+  orig: 24, 69
+  offset: 0, 0
+  index: -1
+TopBoard1
+  rotate: false
+  xy: 34, 43
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+TopBoard2
+  rotate: false
+  xy: 34, 6
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+TopBoard_1
+  rotate: false
+  xy: 176, 27
+  size: 59, 23
+  orig: 59, 23
+  offset: 0, 0
+  index: -1
+WoodSpec1
+  rotate: true
+  xy: 238, 194
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+WoodSpec2
+  rotate: true
+  xy: 217, 8
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1

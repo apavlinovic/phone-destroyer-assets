@@ -1,0 +1,237 @@
+
+IkeFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: true
+  xy: 402, 165
+  size: 16, 28
+  orig: 17, 29
+  offset: 1, 1
+  index: -1
+Arm_Front_2
+  rotate: false
+  xy: 395, 18
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+Arm_Side
+  rotate: false
+  xy: 439, 67
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: true
+  xy: 444, 357
+  size: 73, 55
+  orig: 73, 55
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: true
+  xy: 444, 435
+  size: 72, 63
+  orig: 72, 63
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 431, 295
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 431, 269
+  size: 47, 21
+  orig: 52, 34
+  offset: 2, 4
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 483, 249
+  size: 41, 24
+  orig: 52, 34
+  offset: 6, 4
+  index: -1
+Eyes_Side_Closed
+  rotate: true
+  xy: 485, 321
+  size: 31, 22
+  orig: 36, 40
+  offset: 5, 7
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 395, 36
+  size: 27, 25
+  orig: 36, 40
+  offset: 9, 7
+  index: -1
+Hair_Back
+  rotate: true
+  xy: 402, 186
+  size: 72, 33
+  orig: 72, 33
+  offset: 0, 0
+  index: -1
+Hair_Front
+  rotate: false
+  xy: 393, 101
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Hand_Front_1
+  rotate: false
+  xy: 485, 303
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Hand_Open
+  rotate: false
+  xy: 440, 165
+  size: 19, 18
+  orig: 19, 19
+  offset: 0, 1
+  index: -1
+Hand_Side
+  rotate: true
+  xy: 200, 5
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 16
+  size: 125, 152
+  orig: 125, 152
+  offset: 0, 0
+  index: -1
+Head_Front_Bottom2
+  rotate: true
+  xy: 200, 22
+  size: 127, 66
+  orig: 127, 66
+  offset: 0, 0
+  index: -1
+Head_Front_Top
+  rotate: false
+  xy: 299, 263
+  size: 127, 95
+  orig: 127, 101
+  offset: 0, 2
+  index: -1
+Head_Side_Bottom
+  rotate: false
+  xy: 271, 87
+  size: 117, 49
+  orig: 117, 49
+  offset: 0, 0
+  index: -1
+Head_Side_Top
+  rotate: false
+  xy: 274, 165
+  size: 123, 93
+  orig: 123, 93
+  offset: 0, 0
+  index: -1
+Helmet_Back_1
+  rotate: false
+  xy: 151, 359
+  size: 140, 148
+  orig: 140, 148
+  offset: 0, 0
+  index: -1
+Helmet_Front
+  rotate: false
+  xy: 5, 173
+  size: 134, 156
+  orig: 134, 156
+  offset: 0, 0
+  index: -1
+Helmet_Front_2
+  rotate: false
+  xy: 151, 265
+  size: 143, 89
+  orig: 144, 89
+  offset: 0, 0
+  index: -1
+Helmet_Side
+  rotate: false
+  xy: 5, 334
+  size: 141, 173
+  orig: 142, 173
+  offset: 1, 0
+  index: -1
+Helmet_Side_3
+  rotate: true
+  xy: 144, 154
+  size: 106, 125
+  orig: 106, 125
+  offset: 0, 0
+  index: -1
+Horse
+  rotate: false
+  xy: 135, 5
+  size: 60, 144
+  orig: 61, 145
+  offset: 0, 0
+  index: -1
+Horse_Hit
+  rotate: false
+  xy: 296, 363
+  size: 143, 144
+  orig: 146, 145
+  offset: 1, 1
+  index: -1
+JoustingStick
+  rotate: true
+  xy: 274, 141
+  size: 19, 200
+  orig: 19, 200
+  offset: 0, 0
+  index: -1
+LegLeft_Front
+  rotate: false
+  xy: 395, 66
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+LegRight_Front
+  rotate: true
+  xy: 440, 188
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+Leg_Side
+  rotate: false
+  xy: 440, 234
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+Plume_Front_Back
+  rotate: false
+  xy: 349, 18
+  size: 41, 64
+  orig: 41, 66
+  offset: 0, 1
+  index: -1
+Plume_Side
+  rotate: false
+  xy: 271, 17
+  size: 73, 65
+  orig: 74, 66
+  offset: 0, 1
+  index: -1

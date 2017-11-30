@@ -1,0 +1,83 @@
+
+RandyMysChar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow_Side
+  rotate: false
+  xy: 6, 30
+  size: 55, 106
+  orig: 55, 106
+  offset: 0, 0
+  index: -1
+ArmUp_Side
+  rotate: true
+  xy: 246, 604
+  size: 55, 125
+  orig: 55, 125
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 516, 678
+  size: 221, 259
+  orig: 221, 259
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 6, 142
+  size: 230, 174
+  orig: 230, 174
+  offset: 0, 0
+  index: -1
+EyeBrows
+  rotate: false
+  xy: 377, 646
+  size: 55, 13
+  orig: 55, 13
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 743, 866
+  size: 139, 71
+  orig: 139, 71
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 743, 789
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+HeadBehind_Front
+  rotate: true
+  xy: 6, 322
+  size: 261, 231
+  orig: 261, 231
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 246, 665
+  size: 264, 272
+  orig: 264, 272
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 6, 589
+  size: 234, 348
+  orig: 234, 348
+  offset: 0, 0
+  index: -1
+Mouth_Front_A2
+  rotate: false
+  xy: 888, 913
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,419 @@
+
+CartmanSalesman.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_Left
+  rotate: true
+  xy: 567, 99
+  size: 117, 86
+  orig: 117, 86
+  offset: 0, 0
+  index: -1
+Arm_Front_Left_2
+  rotate: false
+  xy: 671, 466
+  size: 98, 63
+  orig: 98, 63
+  offset: 0, 0
+  index: -1
+Arm_Front_Left_3
+  rotate: true
+  xy: 885, 428
+  size: 114, 64
+  orig: 114, 64
+  offset: 0, 0
+  index: -1
+Arm_Front_Right
+  rotate: false
+  xy: 775, 441
+  size: 104, 101
+  orig: 104, 101
+  offset: 0, 0
+  index: -1
+Arm_Front_Right_2
+  rotate: true
+  xy: 955, 470
+  size: 93, 62
+  orig: 93, 62
+  offset: 0, 0
+  index: -1
+Arm_Front_Right_3
+  rotate: false
+  xy: 628, 394
+  size: 114, 66
+  orig: 114, 66
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 310, 486
+  size: 355, 200
+  orig: 355, 200
+  offset: 0, 0
+  index: -1
+Chair
+  rotate: false
+  xy: 6, 508
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Cowboys-VS-Indians-Box
+  rotate: true
+  xy: 909, 811
+  size: 173, 104
+  orig: 173, 104
+  offset: 0, 0
+  index: -1
+Eyebrows_Front_Left
+  rotate: true
+  xy: 659, 128
+  size: 49, 10
+  orig: 49, 10
+  offset: 0, 0
+  index: -1
+Eyebrows_Front_Right
+  rotate: false
+  xy: 955, 383
+  size: 55, 6
+  orig: 55, 6
+  offset: 0, 0
+  index: -1
+Eyebrows_Side
+  rotate: false
+  xy: 52, 11
+  size: 54, 8
+  orig: 54, 8
+  offset: 0, 0
+  index: -1
+Eyes_Front_BarelyOpen
+  rotate: false
+  xy: 471, 398
+  size: 151, 82
+  orig: 151, 82
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 301, 311
+  size: 154, 82
+  orig: 154, 82
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed2
+  rotate: false
+  xy: 301, 223
+  size: 154, 82
+  orig: 154, 82
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed3
+  rotate: false
+  xy: 604, 692
+  size: 143, 23
+  orig: 143, 23
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: false
+  xy: 307, 155
+  size: 145, 62
+  orig: 145, 62
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: true
+  xy: 671, 535
+  size: 151, 82
+  orig: 151, 82
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen_LookSide
+  rotate: false
+  xy: 461, 310
+  size: 151, 82
+  orig: 151, 82
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 159, 58
+  size: 148, 83
+  orig: 148, 83
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: false
+  xy: 461, 222
+  size: 146, 82
+  orig: 146, 82
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: true
+  xy: 759, 569
+  size: 146, 82
+  orig: 146, 82
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSideDown
+  rotate: true
+  xy: 847, 569
+  size: 146, 82
+  orig: 146, 82
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSideDown_Left
+  rotate: false
+  xy: 313, 67
+  size: 146, 82
+  orig: 146, 82
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide_Left
+  rotate: true
+  xy: 935, 569
+  size: 146, 82
+  orig: 146, 82
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: false
+  xy: 301, 399
+  size: 164, 81
+  orig: 164, 81
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 618, 310
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 613, 232
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+Fancy-Box
+  rotate: false
+  xy: 6, 25
+  size: 147, 116
+  orig: 147, 116
+  offset: 0, 0
+  index: -1
+FootSitting_Front
+  rotate: false
+  xy: 465, 93
+  size: 96, 123
+  orig: 96, 123
+  offset: 0, 0
+  index: -1
+HandOpen_Front
+  rotate: true
+  xy: 909, 721
+  size: 84, 65
+  orig: 84, 65
+  offset: 0, 0
+  index: -1
+HandPointing_Front
+  rotate: false
+  xy: 688, 231
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+Hand_Front_Left_1
+  rotate: true
+  xy: 955, 395
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+Hand_Front_Right_1
+  rotate: true
+  xy: 695, 309
+  size: 79, 56
+  orig: 79, 56
+  offset: 0, 0
+  index: -1
+HandsCrossed_Front_Left
+  rotate: false
+  xy: 584, 21
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1
+HandsCrossed_Front_Right
+  rotate: false
+  xy: 513, 11
+  size: 65, 76
+  orig: 65, 76
+  offset: 0, 0
+  index: -1
+Head_Down
+  rotate: false
+  xy: 604, 721
+  size: 299, 263
+  orig: 299, 289
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: true
+  xy: 6, 203
+  size: 299, 289
+  orig: 299, 289
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 310, 692
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: -1
+Keybard
+  rotate: false
+  xy: 759, 548
+  size: 158, 15
+  orig: 158, 15
+  offset: 0, 0
+  index: -1
+LegsSitting_Front
+  rotate: false
+  xy: 6, 147
+  size: 295, 50
+  orig: 295, 50
+  offset: 0, 0
+  index: -1
+Moustache_Front
+  rotate: true
+  xy: 852, 382
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+Mouth_Front_A
+  rotate: false
+  xy: 6, 6
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+Mouth_Front_A2
+  rotate: true
+  xy: 980, 726
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+Mouth_Front_D1
+  rotate: true
+  xy: 659, 183
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+Mouth_Front_D2
+  rotate: false
+  xy: 877, 397
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+Mouth_Front_E
+  rotate: false
+  xy: 229, 6
+  size: 53, 17
+  orig: 53, 17
+  offset: 0, 0
+  index: -1
+Mouth_Front_E_Open
+  rotate: false
+  xy: 159, 23
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 628, 472
+  size: 37, 8
+  orig: 37, 8
+  offset: 0, 0
+  index: -1
+Mouth_Front_O
+  rotate: false
+  xy: 686, 188
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Mouth_Front_O2
+  rotate: false
+  xy: 980, 777
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: true
+  xy: 927, 378
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: false
+  xy: 229, 29
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: false
+  xy: 877, 380
+  size: 43, 11
+  orig: 43, 11
+  offset: 0, 0
+  index: -1
+Mouth_Front_WideOpen
+  rotate: true
+  xy: 748, 415
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: false
+  xy: 686, 214
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+Mug
+  rotate: true
+  xy: 775, 384
+  size: 51, 71
+  orig: 51, 71
+  offset: 0, 0
+  index: -1
+Receipt-Machine
+  rotate: true
+  xy: 465, 6
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+TableTop
+  rotate: false
+  xy: 6, 990
+  size: 1012, 28
+  orig: 1012, 28
+  offset: 0, 0
+  index: -1

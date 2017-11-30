@@ -1,0 +1,20 @@
+
+TrashCan.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TrashCan
+  rotate: false
+  xy: 6, 6
+  size: 148, 212
+  orig: 148, 212
+  offset: 0, 0
+  index: -1
+TrashCan_Lid
+  rotate: true
+  xy: 160, 56
+  size: 162, 42
+  orig: 162, 42
+  offset: 0, 0
+  index: -1

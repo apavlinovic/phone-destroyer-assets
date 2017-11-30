@@ -1,0 +1,111 @@
+
+TimmyAdvChar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow_Right_Front_2
+  rotate: true
+  xy: 591, 758
+  size: 34, 47
+  orig: 35, 49
+  offset: 1, 1
+  index: -1
+ArmUp_Right_Front_2
+  rotate: true
+  xy: 6, 6
+  size: 18, 57
+  orig: 22, 58
+  offset: 2, 0
+  index: -1
+Arm_Right_Front_1
+  rotate: false
+  xy: 945, 931
+  size: 30, 87
+  orig: 30, 88
+  offset: 0, 1
+  index: -1
+Body_Front
+  rotate: false
+  xy: 321, 614
+  size: 154, 138
+  orig: 154, 138
+  offset: 0, 0
+  index: -1
+Cannon_Front
+  rotate: false
+  xy: 481, 606
+  size: 115, 146
+  orig: 117, 148
+  offset: 1, 1
+  index: -1
+Chair_Front_1
+  rotate: false
+  xy: 6, 591
+  size: 309, 427
+  orig: 311, 427
+  offset: 0, 0
+  index: -1
+Chair_Front_2
+  rotate: false
+  xy: 321, 758
+  size: 264, 260
+  orig: 265, 262
+  offset: 0, 2
+  index: -1
+Eyebrows_Side
+  rotate: false
+  xy: 278, 188
+  size: 12, 61
+  orig: 13, 61
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 6, 30
+  size: 83, 87
+  orig: 83, 87
+  offset: 0, 0
+  index: -1
+Feet_Front
+  rotate: false
+  xy: 591, 798
+  size: 197, 70
+  orig: 197, 71
+  offset: 0, 0
+  index: -1
+Hand_Right_Front_1
+  rotate: false
+  xy: 794, 827
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: false
+  xy: 591, 874
+  size: 348, 144
+  orig: 349, 148
+  offset: 0, 2
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 255
+  size: 302, 330
+  orig: 304, 330
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 321, 600
+  size: 36, 8
+  orig: 36, 8
+  offset: 0, 0
+  index: -1
+PirateFlag
+  rotate: true
+  xy: 6, 123
+  size: 126, 266
+  orig: 128, 266
+  offset: 0, 0
+  index: -1

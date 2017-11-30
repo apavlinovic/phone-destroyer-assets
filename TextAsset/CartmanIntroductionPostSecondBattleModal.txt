@@ -1,0 +1,16 @@
+{
+  "id": 7,
+  "actorId": "Cartman",
+  "threadTitle": "We showed him!",
+  "messages": [
+    {
+      "id": 1,
+      "actorId": "Stan",
+      "messageTextKey": "DF_VM_SECOND_STAN_RUN_AWAY",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 5.0
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+
+HeiditurnerAdvChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: true
+  xy: 259, 37
+  size: 19, 47
+  orig: 19, 47
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: false
+  xy: 352, 224
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: false
+  xy: 486, 475
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: true
+  xy: 466, 337
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+BeerBottle_Broken
+  rotate: true
+  xy: 159, 15
+  size: 19, 62
+  orig: 19, 62
+  offset: 0, 0
+  index: -1
+BeerBottle_Piece1
+  rotate: false
+  xy: 381, 255
+  size: 6, 16
+  orig: 6, 16
+  offset: 0, 0
+  index: -1
+BeerBottle_Piece2
+  rotate: true
+  xy: 291, 23
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+BeerBottle_Piece3
+  rotate: true
+  xy: 96, 6
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+BeerBottle_Piece4
+  rotate: true
+  xy: 433, 276
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+BeerBottle_Piece5
+  rotate: true
+  xy: 132, 6
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+BeerBottle_Piece6
+  rotate: true
+  xy: 32, 5
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 192, 198
+  size: 132, 73
+  orig: 132, 73
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: true
+  xy: 259, 61
+  size: 132, 68
+  orig: 132, 68
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 394, 440
+  size: 87, 67
+  orig: 87, 67
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 311, 37
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: true
+  xy: 362, 319
+  size: 79, 24
+  orig: 79, 24
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 394, 397
+  size: 72, 38
+  orig: 72, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: false
+  xy: 159, 39
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: false
+  xy: 391, 354
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 391, 311
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: false
+  xy: 86, 22
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: false
+  xy: 5, 22
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: true
+  xy: 464, 300
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: false
+  xy: 226, 5
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: true
+  xy: 471, 362
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: true
+  xy: 392, 274
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: true
+  xy: 471, 400
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Hair_Front_Behind
+  rotate: false
+  xy: 5, 65
+  size: 125, 134
+  orig: 125, 134
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 486, 450
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Hand_HoldingBat1_Behind
+  rotate: false
+  xy: 261, 13
+  size: 25, 19
+  orig: 25, 20
+  offset: 0, 1
+  index: -1
+Hand_HoldingBat1_InFront
+  rotate: false
+  xy: 334, 276
+  size: 24, 17
+  orig: 25, 20
+  offset: 1, 1
+  index: -1
+Hand_HoldingBat2
+  rotate: false
+  xy: 231, 49
+  size: 23, 19
+  orig: 25, 20
+  offset: 1, 0
+  index: -1
+Hand_Side
+  rotate: false
+  xy: 363, 276
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Hat_Back
+  rotate: false
+  xy: 206, 403
+  size: 183, 104
+  orig: 183, 104
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: false
+  xy: 5, 204
+  size: 182, 91
+  orig: 182, 91
+  offset: 0, 0
+  index: -1
+Hat_Side
+  rotate: false
+  xy: 5, 406
+  size: 196, 101
+  orig: 196, 101
+  offset: 0, 0
+  index: -1
+Hat_Side_Left
+  rotate: false
+  xy: 5, 300
+  size: 196, 101
+  orig: 196, 101
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 135, 73
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: true
+  xy: 206, 276
+  size: 122, 123
+  orig: 122, 123
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 334, 298
+  size: 100, 23
+  orig: 100, 23
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 329, 214
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 192, 276
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: false
+  xy: 5, 5
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: false
+  xy: 57, 6
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: false
+  xy: 159, 5
+  size: 22, 5
+  orig: 22, 5
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: false
+  xy: 332, 187
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: false
+  xy: 433, 292
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: false
+  xy: 362, 301
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: false
+  xy: 329, 198
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1

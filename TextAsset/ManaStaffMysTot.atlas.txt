@@ -1,0 +1,97 @@
+
+ManaStaffMysTot.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CarBattery
+  rotate: true
+  xy: 51, 246
+  size: 257, 96
+  orig: 257, 96
+  offset: 0, 0
+  index: -1
+Cord_1
+  rotate: false
+  xy: 5, 18
+  size: 30, 175
+  orig: 30, 175
+  offset: 0, 0
+  index: -1
+Cord_2
+  rotate: false
+  xy: 152, 261
+  size: 73, 242
+  orig: 73, 242
+  offset: 0, 0
+  index: -1
+GlassFragment
+  rotate: false
+  xy: 40, 9
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+StaffLow
+  rotate: false
+  xy: 5, 198
+  size: 41, 305
+  orig: 41, 305
+  offset: 0, 0
+  index: -1
+StaffUp
+  rotate: false
+  xy: 158, 26
+  size: 86, 230
+  orig: 86, 230
+  offset: 0, 0
+  index: -1
+TeslaCoil
+  rotate: false
+  xy: 40, 39
+  size: 113, 154
+  orig: 113, 154
+  offset: 0, 0
+  index: -1
+TeslaGlobeHalf_1
+  rotate: true
+  xy: 249, 137
+  size: 135, 104
+  orig: 135, 104
+  offset: 0, 0
+  index: -1
+TeslaGlobeHalf_2
+  rotate: false
+  xy: 230, 277
+  size: 133, 86
+  orig: 133, 86
+  offset: 0, 0
+  index: -1
+TeslaGlobe_0
+  rotate: true
+  xy: 230, 368
+  size: 135, 133
+  orig: 135, 133
+  offset: 0, 0
+  index: -1
+TeslaGlobe_1
+  rotate: false
+  xy: 368, 370
+  size: 135, 133
+  orig: 135, 133
+  offset: 0, 0
+  index: -1
+TeslaGlobe_2
+  rotate: false
+  xy: 368, 232
+  size: 135, 133
+  orig: 135, 133
+  offset: 0, 0
+  index: -1
+TeslaGlobe_3
+  rotate: false
+  xy: 358, 94
+  size: 135, 133
+  orig: 135, 133
+  offset: 0, 0
+  index: -1

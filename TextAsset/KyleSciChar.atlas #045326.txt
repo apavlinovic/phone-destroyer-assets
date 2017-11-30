@@ -1,0 +1,342 @@
+
+KyleSciChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: true
+  xy: 352, 137
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: false
+  xy: 462, 146
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: false
+  xy: 335, 95
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: true
+  xy: 404, 150
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+Backpack_Back
+  rotate: false
+  xy: 5, 319
+  size: 101, 188
+  orig: 101, 188
+  offset: 0, 0
+  index: -1
+Backpack_Side
+  rotate: false
+  xy: 5, 120
+  size: 93, 194
+  orig: 93, 194
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: true
+  xy: 5, 13
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 240, 74
+  size: 90, 61
+  orig: 90, 61
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 410, 311
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+Bountyhuntergun
+  rotate: true
+  xy: 318, 7
+  size: 62, 36
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+BrokenGlass1
+  rotate: false
+  xy: 491, 126
+  size: 10, 15
+  orig: 12, 17
+  offset: 2, 1
+  index: -1
+BrokenGlass2
+  rotate: false
+  xy: 335, 79
+  size: 11, 11
+  orig: 14, 11
+  offset: 1, 0
+  index: -1
+BrokenGlass3
+  rotate: false
+  xy: 495, 305
+  size: 12, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Cape
+  rotate: false
+  xy: 240, 5
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: -1
+Cape_Front
+  rotate: false
+  xy: 322, 300
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+Eyes_Front_Aim
+  rotate: false
+  xy: 322, 257
+  size: 66, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 90, 19
+  size: 70, 38
+  orig: 71, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 377, 314
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: false
+  xy: 393, 269
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 394, 226
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: false
+  xy: 394, 183
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_Look_Right
+  rotate: false
+  xy: 165, 23
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: true
+  xy: 352, 177
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+Eyes_Side_Aim
+  rotate: false
+  xy: 466, 229
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: true
+  xy: 450, 109
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: true
+  xy: 481, 381
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: false
+  xy: 466, 189
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: true
+  xy: 410, 74
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: true
+  xy: 450, 73
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: false
+  xy: 410, 110
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Flash1
+  rotate: true
+  xy: 467, 269
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+Flash2
+  rotate: false
+  xy: 359, 61
+  size: 33, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+Flash3
+  rotate: true
+  xy: 374, 95
+  size: 37, 31
+  orig: 39, 31
+  offset: 2, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 235, 140
+  size: 112, 112
+  orig: 127, 127
+  offset: 8, 11
+  index: -1
+Hand_Back
+  rotate: false
+  xy: 459, 49
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 433, 49
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 396, 17
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 262, 384
+  size: 146, 123
+  orig: 146, 123
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 111, 382
+  size: 146, 125
+  orig: 146, 125
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 103, 130
+  size: 127, 122
+  orig: 127, 122
+  offset: 0, 0
+  index: -1
+LeafBlower_Side_Behind
+  rotate: false
+  xy: 249, 257
+  size: 68, 112
+  orig: 68, 112
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 481, 416
+  size: 91, 23
+  orig: 91, 23
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 485, 320
+  size: 56, 19
+  orig: 56, 19
+  offset: 0, 0
+  index: -1
+Revolver_Back_InHand
+  rotate: false
+  xy: 397, 41
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Revolver_Front_InHand
+  rotate: false
+  xy: 359, 27
+  size: 32, 29
+  orig: 37, 37
+  offset: 5, 5
+  index: -1
+WeldingMask_Front
+  rotate: true
+  xy: 111, 257
+  size: 120, 133
+  orig: 120, 133
+  offset: 0, 0
+  index: -1
+WeldingMask_Side
+  rotate: false
+  xy: 413, 374
+  size: 63, 133
+  orig: 63, 133
+  offset: 0, 0
+  index: -1
+WeldingMask_SideBroken
+  rotate: true
+  xy: 103, 62
+  size: 63, 132
+  orig: 63, 133
+  offset: 0, 1
+  index: -1

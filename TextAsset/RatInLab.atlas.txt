@@ -1,0 +1,69 @@
+
+RatInLab.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: true
+  xy: 153, 302
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+AssesBehind
+  rotate: true
+  xy: 262, 363
+  size: 42, 148
+  orig: 42, 148
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 147, 251
+  size: 79, 47
+  orig: 79, 47
+  offset: 0, 0
+  index: -1
+HeadThing
+  rotate: false
+  xy: 262, 409
+  size: 136, 68
+  orig: 136, 68
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 153, 362
+  size: 105, 115
+  orig: 105, 115
+  offset: 0, 0
+  index: -1
+LowerBody
+  rotate: false
+  xy: 4, 314
+  size: 145, 193
+  orig: 145, 193
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 153, 481
+  size: 229, 26
+  orig: 229, 26
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 4, 116
+  size: 194, 139
+  orig: 194, 139
+  offset: 0, 0
+  index: -1
+UpperBody
+  rotate: true
+  xy: 4, 4
+  size: 108, 128
+  orig: 108, 128
+  offset: 0, 0
+  index: -1

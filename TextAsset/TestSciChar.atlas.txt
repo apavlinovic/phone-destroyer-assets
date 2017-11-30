@@ -1,0 +1,118 @@
+
+TestSciChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Side_2
+  rotate: false
+  xy: 417, 283
+  size: 41, 83
+  orig: 41, 83
+  offset: 0, 0
+  index: -1
+Arrow
+  rotate: false
+  xy: 6, 15
+  size: 202, 27
+  orig: 220, 28
+  offset: 0, 1
+  index: -1
+Body_Side
+  rotate: false
+  xy: 262, 379
+  size: 152, 127
+  orig: 157, 128
+  offset: 4, 0
+  index: -1
+BowBottom_FrontBack
+  rotate: false
+  xy: 398, 267
+  size: 13, 106
+  orig: 14, 109
+  offset: 0, 3
+  index: -1
+BowHandle_Front
+  rotate: false
+  xy: 313, 45
+  size: 37, 75
+  orig: 48, 76
+  offset: 10, 0
+  index: -1
+BowTop_FrontBack
+  rotate: false
+  xy: 359, 139
+  size: 13, 104
+  orig: 14, 104
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 464, 289
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 420, 372
+  size: 134, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Hair_Front
+  rotate: false
+  xy: 6, 48
+  size: 235, 194
+  orig: 237, 195
+  offset: 1, 0
+  index: -1
+Halo_Head_Front
+  rotate: true
+  xy: 247, 43
+  size: 199, 60
+  orig: 201, 62
+  offset: 2, 0
+  index: -1
+Hand_Side_Normal
+  rotate: true
+  xy: 464, 320
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 248
+  size: 250, 258
+  orig: 250, 321
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 313, 126
+  size: 117, 40
+  orig: 118, 40
+  offset: 1, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 417, 269
+  size: 37, 8
+  orig: 37, 8
+  offset: 0, 0
+  index: -1
+Slingshot_Rubber
+  rotate: false
+  xy: 6, 6
+  size: 100, 3
+  orig: 100, 3
+  offset: 0, 0
+  index: -1
+Wing_Side
+  rotate: true
+  xy: 262, 249
+  size: 124, 130
+  orig: 124, 130
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+TerranceGenChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow_Front
+  rotate: false
+  xy: 101, 99
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+ArmUp_Front
+  rotate: false
+  xy: 97, 252
+  size: 21, 51
+  orig: 21, 51
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 5, 219
+  size: 87, 141
+  orig: 87, 141
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: true
+  xy: 113, 413
+  size: 87, 141
+  orig: 87, 141
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 5, 78
+  size: 62, 136
+  orig: 62, 136
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: true
+  xy: 97, 308
+  size: 52, 21
+  orig: 52, 21
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: true
+  xy: 72, 73
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: true
+  xy: 97, 225
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 365
+  size: 103, 135
+  orig: 103, 135
+  offset: 0, 0
+  index: -1
+Head_Front_LowerPart
+  rotate: false
+  xy: 113, 372
+  size: 90, 36
+  orig: 90, 36
+  offset: 0, 0
+  index: -1
+Head_Front_TopPart
+  rotate: false
+  xy: 259, 400
+  size: 104, 100
+  orig: 104, 100
+  offset: 0, 0
+  index: -1
+Head_Side_LowerPart
+  rotate: true
+  xy: 460, 419
+  size: 81, 40
+  orig: 81, 40
+  offset: 0, 0
+  index: -1
+Head_Side_TopPart
+  rotate: false
+  xy: 368, 405
+  size: 87, 95
+  orig: 87, 95
+  offset: 0, 0
+  index: -1
+LegLow_Front_Left
+  rotate: false
+  xy: 5, 12
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+LegLow_Front_Right
+  rotate: false
+  xy: 72, 157
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+LegUp_Front_Left
+  rotate: false
+  xy: 208, 357
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+LegUp_Front_Right
+  rotate: false
+  xy: 72, 95
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1

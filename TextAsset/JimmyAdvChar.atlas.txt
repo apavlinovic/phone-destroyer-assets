@@ -1,0 +1,90 @@
+
+JimmyAdvChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow
+  rotate: true
+  xy: 160, 26
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+ArmUp_Side
+  rotate: false
+  xy: 350, 364
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 6, 19
+  size: 148, 161
+  orig: 148, 161
+  offset: 0, 0
+  index: -1
+CrunchLow_Front
+  rotate: false
+  xy: 292, 346
+  size: 52, 81
+  orig: 52, 81
+  offset: 0, 0
+  index: -1
+CrunchUp_Front
+  rotate: false
+  xy: 160, 67
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 292, 433
+  size: 124, 70
+  orig: 124, 70
+  offset: 0, 0
+  index: -1
+Hand_Front_1
+  rotate: false
+  xy: 228, 84
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 186
+  size: 280, 317
+  orig: 280, 317
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 160, 126
+  size: 122, 54
+  orig: 125, 56
+  offset: 2, 2
+  index: -1
+Legs_Front_LeftFoot
+  rotate: false
+  xy: 292, 285
+  size: 50, 55
+  orig: 54, 58
+  offset: 1, 0
+  index: -1
+Legs_Front_RightFoot
+  rotate: false
+  xy: 422, 456
+  size: 72, 47
+  orig: 75, 50
+  offset: 1, 2
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 6, 6
+  size: 19, 7
+  orig: 20, 8
+  offset: 0, 0
+  index: -1

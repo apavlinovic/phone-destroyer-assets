@@ -1,0 +1,2257 @@
+{
+  "id": 22,
+  "actorId": "Cartman",
+  "threadTitle": "DF_THREAD_TITLE_22",
+  "messages": [
+    {
+      "id": 22000,
+      "actorId": "Randy",
+      "messageTextKey": "DF_STORY_Level_11_end_01",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22001,
+      "actorId": "Stan",
+      "messageTextKey": "DF_STORY_Level_11_end_02",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22002,
+      "actorId": "Randy",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22003,
+      "actorId": "Stan",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22004,
+      "actorId": "Randy",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22005,
+      "actorId": "Stan",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22006,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22007,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22008,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22009,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22010,
+      "actorId": "Clyde",
+      "messageTextKey": "DF_STORY_Level_12_end_01",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22011,
+      "actorId": "Clyde",
+      "messageTextKey": "DF_STORY_Level_12_end_02",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22012,
+      "actorId": "Clyde",
+      "messageTextKey": "DF_STORY_Level_12_end_03",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22013,
+      "actorId": "Clyde",
+      "messageTextKey": "DF_STORY_Level_12_end_04",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22014,
+      "actorId": "Clyde",
+      "messageTextKey": "DF_STORY_Level_12_end_05",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22015,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22016,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22017,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22018,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22019,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22020,
+      "actorId": "Clyde",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22021,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22022,
+      "actorId": "Kenny",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22023,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22024,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22025,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22026,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22027,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22028,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22029,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22030,
+      "actorId": "Randy",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22031,
+      "actorId": "Randy",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22032,
+      "actorId": "Stan",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22033,
+      "actorId": "Randy",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22034,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22035,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22036,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22037,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22038,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22039,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22040,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22041,
+      "actorId": "Ike",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22042,
+      "actorId": "Kyle",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22043,
+      "actorId": "Ike",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22044,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22045,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22046,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22047,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22048,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22049,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22050,
+      "actorId": "Randy",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22051,
+      "actorId": "Stan",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22052,
+      "actorId": "Randy",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22053,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22054,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22055,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22056,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22057,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22058,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22059,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22060,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_STORY_Level_14_end_01",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22061,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22062,
+      "actorId": "Butters",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22063,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22064,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22065,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22066,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22067,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22068,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22069,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22070,
+      "actorId": "Randy",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22071,
+      "actorId": "Stan",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22072,
+      "actorId": "Randy",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22073,
+      "actorId": "Stan",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22074,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22075,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22076,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22077,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22078,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22079,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22080,
+      "actorId": "Stan",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22081,
+      "actorId": "Stan",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22082,
+      "actorId": "Randy",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22083,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22084,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22085,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22086,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22087,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22088,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22089,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22090,
+      "actorId": "Randy",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22091,
+      "actorId": "System",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22092,
+      "actorId": "Stan",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22093,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22094,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22095,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22096,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22097,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22098,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22099,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22100,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22101,
+      "actorId": "Craig",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22102,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22103,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22104,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22105,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22106,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22107,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22108,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22109,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22110,
+      "actorId": "Wendy",
+      "messageTextKey": "DF_STORY_Level_18_start_01",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22111,
+      "actorId": "Clyde",
+      "messageTextKey": "DF_STORY_Level_18_start_02",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22112,
+      "actorId": "Tweek",
+      "messageTextKey": "DF_STORY_Level_18_start_03",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22113,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22114,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22115,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22116,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22117,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22118,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22119,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22120,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_STORY_Level_19_trigger_01",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22121,
+      "actorId": "Stan",
+      "messageTextKey": "DF_STORY_Level_19_trigger_02",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22122,
+      "actorId": "Kyle",
+      "messageTextKey": "DF_STORY_Level_19_trigger_03",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22123,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22124,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22125,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22126,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22127,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22128,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22129,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22130,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_STORY_Level_20_end_01",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22131,
+      "actorId": "Kenny",
+      "messageTextKey": "DF_STORY_Level_20_end_02",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22132,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_STORY_Level_20_end_03",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22133,
+      "actorId": "Craig",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22134,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22135,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22136,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22137,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22138,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22139,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22140,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22141,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22142,
+      "actorId": "Kenny",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22143,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22144,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22145,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22146,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22147,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22148,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22149,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22150,
+      "actorId": "Stan",
+      "messageTextKey": "DF_STORY_Level_21_end_01",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22151,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_STORY_Level_21_end_02",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22152,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22153,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22154,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22155,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22156,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22157,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22158,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22159,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22160,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_STORY_Level_22_start_01",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22161,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_STORY_Level_22_start_02",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22162,
+      "actorId": "Clyde",
+      "messageTextKey": "DF_STORY_Level_22_start_03",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22163,
+      "actorId": "Stan",
+      "messageTextKey": "DF_STORY_Level_22_start_04",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22164,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22165,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22166,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22167,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22168,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22169,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22170,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_STORY_Level_23_trigger_01",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22171,
+      "actorId": "Butters",
+      "messageTextKey": "DF_STORY_Level_23_trigger_02",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22172,
+      "actorId": "Kenny",
+      "messageTextKey": "DF_STORY_Level_23_trigger_03",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22173,
+      "actorId": "Timmy",
+      "messageTextKey": "DF_STORY_Level_23_trigger_04",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22174,
+      "actorId": "Stan",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22175,
+      "actorId": "Kenny",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22176,
+      "actorId": "Kyle",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22177,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22178,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22179,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22180,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22181,
+      "actorId": "Kenny",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22182,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22183,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22184,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22185,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22186,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22187,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22188,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22189,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22190,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22191,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22192,
+      "actorId": "Kenny",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22193,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22194,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22195,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22196,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22197,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22198,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22199,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22200,
+      "actorId": "Stan",
+      "messageTextKey": "DF_STORY_Level_24_start_01",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22201,
+      "actorId": "Kyle",
+      "messageTextKey": "DF_STORY_Level_24_start_02",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22202,
+      "actorId": "Stan",
+      "messageTextKey": "DF_STORY_Level_24_start_03",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22203,
+      "actorId": "Kyle",
+      "messageTextKey": "DF_STORY_Level_24_start_04",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22204,
+      "actorId": "Kenny",
+      "messageTextKey": "DF_STORY_Level_24_start_05",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22205,
+      "actorId": "Stan",
+      "messageTextKey": "DF_STORY_Level_24_start_06",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22206,
+      "actorId": "Stan",
+      "messageTextKey": "DF_STORY_Level_24_start_07",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22207,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22208,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22209,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22210,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_STORY_Level_24_end_01",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22211,
+      "actorId": "Dougie",
+      "messageTextKey": "DF_STORY_Level_24_end_02",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22212,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22213,
+      "actorId": "Stan",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22214,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22215,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22216,
+      "actorId": "System",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22217,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22218,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22219,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22220,
+      "actorId": "System",
+      "messageTextKey": "DF_STORY_Level_25_start_01",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22221,
+      "actorId": "KennyDad",
+      "messageTextKey": "DF_STORY_Level_25_start_02",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 3.5
+    },
+    {
+      "id": 22222,
+      "actorId": "Kenny",
+      "messageTextKey": "DF_STORY_Level_25_start_04",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22223,
+      "actorId": "Kenny",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22224,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22225,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22226,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22227,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22228,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22229,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22230,
+      "actorId": "Butters",
+      "messageTextKey": "DF_STORY_Level_25_end_01",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 4
+    },
+    {
+      "id": 22231,
+      "actorId": "Butters",
+      "messageTextKey": "DF_STORY_Level_25_end_02",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": true,
+      "delay": 4
+    },
+    {
+      "id": 22232,
+      "actorId": "Butters",
+      "messageTextKey": "DF_STORY_Level_25_end_03",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22233,
+      "actorId": "Stan",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22234,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22235,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22236,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22237,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22238,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22239,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22240,
+      "actorId": "Butters",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22241,
+      "actorId": "Butters",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22242,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22243,
+      "actorId": "Clyde",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22244,
+      "actorId": "Jimmy",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22245,
+      "actorId": "Kyle",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22246,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22247,
+      "actorId": "System",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22248,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    },
+    {
+      "id": 22249,
+      "actorId": "Cartman",
+      "messageTextKey": "",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3.5
+    }
+  ]
+}

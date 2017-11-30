@@ -1,0 +1,90 @@
+
+RandyFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow_Front
+  rotate: false
+  xy: 464, 173
+  size: 40, 92
+  orig: 41, 92
+  offset: 1, 0
+  index: -1
+ArmUp_Front
+  rotate: true
+  xy: 175, 14
+  size: 64, 105
+  orig: 64, 106
+  offset: 0, 1
+  index: -1
+Body_Front
+  rotate: false
+  xy: 5, 263
+  size: 261, 244
+  orig: 262, 263
+  offset: 0, 19
+  index: -1
+EyeBrows_Left
+  rotate: true
+  xy: 429, 100
+  size: 50, 16
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 298, 86
+  size: 126, 64
+  orig: 126, 64
+  offset: 0, 0
+  index: -1
+Hand_3
+  rotate: false
+  xy: 298, 5
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: true
+  xy: 271, 270
+  size: 237, 236
+  orig: 238, 236
+  offset: 0, 0
+  index: -1
+JacketBack_Front
+  rotate: false
+  xy: 5, 129
+  size: 195, 129
+  orig: 195, 129
+  offset: 0, 0
+  index: -1
+LegLow_Front
+  rotate: true
+  xy: 5, 9
+  size: 115, 165
+  orig: 115, 165
+  offset: 0, 0
+  index: -1
+LegUp_Front
+  rotate: false
+  xy: 205, 83
+  size: 88, 175
+  orig: 88, 176
+  offset: 0, 1
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 285, 42
+  size: 36, 8
+  orig: 36, 8
+  offset: 0, 0
+  index: -1
+Pants_Front
+  rotate: false
+  xy: 298, 155
+  size: 161, 110
+  orig: 161, 110
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+{"requiredCards":[34,33,200,34,1298,34,33,140,1323,14,1298,34,27,34,33,50,131,33,1288,92,1298],"requiredSoundBanks":[{"soundName":"","soundBankName":"SoundBank_Spawners"}]}

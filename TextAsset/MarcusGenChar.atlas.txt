@@ -1,0 +1,230 @@
+
+MarcusGenChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_2
+  rotate: true
+  xy: 429, 445
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+Arm_Front_3
+  rotate: true
+  xy: 334, 412
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+Arm_Left_Front_1
+  rotate: true
+  xy: 471, 444
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+Arm_Right_Front_1
+  rotate: false
+  xy: 92, 125
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+Arm_Side
+  rotate: true
+  xy: 237, 388
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 5, 169
+  size: 106, 77
+  orig: 106, 77
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 123, 314
+  size: 103, 69
+  orig: 103, 69
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 237, 442
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 273, 379
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 429, 468
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 5, 14
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Hand_Back
+  rotate: false
+  xy: 92, 103
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 251, 366
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 273, 391
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 251
+  size: 113, 124
+  orig: 113, 124
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 380
+  size: 113, 127
+  orig: 113, 127
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 123, 388
+  size: 109, 119
+  orig: 109, 119
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 123, 287
+  size: 99, 22
+  orig: 99, 22
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 237, 414
+  size: 92, 23
+  orig: 92, 23
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 334, 399
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: false
+  xy: 300, 387
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+PillBottle
+  rotate: false
+  xy: 231, 323
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+Pillow2
+  rotate: false
+  xy: 5, 99
+  size: 82, 65
+  orig: 82, 65
+  offset: 0, 0
+  index: -1
+PillowOpen
+  rotate: false
+  xy: 342, 442
+  size: 82, 65
+  orig: 82, 65
+  offset: 0, 0
+  index: -1
+Pills
+  rotate: false
+  xy: 231, 354
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+PillsBottlecap
+  rotate: true
+  xy: 410, 422
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+eyes2_Front
+  rotate: false
+  xy: 5, 55
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+eyes2_Side
+  rotate: false
+  xy: 44, 13
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+eyes5_Front
+  rotate: false
+  xy: 123, 253
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+eyes5_Side
+  rotate: true
+  xy: 195, 252
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+mth1_Front
+  rotate: false
+  xy: 300, 398
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+mth1_Side
+  rotate: false
+  xy: 380, 420
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1

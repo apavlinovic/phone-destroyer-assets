@@ -1,0 +1,356 @@
+
+SharonAdvChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmHigh_Front
+  rotate: false
+  xy: 277, 5
+  size: 25, 59
+  orig: 25, 59
+  offset: 0, 0
+  index: -1
+ArmLow
+  rotate: true
+  xy: 293, 82
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+ArmLow_Front
+  rotate: false
+  xy: 409, 143
+  size: 29, 61
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+ArmUp_Front
+  rotate: true
+  xy: 204, 208
+  size: 27, 98
+  orig: 27, 98
+  offset: 0, 0
+  index: -1
+ArmUp_Side
+  rotate: false
+  xy: 307, 15
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 100, 89
+  size: 106, 112
+  orig: 106, 112
+  offset: 0, 0
+  index: -1
+Body_Back_Special
+  rotate: true
+  xy: 433, 257
+  size: 123, 62
+  orig: 124, 63
+  offset: 0, 1
+  index: -1
+Body_Front
+  rotate: false
+  xy: 328, 251
+  size: 100, 129
+  orig: 100, 129
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 119, 227
+  size: 80, 135
+  orig: 80, 135
+  offset: 0, 0
+  index: -1
+Cherokee_Tampon
+  rotate: false
+  xy: 5, 5
+  size: 75, 25
+  orig: 75, 25
+  offset: 0, 0
+  index: -1
+Collar_Back
+  rotate: true
+  xy: 455, 409
+  size: 98, 40
+  orig: 98, 40
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 100, 26
+  size: 96, 58
+  orig: 96, 58
+  offset: 0, 0
+  index: -1
+EyeBrows_Left
+  rotate: false
+  xy: 119, 210
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+EyeBrows_Right
+  rotate: false
+  xy: 156, 212
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 201, 26
+  size: 71, 38
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 346, 11
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: false
+  xy: 328, 208
+  size: 69, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 293, 165
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: false
+  xy: 293, 122
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: true
+  xy: 366, 135
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: false
+  xy: 211, 110
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 402, 209
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: false
+  xy: 443, 133
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: false
+  xy: 359, 82
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 475, 217
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: false
+  xy: 476, 177
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: false
+  xy: 379, 41
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Hand1
+  rotate: false
+  xy: 443, 165
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 439, 211
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Hand_HoldingTampon_Behind
+  rotate: true
+  xy: 379, 8
+  size: 28, 35
+  orig: 28, 41
+  offset: 0, 6
+  index: -1
+Hand_HoldingTampon_OnTop
+  rotate: false
+  xy: 478, 147
+  size: 22, 25
+  orig: 28, 41
+  offset: 4, 5
+  index: -1
+Head_Back
+  rotate: false
+  xy: 204, 240
+  size: 119, 131
+  orig: 119, 131
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: true
+  xy: 318, 385
+  size: 122, 132
+  orig: 122, 132
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 188, 376
+  size: 125, 131
+  orig: 125, 131
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 5, 206
+  size: 109, 156
+  orig: 109, 156
+  offset: 0, 0
+  index: -1
+Legs_Front_Open
+  rotate: false
+  xy: 5, 367
+  size: 178, 140
+  orig: 178, 156
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 5, 35
+  size: 90, 166
+  orig: 90, 166
+  offset: 0, 0
+  index: -1
+Mouth_Front_A2
+  rotate: false
+  xy: 478, 130
+  size: 24, 12
+  orig: 25, 12
+  offset: 1, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 307, 6
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Mouth_Front_O
+  rotate: false
+  xy: 85, 20
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: false
+  xy: 100, 10
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: false
+  xy: 455, 393
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: true
+  xy: 500, 485
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: true
+  xy: 193, 206
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: true
+  xy: 307, 209
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: false
+  xy: 409, 125
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: false
+  xy: 127, 10
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+TamponBox
+  rotate: false
+  xy: 211, 153
+  size: 77, 50
+  orig: 77, 50
+  offset: 0, 0
+  index: -1
+TamponBox_Lid
+  rotate: false
+  xy: 211, 69
+  size: 77, 36
+  orig: 77, 36
+  offset: 0, 0
+  index: -1
+mth4_Side
+  rotate: false
+  xy: 85, 6
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1

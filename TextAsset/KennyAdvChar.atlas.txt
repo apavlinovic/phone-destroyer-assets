@@ -1,0 +1,69 @@
+
+KennyAdvChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_2
+  rotate: false
+  xy: 286, 296
+  size: 105, 55
+  orig: 105, 55
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 6, 89
+  size: 185, 134
+  orig: 185, 134
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 6, 6
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Dagger
+  rotate: true
+  xy: 411, 357
+  size: 149, 31
+  orig: 158, 64
+  offset: 3, 13
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 197, 89
+  size: 134, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 189, 41
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 286, 357
+  size: 119, 149
+  orig: 119, 149
+  offset: 0, 0
+  index: -1
+Hood_Front
+  rotate: false
+  xy: 6, 229
+  size: 274, 277
+  orig: 274, 277
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 6, 37
+  size: 177, 46
+  orig: 177, 46
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,411 @@
+
+TerrancemephestoGenChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Side_1
+  rotate: false
+  xy: 486, 475
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: true
+  xy: 404, 367
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: true
+  xy: 404, 392
+  size: 115, 77
+  orig: 115, 77
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 475, 169
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 475, 128
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookBack
+  rotate: false
+  xy: 475, 88
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Feet_Front
+  rotate: false
+  xy: 360, 8
+  size: 100, 61
+  orig: 100, 61
+  offset: 0, 0
+  index: -1
+Hand_Back
+  rotate: false
+  xy: 486, 391
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: true
+  xy: 486, 417
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: true
+  xy: 486, 445
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 362, 211
+  size: 145, 151
+  orig: 145, 151
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 200, 64
+  size: 145, 144
+  orig: 145, 144
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: true
+  xy: 205, 213
+  size: 149, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+LawnMower_Side
+  rotate: false
+  xy: 350, 74
+  size: 120, 132
+  orig: 120, 132
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 465, 5
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Mouth_Front_A
+  rotate: false
+  xy: 475, 76
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+Mouth_Front_A2
+  rotate: false
+  xy: 96, 11
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 500, 367
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Mouth_Front_O
+  rotate: true
+  xy: 152, 64
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+Mouth_Front_O2
+  rotate: true
+  xy: 481, 367
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: false
+  xy: 124, 11
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: false
+  xy: 28, 12
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: false
+  xy: 167, 68
+  size: 22, 5
+  orig: 22, 5
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: true
+  xy: 489, 56
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: false
+  xy: 450, 373
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: false
+  xy: 67, 10
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+PotatoCannon_Side
+  rotate: false
+  xy: 5, 28
+  size: 142, 45
+  orig: 142, 45
+  offset: 0, 0
+  index: -1
+SpinningBlades_Back_1
+  rotate: false
+  xy: 209, 367
+  size: 190, 140
+  orig: 190, 140
+  offset: 0, 0
+  index: -1
+SpinningBlades_Back_2
+  rotate: false
+  xy: 5, 78
+  size: 190, 139
+  orig: 190, 139
+  offset: 0, 0
+  index: -1
+SpinningBlades_Front_1
+  rotate: false
+  xy: 5, 367
+  size: 199, 140
+  orig: 200, 140
+  offset: 1, 0
+  index: -1
+SpinningBlades_Front_2
+  rotate: false
+  xy: 5, 222
+  size: 195, 140
+  orig: 195, 140
+  offset: 0, 0
+  index: -1
+SpinningBlades_Side_1
+  rotate: false
+  xy: 152, 10
+  size: 203, 49
+  orig: 203, 49
+  offset: 0, 0
+  index: -1
+TennisBall
+  rotate: false
+  xy: 5, 5
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+
+TerrancemephestoGenChar2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_Front
+  rotate: false
+  xy: 291, 427
+  size: 107, 78
+  orig: 107, 78
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 403, 440
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+Eyebrows_Front
+  rotate: true
+  xy: 483, 434
+  size: 71, 22
+  orig: 71, 22
+  offset: 0, 0
+  index: -1
+Eyebrows_Side
+  rotate: false
+  xy: 228, 285
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: true
+  xy: 5, 7
+  size: 72, 38
+  orig: 72, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 314, 325
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: true
+  xy: 228, 321
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 58, 180
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: false
+  xy: 52, 136
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: false
+  xy: 52, 93
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSideDown
+  rotate: true
+  xy: 271, 323
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: true
+  xy: 131, 188
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: false
+  xy: 366, 386
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: false
+  xy: 444, 400
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: false
+  xy: 404, 399
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+LawnMower_Back
+  rotate: false
+  xy: 169, 396
+  size: 117, 109
+  orig: 117, 109
+  offset: 0, 0
+  index: -1
+LawnMower_Front
+  rotate: false
+  xy: 58, 281
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+Pants_Back
+  rotate: false
+  xy: 58, 223
+  size: 93, 53
+  orig: 93, 53
+  offset: 0, 0
+  index: -1
+PotatoCannon_Back
+  rotate: false
+  xy: 5, 84
+  size: 42, 100
+  orig: 42, 100
+  offset: 0, 0
+  index: -1
+PotatoCannon_Front
+  rotate: false
+  xy: 180, 292
+  size: 43, 99
+  orig: 43, 99
+  offset: 0, 0
+  index: -1
+Shaft_Front
+  rotate: true
+  xy: 291, 397
+  size: 25, 70
+  orig: 25, 70
+  offset: 0, 0
+  index: -1
+Shaft_Side
+  rotate: false
+  xy: 156, 228
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+SpinningBlades_Side_2
+  rotate: true
+  xy: 5, 189
+  size: 202, 48
+  orig: 203, 49
+  offset: 0, 1
+  index: -1
+StillBlades_Side_1
+  rotate: false
+  xy: 5, 396
+  size: 159, 109
+  orig: 159, 109
+  offset: 0, 0
+  index: -1

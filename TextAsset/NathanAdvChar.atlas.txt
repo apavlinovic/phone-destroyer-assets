@@ -1,0 +1,83 @@
+
+NathanAdvChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow
+  rotate: false
+  xy: 331, 157
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+ArmUp_Front
+  rotate: false
+  xy: 214, 66
+  size: 46, 70
+  orig: 47, 71
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 273, 342
+  size: 187, 162
+  orig: 187, 162
+  offset: 0, 0
+  index: -1
+EyeBrow
+  rotate: false
+  xy: 6, 6
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 214, 142
+  size: 111, 66
+  orig: 111, 66
+  offset: 0, 0
+  index: -1
+Glasses
+  rotate: false
+  xy: 273, 214
+  size: 166, 67
+  orig: 166, 67
+  offset: 0, 0
+  index: -1
+Hand2
+  rotate: false
+  xy: 266, 93
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+Hat_Side
+  rotate: false
+  xy: 6, 34
+  size: 202, 180
+  orig: 203, 180
+  offset: 1, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 6, 220
+  size: 261, 284
+  orig: 261, 284
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 273, 287
+  size: 187, 49
+  orig: 187, 49
+  offset: 0, 0
+  index: -1
+Mouth_Side
+  rotate: false
+  xy: 466, 499
+  size: 28, 5
+  orig: 29, 6
+  offset: 1, 1
+  index: -1

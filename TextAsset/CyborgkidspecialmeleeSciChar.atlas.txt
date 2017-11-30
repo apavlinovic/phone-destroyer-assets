@@ -1,0 +1,314 @@
+
+CyborgkidspecialmeleeSciChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: false
+  xy: 409, 156
+  size: 24, 55
+  orig: 24, 55
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: true
+  xy: 172, 9
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: false
+  xy: 409, 116
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: false
+  xy: 368, 19
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 166, 129
+  size: 116, 82
+  orig: 116, 82
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 158, 42
+  size: 109, 82
+  orig: 109, 82
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 287, 122
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 398, 50
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 272, 71
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 472, 428
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: true
+  xy: 317, 262
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 367, 267
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: true
+  xy: 418, 267
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: false
+  xy: 367, 216
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: false
+  xy: 272, 21
+  size: 91, 45
+  orig: 91, 45
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 469, 339
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: false
+  xy: 131, 5
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: true
+  xy: 362, 124
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 363, 77
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookBack
+  rotate: false
+  xy: 453, 216
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: false
+  xy: 438, 169
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: false
+  xy: 362, 168
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+Hand_Left_Front_1
+  rotate: false
+  xy: 480, 186
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Hand_Left_Side_1
+  rotate: false
+  xy: 405, 83
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Hand_Right_Front_1
+  rotate: false
+  xy: 317, 216
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Hand_Right_Front_2
+  rotate: true
+  xy: 439, 124
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+Hand_Right_Side_1
+  rotate: false
+  xy: 472, 388
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Hat_Back
+  rotate: false
+  xy: 322, 388
+  size: 145, 119
+  orig: 145, 119
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: false
+  xy: 166, 216
+  size: 146, 129
+  orig: 146, 129
+  offset: 0, 0
+  index: -1
+Hat_Side
+  rotate: false
+  xy: 5, 49
+  size: 148, 132
+  orig: 148, 132
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 349
+  size: 156, 158
+  orig: 156, 158
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 186
+  size: 156, 158
+  orig: 156, 158
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 166, 350
+  size: 151, 157
+  orig: 151, 157
+  offset: 0, 0
+  index: -1
+Legs_Back
+  rotate: false
+  xy: 5, 14
+  size: 121, 30
+  orig: 121, 30
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 322, 353
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 469, 263
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 351, 234
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: false
+  xy: 227, 5
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: false
+  xy: 227, 24
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: false
+  xy: 480, 174
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: true
+  xy: 498, 316
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: true
+  xy: 447, 353
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: false
+  xy: 439, 103
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: false
+  xy: 434, 84
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1

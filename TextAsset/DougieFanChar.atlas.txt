@@ -1,0 +1,279 @@
+
+DougieFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: true
+  xy: 82, 106
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: false
+  xy: 24, 12
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: false
+  xy: 62, 175
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: false
+  xy: 479, 441
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: true
+  xy: 62, 205
+  size: 82, 59
+  orig: 82, 59
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 334, 454
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 229, 398
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 39, 51
+  size: 22, 3
+  orig: 22, 3
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 402, 469
+  size: 71, 38
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 300, 388
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: true
+  xy: 39, 101
+  size: 69, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 333, 411
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: false
+  xy: 406, 426
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: false
+  xy: 333, 368
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 39, 59
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: true
+  xy: 478, 477
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: true
+  xy: 406, 366
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 446, 364
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookBackDown
+  rotate: true
+  xy: 86, 169
+  size: 31, 35
+  orig: 31, 36
+  offset: 0, 1
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: false
+  xy: 82, 129
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Goggles_Front
+  rotate: true
+  xy: 5, 175
+  size: 112, 52
+  orig: 112, 52
+  offset: 0, 0
+  index: -1
+Goggles_Side
+  rotate: false
+  xy: 229, 459
+  size: 100, 48
+  orig: 100, 48
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 162, 386
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Hand_Front-copy
+  rotate: true
+  xy: 182, 386
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 139, 385
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 403
+  size: 117, 104
+  orig: 117, 104
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 292
+  size: 111, 106
+  orig: 111, 106
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 127, 405
+  size: 97, 102
+  orig: 97, 102
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 406, 404
+  size: 69, 17
+  orig: 69, 17
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 5, 5
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 121, 324
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: true
+  xy: 118, 103
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: true
+  xy: 118, 130
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: true
+  xy: 501, 450
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: true
+  xy: 501, 429
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: true
+  xy: 46, 20
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: true
+  xy: 121, 374
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: true
+  xy: 121, 348
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Wrench
+  rotate: true
+  xy: 5, 51
+  size: 119, 29
+  orig: 121, 32
+  offset: 1, 1
+  index: -1

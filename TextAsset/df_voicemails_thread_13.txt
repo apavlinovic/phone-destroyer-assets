@@ -1,0 +1,16 @@
+{
+  "id": 13,
+  "actorId": "Cartman",
+  "threadTitle": "DF_THREAD_TITLE_13",
+  "messages": [
+    {
+      "id": 1301,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_VM_ONB_19_3",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 4.0
+    }
+  ]
+}

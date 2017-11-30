@@ -1,0 +1,202 @@
+
+KennyMysChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: false
+  xy: 321, 71
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: false
+  xy: 208, 5
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: true
+  xy: 469, 268
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: false
+  xy: 358, 8
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: true
+  xy: 406, 394
+  size: 113, 91
+  orig: 113, 91
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 210, 219
+  size: 115, 92
+  orig: 116, 92
+  offset: 1, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 406, 299
+  size: 90, 98
+  orig: 90, 98
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 296, 65
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 304, 5
+  size: 49, 53
+  orig: 52, 53
+  offset: 3, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: true
+  xy: 330, 225
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 455, 114
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: false
+  xy: 120, 30
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen_LookDown
+  rotate: false
+  xy: 381, 249
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 381, 198
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: false
+  xy: 210, 41
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: true
+  xy: 318, 133
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide_2
+  rotate: false
+  xy: 369, 147
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookUp
+  rotate: false
+  xy: 369, 96
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+Hand_Back
+  rotate: false
+  xy: 387, 30
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Hand_Front_1
+  rotate: false
+  xy: 469, 238
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: true
+  xy: 274, 5
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 80
+  size: 200, 210
+  orig: 200, 210
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 295
+  size: 200, 212
+  orig: 200, 212
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 210, 316
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: -1
+Hood_Front
+  rotate: false
+  xy: 210, 125
+  size: 103, 89
+  orig: 103, 89
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 210, 92
+  size: 106, 28
+  orig: 106, 28
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 361, 63
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 5, 16
+  size: 59, 110
+  orig: 59, 110
+  offset: 0, 0
+  index: -1

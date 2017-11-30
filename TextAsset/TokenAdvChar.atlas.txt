@@ -1,0 +1,90 @@
+
+TokenAdvChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_2
+  rotate: false
+  xy: 205, 151
+  size: 45, 91
+  orig: 45, 91
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 6, 122
+  size: 193, 120
+  orig: 193, 120
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 161, 34
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 252, 292
+  size: 135, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 464, 467
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: true
+  xy: 464, 412
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 248
+  size: 240, 258
+  orig: 240, 258
+  offset: 0, 0
+  index: -1
+IndianGarment_Front
+  rotate: false
+  xy: 252, 374
+  size: 137, 132
+  orig: 137, 132
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 6, 65
+  size: 199, 51
+  orig: 199, 51
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 252, 248
+  size: 38, 8
+  orig: 38, 8
+  offset: 0, 0
+  index: -1
+Pigeon_Feather
+  rotate: true
+  xy: 6, 16
+  size: 43, 149
+  orig: 43, 149
+  offset: 0, 0
+  index: -1
+Tomahawk_QuarterFront
+  rotate: false
+  xy: 395, 353
+  size: 63, 153
+  orig: 63, 153
+  offset: 0, 0
+  index: -1

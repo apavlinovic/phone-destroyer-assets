@@ -1,0 +1,314 @@
+
+FantasykidmeleeFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: false
+  xy: 242, 5
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: false
+  xy: 366, 178
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: true
+  xy: 466, 176
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: true
+  xy: 402, 119
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 345, 410
+  size: 136, 97
+  orig: 136, 97
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: true
+  xy: 178, 71
+  size: 121, 75
+  orig: 121, 75
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 276, 234
+  size: 99, 88
+  orig: 99, 88
+  offset: 0, 0
+  index: -1
+Cape_Front
+  rotate: false
+  xy: 154, 243
+  size: 117, 90
+  orig: 117, 90
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 154, 197
+  size: 112, 41
+  orig: 112, 41
+  offset: 0, 0
+  index: -1
+Eyebrow_Front
+  rotate: false
+  xy: 466, 146
+  size: 31, 3
+  orig: 31, 3
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 369, 255
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: false
+  xy: 369, 214
+  size: 86, 36
+  orig: 86, 36
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: false
+  xy: 271, 180
+  size: 90, 49
+  orig: 90, 49
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 258, 126
+  size: 88, 49
+  orig: 88, 49
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: false
+  xy: 258, 72
+  size: 88, 49
+  orig: 88, 49
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: false
+  xy: 281, 18
+  size: 88, 49
+  orig: 88, 49
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: false
+  xy: 369, 310
+  size: 99, 49
+  orig: 99, 49
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 351, 75
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: true
+  xy: 398, 75
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: false
+  xy: 374, 24
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 467, 259
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookBack
+  rotate: false
+  xy: 467, 208
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: false
+  xy: 421, 24
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: false
+  xy: 351, 127
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Hand_Back
+  rotate: false
+  xy: 434, 148
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: true
+  xy: 431, 180
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: true
+  xy: 302, 338
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 348
+  size: 157, 159
+  orig: 157, 159
+  offset: 0, 0
+  index: -1
+Helmet_Back
+  rotate: true
+  xy: 5, 175
+  size: 168, 144
+  orig: 168, 144
+  offset: 0, 0
+  index: -1
+Helmet_Front
+  rotate: false
+  xy: 167, 375
+  size: 173, 132
+  orig: 173, 132
+  offset: 0, 0
+  index: -1
+Helmet_Side
+  rotate: false
+  xy: 5, 33
+  size: 168, 137
+  orig: 168, 137
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 167, 338
+  size: 130, 32
+  orig: 130, 32
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 482, 329
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+MorningStar_Ball
+  rotate: false
+  xy: 178, 5
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+MorningStar_Rope
+  rotate: true
+  xy: 5, 22
+  size: 6, 91
+  orig: 6, 91
+  offset: 0, 0
+  index: -1
+MorningStar_Stick
+  rotate: true
+  xy: 345, 364
+  size: 41, 132
+  orig: 41, 132
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 502, 146
+  size: 25, 5
+  orig: 25, 5
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: false
+  xy: 334, 344
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: false
+  xy: 374, 5
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: false
+  xy: 281, 5
+  size: 29, 8
+  orig: 29, 8
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: false
+  xy: 5, 10
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: true
+  xy: 486, 474
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: false
+  xy: 466, 154
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: true
+  xy: 486, 441
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,25 @@
+{
+  "id": 15,
+  "actorId": "Cartman",
+  "threadTitle": "DF_THREAD_TITLE_15",
+  "messages": [
+    {
+      "id": 1501,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_VM_STAGE_LEVELING_01",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3
+    },
+    {
+      "id": 1502,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_VM_STAGE_LEVELING_02",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 3
+    }
+  ]
+}

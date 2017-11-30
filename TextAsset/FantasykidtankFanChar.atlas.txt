@@ -1,0 +1,258 @@
+
+FantasykidtankFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front
+  rotate: false
+  xy: 315, 5
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: true
+  xy: 450, 109
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: true
+  xy: 151, 249
+  size: 113, 96
+  orig: 113, 96
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 151, 149
+  size: 113, 95
+  orig: 113, 95
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 269, 149
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+BucketHandle_Back
+  rotate: false
+  xy: 5, 34
+  size: 145, 38
+  orig: 145, 38
+  offset: 0, 0
+  index: -1
+BucketHandle_Front
+  rotate: true
+  xy: 455, 362
+  size: 145, 38
+  orig: 145, 38
+  offset: 0, 0
+  index: -1
+BucketHandle_Side
+  rotate: false
+  xy: 155, 47
+  size: 69, 51
+  orig: 69, 51
+  offset: 0, 0
+  index: -1
+Chest-Armor
+  rotate: true
+  xy: 369, 158
+  size: 85, 55
+  orig: 85, 55
+  offset: 0, 0
+  index: -1
+ChestArmor_Side
+  rotate: false
+  xy: 472, 185
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+Eyebrows
+  rotate: false
+  xy: 252, 259
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: true
+  xy: 326, 76
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: false
+  xy: 475, 239
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: true
+  xy: 427, 5
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 392, 37
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Handle
+  rotate: false
+  xy: 252, 276
+  size: 45, 87
+  orig: 45, 87
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: true
+  xy: 304, 248
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+Helmet_Back
+  rotate: false
+  xy: 304, 379
+  size: 146, 128
+  orig: 146, 128
+  offset: 0, 0
+  index: -1
+Helmet_Front
+  rotate: false
+  xy: 5, 222
+  size: 141, 140
+  orig: 141, 140
+  offset: 0, 0
+  index: -1
+Helmet_Side
+  rotate: false
+  xy: 5, 367
+  size: 148, 140
+  orig: 148, 140
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 436, 239
+  size: 118, 34
+  orig: 118, 34
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 240, 105
+  size: 81, 39
+  orig: 81, 39
+  offset: 0, 0
+  index: -1
+StopSignShield
+  rotate: false
+  xy: 5, 77
+  size: 139, 140
+  orig: 139, 140
+  offset: 0, 0
+  index: -1
+StopSignShield_Behind
+  rotate: true
+  xy: 158, 368
+  size: 139, 141
+  orig: 139, 141
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: true
+  xy: 149, 103
+  size: 41, 86
+  orig: 41, 86
+  offset: 0, 0
+  index: -1
+eyes1_Front
+  rotate: true
+  xy: 446, 36
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+eyes1_Side
+  rotate: false
+  xy: 475, 279
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+eyes2_Front
+  rotate: false
+  xy: 369, 71
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+eyes2_Side
+  rotate: false
+  xy: 475, 320
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+eyes3_Front
+  rotate: true
+  xy: 429, 158
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+eyes3_Front_LookDown
+  rotate: false
+  xy: 369, 115
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+eyes3_Side
+  rotate: false
+  xy: 472, 145
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+eyes5_Front
+  rotate: false
+  xy: 155, 13
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+eyes5_Side
+  rotate: false
+  xy: 392, 5
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+eyes6_Front
+  rotate: false
+  xy: 240, 62
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+eyes6_Side
+  rotate: false
+  xy: 354, 30
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1

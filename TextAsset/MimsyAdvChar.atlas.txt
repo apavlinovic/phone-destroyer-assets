@@ -1,0 +1,251 @@
+
+MimsyAdvChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow_Front
+  rotate: false
+  xy: 400, 68
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+ArmLow_Side
+  rotate: true
+  xy: 187, 133
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+ArmUp_Front
+  rotate: false
+  xy: 470, 440
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+ArmUp_Side
+  rotate: true
+  xy: 403, 268
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 5, 322
+  size: 228, 185
+  orig: 228, 185
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 238, 323
+  size: 227, 184
+  orig: 227, 184
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 5, 187
+  size: 147, 130
+  orig: 147, 130
+  offset: 0, 0
+  index: -1
+EyeBrow
+  rotate: true
+  xy: 502, 271
+  size: 22, 5
+  orig: 22, 5
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 157, 276
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 470, 326
+  size: 71, 31
+  orig: 71, 31
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: false
+  xy: 157, 229
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 157, 183
+  size: 74, 41
+  orig: 74, 41
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: false
+  xy: 235, 7
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: true
+  xy: 187, 42
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: false
+  xy: 470, 402
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: false
+  xy: 323, 7
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 368, 8
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookStraight
+  rotate: false
+  xy: 443, 76
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: false
+  xy: 187, 85
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: true
+  xy: 411, 22
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 21
+  size: 132, 159
+  orig: 132, 159
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: true
+  xy: 238, 185
+  size: 133, 160
+  orig: 133, 160
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: true
+  xy: 236, 54
+  size: 126, 159
+  orig: 126, 159
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 142, 6
+  size: 153, 40
+  orig: 153, 40
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 403, 215
+  size: 101, 48
+  orig: 101, 48
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 470, 302
+  size: 27, 6
+  orig: 27, 6
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: true
+  xy: 470, 271
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: false
+  xy: 470, 313
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: true
+  xy: 502, 298
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: false
+  xy: 486, 268
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: true
+  xy: 187, 17
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: true
+  xy: 486, 277
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: true
+  xy: 142, 164
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Neck_Side
+  rotate: false
+  xy: 403, 121
+  size: 99, 89
+  orig: 99, 89
+  offset: 0, 0
+  index: -1
+Nose_Front
+  rotate: true
+  xy: 156, 164
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1

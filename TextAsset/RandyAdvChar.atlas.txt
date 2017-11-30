@@ -1,0 +1,104 @@
+
+RandyAdvChar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow
+  rotate: false
+  xy: 554, 651
+  size: 32, 91
+  orig: 33, 92
+  offset: 0, 1
+  index: -1
+ArmUp_Front_Left
+  rotate: false
+  xy: 592, 807
+  size: 34, 120
+  orig: 36, 122
+  offset: 1, 1
+  index: -1
+ArmUp_Front_Right
+  rotate: true
+  xy: 355, 473
+  size: 35, 120
+  orig: 35, 120
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 355, 748
+  size: 231, 256
+  orig: 231, 256
+  offset: 0, 0
+  index: -1
+EyeBrows_Left
+  rotate: true
+  xy: 325, 393
+  size: 56, 18
+  orig: 56, 18
+  offset: 0, 0
+  index: -1
+EyeBrows_Right
+  rotate: false
+  xy: 103, 16
+  size: 56, 17
+  orig: 56, 17
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 592, 933
+  size: 156, 71
+  orig: 156, 72
+  offset: 0, 0
+  index: -1
+Hair_Front
+  rotate: false
+  xy: 6, 455
+  size: 343, 549
+  orig: 343, 549
+  offset: 0, 0
+  index: -1
+Hand1
+  rotate: true
+  xy: 754, 947
+  size: 57, 79
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 186
+  size: 313, 263
+  orig: 313, 263
+  offset: 0, 0
+  index: -1
+LegLow_Front
+  rotate: false
+  xy: 103, 39
+  size: 74, 141
+  orig: 78, 160
+  offset: 0, 0
+  index: -1
+LegUp_Front
+  rotate: false
+  xy: 6, 6
+  size: 91, 174
+  orig: 91, 174
+  offset: 0, 0
+  index: -1
+LegsUp_Front
+  rotate: false
+  xy: 355, 514
+  size: 193, 228
+  orig: 193, 253
+  offset: 0, 25
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 183, 171
+  size: 40, 9
+  orig: 40, 9
+  offset: 0, 0
+  index: -1

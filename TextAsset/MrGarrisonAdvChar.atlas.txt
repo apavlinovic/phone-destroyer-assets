@@ -1,0 +1,376 @@
+
+MrGarrisonAdvChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_Back
+  rotate: false
+  xy: 5, 273
+  size: 132, 234
+  orig: 132, 234
+  offset: 0, 0
+  index: -1
+Body_Down
+  rotate: false
+  xy: 380, 28
+  size: 117, 71
+  orig: 117, 74
+  offset: 0, 3
+  index: -1
+Body_Front
+  rotate: false
+  xy: 129, 126
+  size: 117, 142
+  orig: 117, 142
+  offset: 0, 0
+  index: -1
+Cape_Front
+  rotate: false
+  xy: 142, 286
+  size: 136, 221
+  orig: 136, 221
+  offset: 0, 0
+  index: -1
+Collar_Side
+  rotate: false
+  xy: 5, 47
+  size: 87, 221
+  orig: 87, 221
+  offset: 0, 0
+  index: -1
+Eyebrow_Front
+  rotate: false
+  xy: 142, 274
+  size: 29, 7
+  orig: 37, 11
+  offset: 2, 3
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 5, 5
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: false
+  xy: 80, 9
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 97, 40
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Hat_Back
+  rotate: false
+  xy: 283, 428
+  size: 211, 79
+  orig: 211, 79
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: false
+  xy: 283, 278
+  size: 209, 64
+  orig: 209, 64
+  offset: 0, 0
+  index: -1
+Hat_Side
+  rotate: false
+  xy: 283, 347
+  size: 211, 76
+  orig: 211, 76
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 251, 21
+  size: 124, 120
+  orig: 124, 120
+  offset: 0, 0
+  index: -1
+Head_Down
+  rotate: false
+  xy: 251, 146
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 382, 151
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: true
+  xy: 129, 5
+  size: 116, 117
+  orig: 116, 117
+  offset: 0, 0
+  index: -1
+Mask_Side
+  rotate: false
+  xy: 382, 104
+  size: 119, 42
+  orig: 119, 42
+  offset: 0, 0
+  index: -1
+Mask_Side_2
+  rotate: true
+  xy: 380, 7
+  size: 16, 86
+  orig: 17, 86
+  offset: 1, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 499, 349
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Mouth_Front_O
+  rotate: false
+  xy: 290, 5
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: false
+  xy: 251, 5
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: true
+  xy: 502, 84
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Mouth_Side_O
+  rotate: true
+  xy: 497, 333
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: false
+  xy: 471, 9
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 97, 82
+  size: 27, 186
+  orig: 27, 186
+  offset: 0, 0
+  index: -1
+Weapon_Broken2
+  rotate: false
+  xy: 499, 373
+  size: 7, 134
+  orig: 27, 186
+  offset: 10, 0
+  index: -1
+
+MrGarrisonAdvChar2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow_Front
+  rotate: false
+  xy: 89, 129
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+ArmLow_Side
+  rotate: false
+  xy: 114, 240
+  size: 30, 54
+  orig: 32, 75
+  offset: 0, 0
+  index: -1
+ArmUp_Front
+  rotate: false
+  xy: 114, 299
+  size: 23, 61
+  orig: 23, 61
+  offset: 0, 0
+  index: -1
+ArmUp_Side
+  rotate: false
+  xy: 51, 98
+  size: 33, 71
+  orig: 33, 75
+  offset: 0, 4
+  index: -1
+Body_Side
+  rotate: false
+  xy: 5, 359
+  size: 83, 138
+  orig: 83, 138
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 213, 470
+  size: 103, 27
+  orig: 103, 27
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 390, 461
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 80, 287
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: true
+  xy: 5, 7
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: true
+  xy: 324, 396
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 464, 464
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 80, 179
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Hand_Holding_Behind
+  rotate: false
+  xy: 89, 100
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Hand_Holding_OnTop
+  rotate: false
+  xy: 48, 53
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Hips_Front
+  rotate: true
+  xy: 5, 80
+  size: 89, 41
+  orig: 89, 41
+  offset: 0, 0
+  index: -1
+Hips_Side
+  rotate: true
+  xy: 80, 217
+  size: 65, 29
+  orig: 67, 30
+  offset: 1, 1
+  index: -1
+Legs_Front_Left_LowLeg
+  rotate: false
+  xy: 264, 394
+  size: 55, 71
+  orig: 55, 72
+  offset: 0, 1
+  index: -1
+Legs_Front_Left_UpLeg
+  rotate: false
+  xy: 214, 380
+  size: 45, 85
+  orig: 45, 85
+  offset: 0, 0
+  index: -1
+Legs_Front_Right_LowLeg
+  rotate: false
+  xy: 148, 379
+  size: 61, 69
+  orig: 61, 70
+  offset: 0, 1
+  index: -1
+Legs_Front_Right_UpLeg
+  rotate: false
+  xy: 93, 365
+  size: 50, 83
+  orig: 50, 83
+  offset: 0, 0
+  index: -1
+Legs_Side_LowLeg
+  rotate: false
+  xy: 5, 174
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+Legs_Side_UpLeg
+  rotate: false
+  xy: 5, 254
+  size: 70, 100
+  orig: 70, 102
+  offset: 0, 0
+  index: -1
+Mask_Front
+  rotate: false
+  xy: 93, 453
+  size: 115, 44
+  orig: 115, 44
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: true
+  xy: 365, 444
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: false
+  xy: 51, 80
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+Weapon_Broken1
+  rotate: true
+  xy: 321, 471
+  size: 26, 64
+  orig: 27, 186
+  offset: 0, 122
+  index: -1

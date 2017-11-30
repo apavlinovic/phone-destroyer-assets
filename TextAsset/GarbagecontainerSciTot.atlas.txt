@@ -1,0 +1,69 @@
+
+GarbagecontainerSciTot.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Can
+  rotate: false
+  xy: 147, 34
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+Container_Behind
+  rotate: false
+  xy: 6, 24
+  size: 90, 36
+  orig: 90, 36
+  offset: 0, 0
+  index: -1
+Container_Front
+  rotate: false
+  xy: 6, 66
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+EllipseShadow
+  rotate: true
+  xy: 218, 90
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: -1
+Fish
+  rotate: true
+  xy: 218, 22
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+Lid
+  rotate: true
+  xy: 147, 76
+  size: 96, 65
+  orig: 96, 65
+  offset: 0, 0
+  index: -1
+TrashInContainer
+  rotate: false
+  xy: 155, 179
+  size: 91, 67
+  orig: 91, 67
+  offset: 0, 0
+  index: -1
+TrashPile_Back
+  rotate: false
+  xy: 6, 178
+  size: 143, 68
+  orig: 143, 68
+  offset: 0, 0
+  index: -1
+TrashPile_Front
+  rotate: true
+  xy: 102, 40
+  size: 132, 39
+  orig: 132, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+ChickencoopFanTot.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bridge
+  rotate: true
+  xy: 5, 181
+  size: 36, 125
+  orig: 36, 125
+  offset: 0, 0
+  index: -1
+CoopShadow
+  rotate: false
+  xy: 214, 134
+  size: 78, 373
+  orig: 78, 373
+  offset: 0, 0
+  index: -1
+DoorFramePiece
+  rotate: true
+  xy: 259, 5
+  size: 8, 68
+  orig: 8, 68
+  offset: 0, 0
+  index: -1
+Frame_Back
+  rotate: true
+  xy: 370, 252
+  size: 255, 60
+  orig: 255, 60
+  offset: 0, 0
+  index: -1
+Frame_Front
+  rotate: true
+  xy: 297, 250
+  size: 257, 68
+  orig: 257, 68
+  offset: 0, 0
+  index: -1
+FrontWall
+  rotate: false
+  xy: 5, 353
+  size: 204, 154
+  orig: 204, 154
+  offset: 0, 0
+  index: -1
+FrontWall_Inside
+  rotate: false
+  xy: 5, 222
+  size: 193, 126
+  orig: 193, 126
+  offset: 0, 0
+  index: -1
+Pillar_Back_Left
+  rotate: true
+  xy: 417, 21
+  size: 18, 68
+  orig: 18, 68
+  offset: 0, 0
+  index: -1
+Pillar_Back_Right
+  rotate: true
+  xy: 135, 197
+  size: 20, 61
+  orig: 20, 61
+  offset: 0, 0
+  index: -1
+Pillar_Front_Left
+  rotate: true
+  xy: 259, 18
+  size: 21, 75
+  orig: 21, 75
+  offset: 0, 0
+  index: -1
+Pillar_Front_Right
+  rotate: true
+  xy: 339, 18
+  size: 21, 73
+  orig: 21, 73
+  offset: 0, 0
+  index: -1
+Roof_Behind
+  rotate: false
+  xy: 259, 44
+  size: 246, 85
+  orig: 246, 85
+  offset: 0, 0
+  index: -1
+Roof_Front
+  rotate: false
+  xy: 5, 13
+  size: 249, 116
+  orig: 249, 116
+  offset: 0, 0
+  index: -1
+SideWall
+  rotate: true
+  xy: 297, 187
+  size: 58, 206
+  orig: 58, 206
+  offset: 0, 0
+  index: -1
+SideWall_Inside
+  rotate: false
+  xy: 435, 301
+  size: 58, 206
+  orig: 58, 206
+  offset: 0, 0
+  index: -1

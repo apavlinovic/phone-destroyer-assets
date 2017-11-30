@@ -1,0 +1,17 @@
+{
+  "Dialog_1": 
+  {
+    "Position": 1,
+    "LocalizationKey": "DF_TUTORIAL_019",
+    "SkeletonData": "CartmanAdvCharPF",
+    "AnimationName": "Idle_Down",
+    "TypingDelay": 3.0,
+    "Type": 1,
+    "LoopAnimation": true,
+    "PauseOnDialogPause": false,
+	"CharacterActiveAfterDialogEnd": true,
+	"AnimateAfterDialogEnd": true,
+	"AnimationNameAfterDialogEnd": "Idle_Down",
+	"LoopAnimationAfterDialogEnd": true
+  }
+}

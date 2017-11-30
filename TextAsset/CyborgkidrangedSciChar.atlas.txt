@@ -1,0 +1,314 @@
+
+CyborgkidrangedSciChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: true
+  xy: 131, 168
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: false
+  xy: 154, 72
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: false
+  xy: 110, 5
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: false
+  xy: 156, 119
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 158, 309
+  size: 96, 68
+  orig: 96, 68
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 412, 438
+  size: 92, 69
+  orig: 92, 69
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 183, 232
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 184, 56
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 183, 189
+  size: 71, 38
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 375, 312
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: true
+  xy: 259, 308
+  size: 69, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 302, 340
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: true
+  xy: 250, 235
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: false
+  xy: 302, 297
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: false
+  xy: 412, 395
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 259, 193
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: false
+  xy: 182, 92
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: false
+  xy: 118, 128
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 118, 88
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookBack
+  rotate: false
+  xy: 118, 48
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: false
+  xy: 182, 124
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: false
+  xy: 293, 256
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Hand_Front_2
+  rotate: false
+  xy: 296, 214
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Hand_Front_3
+  rotate: false
+  xy: 218, 136
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 154, 46
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Hat_Back
+  rotate: false
+  xy: 5, 300
+  size: 148, 99
+  orig: 148, 99
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: false
+  xy: 5, 404
+  size: 148, 103
+  orig: 148, 103
+  offset: 0, 0
+  index: -1
+Hat_Side
+  rotate: true
+  xy: 5, 39
+  size: 125, 108
+  orig: 125, 108
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 285, 383
+  size: 122, 124
+  orig: 122, 124
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 158, 382
+  size: 122, 125
+  orig: 122, 125
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 5, 169
+  size: 121, 126
+  orig: 121, 126
+  offset: 0, 0
+  index: -1
+Laser
+  rotate: true
+  xy: 131, 193
+  size: 102, 47
+  orig: 102, 47
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 5, 9
+  size: 100, 25
+  orig: 100, 25
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 183, 164
+  size: 59, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 158, 300
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: false
+  xy: 296, 198
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: false
+  xy: 293, 240
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: false
+  xy: 218, 125
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: true
+  xy: 247, 168
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: true
+  xy: 493, 407
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: false
+  xy: 182, 74
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: false
+  xy: 375, 296
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Router-Antenna
+  rotate: true
+  xy: 412, 384
+  size: 6, 51
+  orig: 6, 51
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 333, 258
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1

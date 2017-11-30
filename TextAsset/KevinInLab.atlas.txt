@@ -1,0 +1,48 @@
+
+KevinInLab.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_Front
+  rotate: false
+  xy: 4, 293
+  size: 212, 168
+  orig: 214, 168
+  offset: 1, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 197, 118
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 4, 48
+  size: 97, 51
+  orig: 97, 51
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 413, 410
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 4, 103
+  size: 189, 186
+  orig: 189, 186
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 220, 280
+  size: 189, 181
+  orig: 189, 181
+  offset: 0, 0
+  index: -1

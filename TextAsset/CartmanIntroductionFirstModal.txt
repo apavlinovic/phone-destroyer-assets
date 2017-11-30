@@ -1,0 +1,16 @@
+{
+  "id": 5,
+  "actorId": "Cartman",
+  "threadTitle": "Welcome New kid",
+  "messages": [
+    {
+      "id": 1,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_VM_FIRST_CARTMAN_VO",
+      "messageAudioKey": "Play_VM_CAR_02",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 5.0
+    }
+  ]
+}

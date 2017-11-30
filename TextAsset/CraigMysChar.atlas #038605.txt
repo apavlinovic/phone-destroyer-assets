@@ -1,0 +1,76 @@
+
+CraigMysChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_2
+  rotate: true
+  xy: 399, 204
+  size: 45, 82
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 6, 98
+  size: 189, 135
+  orig: 189, 135
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 201, 157
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 257, 172
+  size: 136, 77
+  orig: 136, 77
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: false
+  xy: 201, 192
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: false
+  xy: 6, 239
+  size: 245, 257
+  orig: 245, 257
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 257, 255
+  size: 239, 241
+  orig: 239, 241
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 6, 42
+  size: 201, 50
+  orig: 201, 50
+  offset: 0, 0
+  index: -1
+Mic
+  rotate: true
+  xy: 6, 8
+  size: 28, 100
+  orig: 28, 100
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 112, 28
+  size: 38, 8
+  orig: 38, 8
+  offset: 0, 0
+  index: -1

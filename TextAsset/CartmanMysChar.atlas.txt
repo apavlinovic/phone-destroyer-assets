@@ -1,0 +1,279 @@
+
+CartmanMysChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: false
+  xy: 411, 140
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+Arm_Front_Left
+  rotate: false
+  xy: 290, 41
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+Arm_Side
+  rotate: false
+  xy: 219, 292
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 5, 377
+  size: 212, 130
+  orig: 212, 130
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 5, 245
+  size: 209, 127
+  orig: 209, 127
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 222, 391
+  size: 186, 116
+  orig: 186, 116
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 28, 6
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 359, 119
+  size: 47, 79
+  orig: 47, 80
+  offset: 0, 1
+  index: -1
+Ear_Front_Left
+  rotate: true
+  xy: 411, 120
+  size: 15, 59
+  orig: 15, 59
+  offset: 0, 0
+  index: -1
+Ear_Front_Right
+  rotate: true
+  xy: 411, 101
+  size: 14, 59
+  orig: 14, 59
+  offset: 0, 0
+  index: -1
+Ear_Side
+  rotate: true
+  xy: 413, 372
+  size: 33, 82
+  orig: 33, 82
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 413, 461
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: false
+  xy: 222, 352
+  size: 80, 34
+  orig: 80, 34
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 413, 410
+  size: 82, 46
+  orig: 82, 46
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: false
+  xy: 203, 47
+  size: 82, 46
+  orig: 82, 46
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 264, 303
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: true
+  xy: 475, 96
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 219, 245
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: false
+  xy: 262, 245
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Hand_Back_2
+  rotate: true
+  xy: 307, 340
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+Hand_Front_2
+  rotate: true
+  xy: 307, 290
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+Hand_Front_Left_1
+  rotate: true
+  xy: 161, 13
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+Hand_Front_Right_1
+  rotate: false
+  xy: 305, 251
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 98
+  size: 172, 142
+  orig: 172, 142
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 182, 98
+  size: 172, 142
+  orig: 172, 142
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: true
+  xy: 359, 203
+  size: 164, 145
+  orig: 164, 145
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 5, 59
+  size: 193, 34
+  orig: 193, 34
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 5, 23
+  size: 151, 31
+  orig: 151, 31
+  offset: 0, 0
+  index: -1
+Mouth_Front_A
+  rotate: true
+  xy: 500, 432
+  size: 24, 7
+  orig: 24, 7
+  offset: 0, 0
+  index: -1
+Mouth_Front_A2
+  rotate: false
+  xy: 359, 372
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 264, 293
+  size: 22, 5
+  orig: 22, 5
+  offset: 0, 0
+  index: -1
+Mouth_Front_O
+  rotate: false
+  xy: 391, 374
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+Mouth_Front_O2
+  rotate: false
+  xy: 363, 54
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: false
+  xy: 411, 82
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: true
+  xy: 500, 409
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: false
+  xy: 203, 25
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+Phone_Hand3Thumb_LeftRight_Wear
+  rotate: false
+  xy: 5, 5
+  size: 18, 13
+  orig: 90, 90
+  offset: 42, 55
+  index: -1
+Phone_Hand_LeftRight_Wear_3
+  rotate: true
+  xy: 363, 76
+  size: 38, 43
+  orig: 90, 90
+  offset: 28, 25
+  index: -1
+Phone_back_TILTED
+  rotate: true
+  xy: 478, 137
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+
+CartmanSciChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Antenna_Front_1
+  rotate: false
+  xy: 395, 405
+  size: 51, 102
+  orig: 51, 102
+  offset: 0, 0
+  index: -1
+Antenna_Front_2
+  rotate: false
+  xy: 394, 48
+  size: 24, 110
+  orig: 24, 110
+  offset: 0, 0
+  index: -1
+Arm_Front_1
+  rotate: false
+  xy: 419, 215
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: true
+  xy: 96, 132
+  size: 218, 86
+  orig: 218, 86
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 191, 288
+  size: 217, 86
+  orig: 217, 86
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 5, 109
+  size: 241, 86
+  orig: 241, 86
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 170, 55
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 5, 61
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: false
+  xy: 90, 49
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: false
+  xy: 5, 13
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+Hand_Back
+  rotate: false
+  xy: 88, 5
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Hand_Front_1
+  rotate: false
+  xy: 394, 5
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: false
+  xy: 451, 303
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 187, 155
+  size: 198, 128
+  orig: 198, 128
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 191, 379
+  size: 199, 128
+  orig: 199, 128
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 187, 21
+  size: 172, 129
+  orig: 172, 129
+  offset: 0, 0
+  index: -1
+Leg_Front
+  rotate: true
+  xy: 413, 305
+  size: 95, 33
+  orig: 95, 33
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 451, 351
+  size: 156, 40
+  orig: 156, 40
+  offset: 0, 0
+  index: -1
+LightBlinking
+  rotate: false
+  xy: 125, 8
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 177, 106
+  size: 21, 4
+  orig: 21, 4
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: false
+  xy: 459, 285
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: true
+  xy: 492, 308
+  size: 38, 12
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
+Neck_Front
+  rotate: true
+  xy: 364, 13
+  size: 137, 25
+  orig: 137, 25
+  offset: 0, 0
+  index: -1
+Neck_Side
+  rotate: true
+  xy: 390, 163
+  size: 120, 24
+  orig: 120, 24
+  offset: 0, 0
+  index: -1
+Phone_Hand3Thumb_LeftRight_Wear
+  rotate: true
+  xy: 395, 383
+  size: 17, 13
+  orig: 84, 84
+  offset: 39, 51
+  index: -1
+Phone_Hand_LeftRight_Wear_3
+  rotate: false
+  xy: 419, 258
+  size: 35, 40
+  orig: 84, 84
+  offset: 26, 23
+  index: -1
+Phone_back_TILTED
+  rotate: false
+  xy: 125, 19
+  size: 57, 25
+  orig: 57, 25
+  offset: 0, 0
+  index: -1
+RealHead_Front
+  rotate: false
+  xy: 5, 355
+  size: 181, 152
+  orig: 181, 152
+  offset: 0, 0
+  index: -1
+Spring_Front
+  rotate: true
+  xy: 96, 85
+  size: 42, 76
+  orig: 42, 76
+  offset: 0, 0
+  index: -1

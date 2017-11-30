@@ -1,0 +1,76 @@
+
+KennyMysChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Side_2
+  rotate: true
+  xy: 5, 5
+  size: 40, 84
+  orig: 40, 84
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: true
+  xy: 343, 317
+  size: 190, 153
+  orig: 194, 153
+  offset: 3, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 374, 47
+  size: 86, 89
+  orig: 86, 89
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 193, 72
+  size: 135, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Hand_Front_1
+  rotate: true
+  xy: 465, 34
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: true
+  xy: 465, 85
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 153
+  size: 333, 354
+  orig: 334, 354
+  offset: 1, 0
+  index: -1
+Hood_Front
+  rotate: true
+  xy: 343, 141
+  size: 171, 149
+  orig: 171, 149
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 193, 21
+  size: 176, 46
+  orig: 176, 46
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 5, 50
+  size: 98, 183
+  orig: 98, 183
+  offset: 0, 0
+  index: -1

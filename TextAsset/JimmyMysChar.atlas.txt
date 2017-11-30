@@ -1,0 +1,104 @@
+
+JimmyMysChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow_Front
+  rotate: true
+  xy: 74, 16
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+ArmUp_Front
+  rotate: true
+  xy: 6, 12
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 6, 55
+  size: 142, 197
+  orig: 142, 197
+  offset: 0, 0
+  index: -1
+Chikadee-y body
+  rotate: false
+  xy: 280, 346
+  size: 148, 160
+  orig: 148, 160
+  offset: 0, 0
+  index: -1
+Chikadee-y left wing
+  rotate: false
+  xy: 243, 191
+  size: 50, 61
+  orig: 51, 61
+  offset: 1, 0
+  index: -1
+Chikadee-y right wing
+  rotate: true
+  xy: 434, 349
+  size: 25, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+Crutches_Front_Left
+  rotate: true
+  xy: 280, 273
+  size: 67, 154
+  orig: 67, 154
+  offset: 0, 0
+  index: -1
+Crutches_Front_Right
+  rotate: false
+  xy: 154, 102
+  size: 83, 150
+  orig: 83, 150
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 434, 380
+  size: 126, 72
+  orig: 126, 72
+  offset: 0, 0
+  index: -1
+Hand_Front_1
+  rotate: false
+  xy: 440, 308
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 258
+  size: 268, 248
+  orig: 268, 248
+  offset: 0, 0
+  index: -1
+Legs_Front_LeftFoot
+  rotate: false
+  xy: 243, 130
+  size: 47, 55
+  orig: 54, 58
+  offset: 2, 0
+  index: -1
+Legs_Front_RightFoot
+  rotate: false
+  xy: 154, 50
+  size: 71, 46
+  orig: 75, 50
+  offset: 1, 3
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 280, 259
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1

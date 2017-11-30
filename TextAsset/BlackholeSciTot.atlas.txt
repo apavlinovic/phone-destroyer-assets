@@ -1,0 +1,153 @@
+
+BlackholeSciTot.png
+size: 1009,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow_Side
+  rotate: false
+  xy: 4, 126
+  size: 295, 337
+  orig: 295, 337
+  offset: 0, 0
+  index: -1
+ArmUp_Side
+  rotate: false
+  xy: 4, 4
+  size: 200, 118
+  orig: 200, 118
+  offset: 0, 0
+  index: -1
+Arm_Front2
+  rotate: false
+  xy: 800, 237
+  size: 124, 452
+  orig: 124, 452
+  offset: 0, 0
+  index: -1
+Belt_Front
+  rotate: true
+  xy: 767, 693
+  size: 312, 238
+  orig: 312, 238
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 444, 424
+  size: 319, 581
+  orig: 319, 581
+  offset: 0, 0
+  index: -1
+EyeBrow_Left
+  rotate: false
+  xy: 356, 451
+  size: 40, 12
+  orig: 40, 12
+  offset: 0, 0
+  index: -1
+EyeBrow_Right
+  rotate: false
+  xy: 400, 451
+  size: 40, 12
+  orig: 40, 12
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: true
+  xy: 928, 544
+  size: 145, 76
+  orig: 145, 76
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: false
+  xy: 295, 34
+  size: 136, 56
+  orig: 136, 56
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 928, 396
+  size: 144, 71
+  orig: 144, 71
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_lookUp
+  rotate: true
+  xy: 928, 248
+  size: 144, 71
+  orig: 144, 71
+  offset: 0, 0
+  index: -1
+Hand1
+  rotate: true
+  xy: 208, 9
+  size: 113, 83
+  orig: 113, 83
+  offset: 0, 0
+  index: -1
+Hand2
+  rotate: true
+  xy: 800, 62
+  size: 171, 133
+  orig: 171, 133
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: true
+  xy: 303, 94
+  size: 326, 493
+  orig: 326, 493
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 4, 467
+  size: 436, 538
+  orig: 436, 538
+  offset: 0, 0
+  index: -1
+Mouth_Front_A
+  rotate: false
+  xy: 435, 76
+  size: 43, 14
+  orig: 43, 14
+  offset: 0, 0
+  index: -1
+Mouth_Front_A2
+  rotate: false
+  xy: 303, 439
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+Mouth_Front_I
+  rotate: false
+  xy: 295, 18
+  size: 47, 12
+  orig: 47, 12
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 303, 427
+  size: 40, 8
+  orig: 40, 8
+  offset: 0, 0
+  index: -1
+Mouth_Front_O
+  rotate: false
+  xy: 767, 624
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Mouth_Front_O2
+  rotate: true
+  xy: 767, 648
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1

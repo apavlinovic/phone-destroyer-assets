@@ -1,0 +1,69 @@
+
+ButtersMysChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_2
+  rotate: true
+  xy: 249, 228
+  size: 64, 107
+  orig: 64, 107
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 249, 380
+  size: 189, 126
+  orig: 189, 126
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 249, 298
+  size: 136, 76
+  orig: 136, 76
+  offset: 0, 0
+  index: -1
+FancyBowTie_Front
+  rotate: false
+  xy: 6, 110
+  size: 211, 120
+  orig: 223, 120
+  offset: 8, 0
+  index: -1
+HandBell_1
+  rotate: false
+  xy: 391, 299
+  size: 115, 75
+  orig: 115, 75
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 6, 10
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 236
+  size: 237, 270
+  orig: 238, 270
+  offset: 1, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 6, 55
+  size: 202, 49
+  orig: 202, 49
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 444, 498
+  size: 37, 8
+  orig: 37, 8
+  offset: 0, 0
+  index: -1

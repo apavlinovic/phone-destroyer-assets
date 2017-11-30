@@ -1,0 +1,41 @@
+
+Rocket.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sci_Spawner_DoorMechanism
+  rotate: false
+  xy: 5, 5
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
+Sci_Spawner_DoorPart_1
+  rotate: false
+  xy: 345, 140
+  size: 64, 101
+  orig: 64, 101
+  offset: 0, 0
+  index: -1
+Sci_Spawner_DoorPart_2
+  rotate: false
+  xy: 276, 139
+  size: 64, 102
+  orig: 64, 102
+  offset: 0, 0
+  index: -1
+Sci_Spawner_RocketHull
+  rotate: false
+  xy: 5, 39
+  size: 266, 455
+  orig: 266, 455
+  offset: 0, 0
+  index: -1
+Sci_Spawner_Shadow&Darkness
+  rotate: true
+  xy: 276, 246
+  size: 248, 216
+  orig: 248, 216
+  offset: 0, 0
+  index: -1

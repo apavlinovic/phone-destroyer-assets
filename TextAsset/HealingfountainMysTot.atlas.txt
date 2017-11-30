@@ -1,0 +1,125 @@
+
+HealingfountainMysTot.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Broken_Piece
+  rotate: true
+  xy: 229, 196
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Fountain_Bowl_1
+  rotate: false
+  xy: 5, 74
+  size: 86, 62
+  orig: 86, 62
+  offset: 0, 0
+  index: -1
+Fountain_Bowl_2
+  rotate: false
+  xy: 5, 7
+  size: 86, 62
+  orig: 86, 62
+  offset: 0, 0
+  index: -1
+Fountain_Bowl_3
+  rotate: false
+  xy: 138, 188
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+Fountain_Leg
+  rotate: false
+  xy: 147, 21
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+Fountain_Pillar
+  rotate: false
+  xy: 229, 220
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+Puddle
+  rotate: true
+  xy: 122, 12
+  size: 93, 20
+  orig: 93, 20
+  offset: 0, 0
+  index: -1
+Sign1
+  rotate: false
+  xy: 195, 58
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+Sign2
+  rotate: true
+  xy: 212, 103
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+WaterPillar_1
+  rotate: true
+  xy: 119, 162
+  size: 7, 129
+  orig: 7, 129
+  offset: 0, 0
+  index: -1
+WaterPillar_2
+  rotate: false
+  xy: 111, 5
+  size: 6, 131
+  orig: 6, 131
+  offset: 0, 0
+  index: -1
+WaterPillar_3
+  rotate: true
+  xy: 119, 174
+  size: 9, 130
+  orig: 9, 130
+  offset: 0, 0
+  index: -1
+WaterPillar_4
+  rotate: false
+  xy: 96, 5
+  size: 10, 131
+  orig: 10, 131
+  offset: 0, 0
+  index: -1
+WaterSpread_1
+  rotate: false
+  xy: 5, 197
+  size: 128, 52
+  orig: 128, 52
+  offset: 0, 0
+  index: -1
+WaterSpread_2
+  rotate: false
+  xy: 5, 141
+  size: 109, 51
+  orig: 109, 51
+  offset: 0, 0
+  index: -1
+WaterSpread_3
+  rotate: false
+  xy: 122, 110
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+WaterSpread_4
+  rotate: true
+  xy: 147, 44
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1

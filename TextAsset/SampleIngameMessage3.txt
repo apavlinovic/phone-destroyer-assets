@@ -1,0 +1,57 @@
+{
+  "id": 3,
+  "actorId": "Cartman",
+  "threadTitle": "Sample",
+  "messages": [
+    {
+      "id": 1,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_VM_TEST_01",
+      "messageAudioKey": "Play_VM_CAR_01",
+      "forcedMessage": true,
+      "playNext": true,
+      "leftSide" :  true,
+      "delay": 0.0
+    },
+    {
+      "id": 2,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_VM_TEST_02",
+      "messageAudioKey": "Play_VM_CAR_01",
+      "forcedMessage": true,
+      "playNext": true,
+      "leftSide" :  true,
+      "delay": 0.0
+    },
+    {
+      "id": 3,
+      "actorId": "Stan",
+      "messageTextKey": "DF_VM_TEST_03",
+      "messageAudioKey": "Play_VM_TIM_01",
+      "forcedMessage": true,
+      "playNext": true,
+      "leftSide" :  false,
+      "delay": 0.0
+    },
+    {
+      "id": 4,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_VM_TEST_04",
+      "messageAudioKey": "Play_VM_CAR_01",
+      "forcedMessage": true,
+      "playNext": true,
+      "leftSide" :  true,
+      "delay": 0.0
+    },
+    {
+      "id": 5,
+      "actorId": "Stan",
+      "messageTextKey": "DF_VM_TEST_05",
+      "messageAudioKey": "Play_VM_TIM_01",
+      "forcedMessage": true,
+      "playNext": false,
+      "leftSide" :  false,
+      "delay": 0.0
+    }
+  ]
+}

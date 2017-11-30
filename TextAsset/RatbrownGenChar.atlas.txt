@@ -1,0 +1,69 @@
+
+RatbrownGenChar.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BrownRat_Body
+  rotate: false
+  xy: 5, 87
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+BrownRat_Eyes_Closed
+  rotate: false
+  xy: 5, 21
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+GrayRat_Body
+  rotate: false
+  xy: 5, 49
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+GrayRat_Eyes_Closed
+  rotate: false
+  xy: 95, 71
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+Rat_Eyes_Open
+  rotate: false
+  xy: 5, 5
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+Tail_Curled
+  rotate: false
+  xy: 63, 63
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+Tail_Straight
+  rotate: false
+  xy: 5, 37
+  size: 46, 7
+  orig: 46, 7
+  offset: 0, 0
+  index: -1
+WhiteRat_Body
+  rotate: false
+  xy: 63, 87
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+WhiteRat_Eyes_Closed
+  rotate: false
+  xy: 26, 21
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1

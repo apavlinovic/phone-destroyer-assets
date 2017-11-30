@@ -1,0 +1,104 @@
+
+KylephonebossMysChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_Front
+  rotate: false
+  xy: 5, 10
+  size: 173, 141
+  orig: 173, 141
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 391, 42
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: true
+  xy: 183, 15
+  size: 136, 125
+  orig: 136, 125
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: true
+  xy: 433, 369
+  size: 138, 74
+  orig: 138, 74
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 433, 233
+  size: 131, 73
+  orig: 131, 73
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: true
+  xy: 313, 38
+  size: 131, 73
+  orig: 131, 73
+  offset: 0, 0
+  index: -1
+Gear/NakedShirt_Arm_LeftRight_Wear_FrontBack_3
+  rotate: false
+  xy: 391, 71
+  size: 59, 89
+  orig: 127, 152
+  offset: 34, 26
+  index: -1
+Gear/NakedShirt_Hand3Thumb_LeftRight_Wear
+  rotate: false
+  xy: 313, 18
+  size: 20, 15
+  orig: 145, 145
+  offset: 69, 83
+  index: -1
+Gear/NakedShirt_Hand_LeftRight_Wear_3
+  rotate: false
+  xy: 455, 113
+  size: 42, 47
+  orig: 145, 145
+  offset: 54, 51
+  index: -1
+Gear/Phone_BACK
+  rotate: false
+  xy: 410, 165
+  size: 97, 53
+  orig: 97, 53
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: true
+  xy: 243, 223
+  size: 284, 185
+  orig: 284, 185
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 260
+  size: 233, 247
+  orig: 261, 260
+  offset: 14, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 227, 174
+  size: 178, 44
+  orig: 178, 44
+  offset: 0, 0
+  index: -1
+Scroll Case
+  rotate: false
+  xy: 5, 156
+  size: 217, 99
+  orig: 217, 99
+  offset: 0, 0
+  index: -1

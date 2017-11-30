@@ -1,0 +1,132 @@
+
+FourassedmonkeyGenChar.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: false
+  xy: 76, 5
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+Ass1
+  rotate: false
+  xy: 182, 122
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Ass2
+  rotate: true
+  xy: 193, 5
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+Ass3
+  rotate: false
+  xy: 211, 51
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+Ass4
+  rotate: false
+  xy: 182, 86
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+AssExploded
+  rotate: false
+  xy: 131, 5
+  size: 27, 29
+  orig: 27, 31
+  offset: 0, 1
+  index: -1
+Body_Front
+  rotate: false
+  xy: 5, 144
+  size: 71, 107
+  orig: 71, 107
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 5, 32
+  size: 71, 107
+  orig: 71, 107
+  offset: 0, 0
+  index: -1
+Eyes_Closed
+  rotate: true
+  xy: 231, 214
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+Eyes_Open
+  rotate: true
+  xy: 231, 173
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+Eyes_Open_Pupil
+  rotate: false
+  xy: 81, 32
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+Fur
+  rotate: true
+  xy: 163, 5
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 81, 94
+  size: 96, 75
+  orig: 96, 75
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 81, 174
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 81, 39
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+Snout
+  rotate: false
+  xy: 168, 48
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+Tail_1
+  rotate: true
+  xy: 187, 158
+  size: 93, 39
+  orig: 93, 39
+  offset: 0, 0
+  index: -1
+Tail_2
+  rotate: true
+  xy: 5, 5
+  size: 22, 66
+  orig: 22, 66
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+TokenSciChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Side_2
+  rotate: false
+  xy: 433, 419
+  size: 40, 81
+  orig: 45, 86
+  offset: 2, 2
+  index: -1
+Body_Front
+  rotate: false
+  xy: 6, 118
+  size: 193, 120
+  orig: 193, 120
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 205, 213
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: true
+  xy: 366, 315
+  size: 185, 61
+  orig: 186, 61
+  offset: 1, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 366, 233
+  size: 134, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: false
+  xy: 6, 16
+  size: 47, 40
+  orig: 49, 42
+  offset: 1, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 244
+  size: 239, 256
+  orig: 239, 256
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 6, 62
+  size: 196, 50
+  orig: 197, 50
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 433, 405
+  size: 38, 8
+  orig: 38, 8
+  offset: 0, 0
+  index: -1
+Weapon_1
+  rotate: false
+  xy: 251, 252
+  size: 109, 248
+  orig: 109, 251
+  offset: 0, 3
+  index: -1

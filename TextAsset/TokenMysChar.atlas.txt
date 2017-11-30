@@ -1,0 +1,83 @@
+
+TokenMysChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_2
+  rotate: true
+  xy: 6, 37
+  size: 44, 89
+  orig: 47, 92
+  offset: 2, 2
+  index: -1
+Body_Front
+  rotate: false
+  xy: 6, 87
+  size: 186, 157
+  orig: 186, 157
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 6, 6
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 401, 242
+  size: 134, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 345, 132
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: true
+  xy: 198, 194
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 250
+  size: 239, 256
+  orig: 239, 256
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 345, 177
+  size: 199, 50
+  orig: 199, 50
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 401, 228
+  size: 37, 8
+  orig: 37, 8
+  offset: 0, 0
+  index: -1
+Necklace_Front
+  rotate: false
+  xy: 345, 382
+  size: 158, 124
+  orig: 184, 124
+  offset: 13, 0
+  index: -1
+VoodooStaff
+  rotate: false
+  xy: 251, 115
+  size: 88, 391
+  orig: 96, 392
+  offset: 6, 0
+  index: -1

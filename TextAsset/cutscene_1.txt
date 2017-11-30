@@ -1,0 +1,91 @@
+{
+	"Dialog_1": {
+		"Position": 1,
+		"LocalizationKey": "DF_TS_LONG",
+		"SkeletonData": "ButtersGenCharPF",
+		"AnimationName": "Idle_Down",
+		"TypingDelay": 5.0,
+		"Type": 1,
+		"LoopAnimation": true,
+		"PauseOnDialogPause": true,
+		"CharacterActiveAfterDialogEnd": true,
+		"AnimateAfterDialogEnd": true,
+		"AnimationNameAfterDialogEnd": "Idle_Down",
+		"LoopAnimationAfterDialogEnd": true
+	},
+	
+	"Dialog_6": {
+		"Position": 1,
+		"LocalizationKey": "DF_TS_MEDIUM",
+		"SkeletonData": "ButtersGenCharPF",
+		"AnimationName": "Attack_Down",
+		"TypingDelay": 5.0,
+		"Type": 2,
+		"LoopAnimation": true,
+		"PauseOnDialogPause": true,
+		"CharacterActiveAfterDialogEnd": true,
+		"AnimateAfterDialogEnd": true,
+		"AnimationNameAfterDialogEnd": "Idle_Down",
+		"LoopAnimationAfterDialogEnd": false
+	},
+
+	"Dialog_2": {
+		"Position": 2,
+		"LocalizationKey": "DF_TS_MEDIUM",
+		"SkeletonData": "ButtersGenCharPF",
+		"AnimationName": "Idle_Down",
+		"TypingDelay": 5.0,
+		"Type": 1,
+		"LoopAnimation": false,
+		"PauseOnDialogPause": true,
+		"CharacterActiveAfterDialogEnd": true,
+		"AnimateAfterDialogEnd": true,
+		"AnimationNameAfterDialogEnd": "Idle_Down",
+		"LoopAnimationAfterDialogEnd": false
+	},
+	
+	"Dialog_3": {
+		"Position": 1,
+		"LocalizationKey": "DF_TS_LONG",
+		"SkeletonData": "ButtersGenCharPF",
+		"AnimationName": "Idle_Down",
+		"TypingDelay": 5.0,
+		"Type": 1,
+		"LoopAnimation": true,
+		"PauseOnDialogPause": true,
+		"CharacterActiveAfterDialogEnd": true,
+		"AnimateAfterDialogEnd": false,
+		"AnimationNameAfterDialogEnd": "Idle_Down",
+		"LoopAnimationAfterDialogEnd": false
+	},
+
+	"Dialog_4": {
+		"Position": 2,
+		"LocalizationKey": "DF_TS_MEDIUM",
+		"SkeletonData": "ButtersGenCharPF",
+		"AnimationName": "Idle_Down",
+		"TypingDelay": 5.0,
+		"Type": 1,
+		"LoopAnimation": false,
+		"PauseOnDialogPause": true,
+		"CharacterActiveAfterDialogEnd": true,
+		"AnimateAfterDialogEnd": true,
+		"AnimationNameAfterDialogEnd": "Idle_Down",
+		"LoopAnimationAfterDialogEnd": false
+	},
+
+	"Dialog_5": {
+		"Position": 1,
+		"LocalizationKey": "DF_TS_MEDIUM",
+		"SkeletonData": "ButtersGenCharPF",
+		"AnimationName": "Attack_Down",
+		"TypingDelay": 5.0,
+		"Type": 2,
+		"LoopAnimation": true,
+		"PauseOnDialogPause": true,
+		"CharacterActiveAfterDialogEnd": true,
+		"AnimateAfterDialogEnd": true,
+		"AnimationNameAfterDialogEnd": "Idle_Down",
+		"LoopAnimationAfterDialogEnd": false
+	}
+}

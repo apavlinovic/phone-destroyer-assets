@@ -1,0 +1,62 @@
+
+RunepileFanTot.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ring Perspective
+  rotate: false
+  xy: 6, 165
+  size: 231, 83
+  orig: 231, 83
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 81, 145
+  size: 107, 14
+  orig: 107, 14
+  offset: 0, 0
+  index: -1
+Stone1
+  rotate: false
+  xy: 81, 96
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+Stone2
+  rotate: false
+  xy: 6, 37
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+Stone3
+  rotate: false
+  xy: 6, 6
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Stone4
+  rotate: false
+  xy: 6, 74
+  size: 69, 85
+  orig: 69, 85
+  offset: 0, 0
+  index: -1
+Stone5
+  rotate: false
+  xy: 81, 73
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+Stone6
+  rotate: false
+  xy: 160, 98
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1

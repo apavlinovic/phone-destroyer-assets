@@ -1,0 +1,27 @@
+
+Cat.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cat_Eyes_Closed
+  rotate: true
+  xy: 176, 162
+  size: 86, 18
+  orig: 86, 18
+  offset: 0, 0
+  index: -1
+Cat_Eyes_HalfClosed
+  rotate: true
+  xy: 176, 71
+  size: 86, 14
+  orig: 86, 18
+  offset: 0, 4
+  index: -1
+cat
+  rotate: false
+  xy: 5, 5
+  size: 166, 243
+  orig: 243, 243
+  offset: 35, 0
+  index: -1

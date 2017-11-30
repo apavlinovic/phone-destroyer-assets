@@ -1,0 +1,62 @@
+
+TerrenceInLab.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_Back
+  rotate: false
+  xy: 4, 158
+  size: 243, 167
+  orig: 243, 167
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 599, 772
+  size: 240, 166
+  orig: 240, 166
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 4, 4
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 599, 691
+  size: 143, 77
+  orig: 143, 77
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 843, 865
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 4, 329
+  size: 289, 301
+  orig: 289, 301
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 306, 650
+  size: 289, 288
+  orig: 289, 288
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 4, 634
+  size: 298, 304
+  orig: 298, 304
+  offset: 0, 0
+  index: -1

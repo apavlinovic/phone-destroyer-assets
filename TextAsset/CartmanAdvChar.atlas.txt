@@ -1,0 +1,418 @@
+
+CartmanAdvChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_Front
+  rotate: false
+  xy: 247, 73
+  size: 198, 115
+  orig: 198, 115
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 493, 431
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+EmptyHolster_Back
+  rotate: true
+  xy: 450, 73
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+EmptyHolster_Front
+  rotate: false
+  xy: 455, 5
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: true
+  xy: 450, 99
+  size: 89, 48
+  orig: 89, 48
+  offset: 0, 0
+  index: -1
+Hand1
+  rotate: false
+  xy: 425, 38
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+Hand3
+  rotate: true
+  xy: 485, 51
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: false
+  xy: 5, 17
+  size: 232, 98
+  orig: 232, 98
+  offset: 0, 0
+  index: -1
+Hat_Side
+  rotate: false
+  xy: 256, 193
+  size: 246, 125
+  orig: 246, 125
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 120
+  size: 237, 187
+  orig: 237, 187
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 256, 323
+  size: 232, 184
+  orig: 232, 184
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 5, 312
+  size: 246, 195
+  orig: 246, 195
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 242, 38
+  size: 178, 30
+  orig: 178, 30
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 242, 6
+  size: 140, 27
+  orig: 140, 27
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 37, 7
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: true
+  xy: 493, 399
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: true
+  xy: 493, 465
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: false
+  xy: 5, 5
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: false
+  xy: 65, 6
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: true
+  xy: 482, 14
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: true
+  xy: 493, 369
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+Phone_Hand3Thumb_LeftRight_Wear
+  rotate: true
+  xy: 493, 345
+  size: 19, 14
+  orig: 93, 93
+  offset: 43, 57
+  index: -1
+Phone_back_TILTED
+  rotate: false
+  xy: 387, 5
+  size: 63, 28
+  orig: 63, 28
+  offset: 0, 0
+  index: -1
+
+CartmanAdvChar2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Back_Left
+  rotate: false
+  xy: 280, 120
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+Arm_Back_Right
+  rotate: false
+  xy: 379, 446
+  size: 94, 61
+  orig: 94, 61
+  offset: 0, 0
+  index: -1
+Arm_Front_Left
+  rotate: true
+  xy: 446, 181
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+Arm_Front_Right
+  rotate: true
+  xy: 362, 332
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+Arm_Side
+  rotate: false
+  xy: 418, 334
+  size: 43, 54
+  orig: 45, 55
+  offset: 2, 1
+  index: -1
+Body_Back
+  rotate: true
+  xy: 5, 137
+  size: 197, 112
+  orig: 197, 112
+  offset: 0, 0
+  index: -1
+Body_Down
+  rotate: false
+  xy: 179, 403
+  size: 195, 104
+  orig: 198, 115
+  offset: 3, 3
+  index: -1
+Body_Side
+  rotate: false
+  xy: 5, 14
+  size: 175, 118
+  orig: 175, 118
+  offset: 0, 0
+  index: -1
+EmptyHolster_Side
+  rotate: false
+  xy: 426, 97
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 446, 246
+  size: 83, 35
+  orig: 83, 35
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 379, 393
+  size: 84, 48
+  orig: 84, 48
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: false
+  xy: 122, 137
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 185, 5
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: false
+  xy: 335, 82
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 234, 56
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: true
+  xy: 327, 38
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: false
+  xy: 185, 56
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Flash1
+  rotate: true
+  xy: 478, 460
+  size: 47, 29
+  orig: 79, 79
+  offset: 28, 21
+  index: -1
+Flash2
+  rotate: false
+  xy: 378, 90
+  size: 43, 37
+  orig: 79, 79
+  offset: 27, 20
+  index: -1
+Flash3
+  rotate: true
+  xy: 468, 391
+  size: 50, 39
+  orig: 79, 79
+  offset: 27, 18
+  index: -1
+Foot_Down
+  rotate: false
+  xy: 211, 105
+  size: 64, 79
+  orig: 64, 79
+  offset: 0, 0
+  index: -1
+Hand2
+  rotate: false
+  xy: 274, 8
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+Hand_Revolver_OnTop
+  rotate: false
+  xy: 278, 45
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+Head_Down
+  rotate: false
+  xy: 5, 339
+  size: 169, 168
+  orig: 174, 168
+  offset: 5, 0
+  index: -1
+Head_Front_NoHat
+  rotate: false
+  xy: 122, 189
+  size: 161, 138
+  orig: 161, 138
+  offset: 0, 0
+  index: -1
+Head_Side_NoHat
+  rotate: false
+  xy: 288, 187
+  size: 153, 140
+  orig: 153, 140
+  offset: 0, 0
+  index: -1
+Legs_Down
+  rotate: false
+  xy: 179, 332
+  size: 178, 66
+  orig: 198, 115
+  offset: 8, 2
+  index: -1
+Mouth_Side_Open2
+  rotate: false
+  xy: 319, 17
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+Phone_Hand_LeftRight_Wear_3
+  rotate: false
+  xy: 230, 7
+  size: 39, 44
+  orig: 93, 93
+  offset: 29, 26
+  index: -1
+Revolver_Back_Holstered
+  rotate: false
+  xy: 466, 343
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+Revolver_Front_Holstered
+  rotate: true
+  xy: 280, 82
+  size: 33, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+Revolver_Front_InHand
+  rotate: false
+  xy: 460, 97
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Revolver_Side
+  rotate: false
+  xy: 367, 132
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+Revolver_Side_InHolster
+  rotate: true
+  xy: 445, 131
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+SheriffStar
+  rotate: false
+  xy: 185, 113
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1

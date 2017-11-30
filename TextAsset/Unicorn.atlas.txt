@@ -1,0 +1,20 @@
+
+Unicorn.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Doll
+  rotate: true
+  xy: 5, 5
+  size: 42, 82
+  orig: 42, 82
+  offset: 0, 0
+  index: -1
+Unicorn
+  rotate: false
+  xy: 5, 52
+  size: 218, 191
+  orig: 218, 191
+  offset: 0, 0
+  index: -1

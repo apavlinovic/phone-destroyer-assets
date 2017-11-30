@@ -1,0 +1,356 @@
+
+IndiankidtankAdvChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front
+  rotate: false
+  xy: 441, 139
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: false
+  xy: 403, 73
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 136, 207
+  size: 110, 96
+  orig: 110, 96
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 129, 106
+  size: 108, 96
+  orig: 108, 96
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 129, 5
+  size: 96, 104
+  orig: 96, 104
+  offset: 0, 0
+  index: -1
+Eyebrows
+  rotate: true
+  xy: 495, 306
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: false
+  xy: 418, 207
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: false
+  xy: 371, 22
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 479, 138
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: true
+  xy: 479, 169
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+HeadBand_Back_1
+  rotate: true
+  xy: 5, 75
+  size: 129, 119
+  orig: 129, 119
+  offset: 0, 0
+  index: -1
+HeadBand_Back_2
+  rotate: false
+  xy: 294, 463
+  size: 131, 44
+  orig: 131, 44
+  offset: 0, 0
+  index: -1
+HeadBand_Front
+  rotate: true
+  xy: 403, 335
+  size: 123, 104
+  orig: 123, 104
+  offset: 0, 0
+  index: -1
+HeadBand_Side_1
+  rotate: false
+  xy: 242, 110
+  size: 64, 84
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+HeadBand_Side_2
+  rotate: false
+  xy: 137, 350
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: true
+  xy: 272, 336
+  size: 122, 126
+  orig: 122, 126
+  offset: 0, 0
+  index: -1
+Head_Front-copy-2
+  rotate: false
+  xy: 5, 209
+  size: 126, 125
+  orig: 126, 125
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 5, 339
+  size: 127, 131
+  orig: 127, 131
+  offset: 0, 0
+  index: -1
+IndianKidTank_Shield
+  rotate: true
+  xy: 255, 248
+  size: 83, 89
+  orig: 84, 92
+  offset: 1, 2
+  index: -1
+IndianKidTank_Shield_Back
+  rotate: true
+  xy: 401, 248
+  size: 82, 89
+  orig: 84, 92
+  offset: 1, 2
+  index: -1
+IndianKidTank_Shield_BackHalf1
+  rotate: false
+  xy: 349, 244
+  size: 47, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+IndianKidTank_Shield_BackHalf2
+  rotate: false
+  xy: 311, 107
+  size: 43, 87
+  orig: 45, 87
+  offset: 0, 0
+  index: -1
+IndianKidTank_Shield_Half1
+  rotate: true
+  xy: 251, 199
+  size: 44, 88
+  orig: 48, 93
+  offset: 0, 5
+  index: -1
+IndianKidTank_Shield_Half2
+  rotate: false
+  xy: 238, 14
+  size: 46, 87
+  orig: 54, 87
+  offset: 6, 0
+  index: -1
+IndianKidTank_Shield_Handle
+  rotate: true
+  xy: 5, 13
+  size: 13, 45
+  orig: 15, 47
+  offset: 2, 0
+  index: -1
+IndianKidTank_Spear
+  rotate: false
+  xy: 5, 475
+  size: 284, 32
+  orig: 288, 55
+  offset: 2, 18
+  index: -1
+Legs_Back
+  rotate: false
+  xy: 137, 308
+  size: 113, 37
+  orig: 113, 37
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 5, 31
+  size: 113, 39
+  orig: 113, 39
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 430, 470
+  size: 77, 37
+  orig: 77, 37
+  offset: 0, 0
+  index: -1
+eyes1_Front
+  rotate: true
+  xy: 400, 132
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+eyes1_Side
+  rotate: true
+  xy: 442, 26
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+eyes2_Front
+  rotate: false
+  xy: 344, 202
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+eyes2_Side
+  rotate: false
+  xy: 406, 32
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+eyes3_Front
+  rotate: true
+  xy: 289, 29
+  size: 73, 36
+  orig: 73, 36
+  offset: 0, 0
+  index: -1
+eyes3_Front_LookDown
+  rotate: true
+  xy: 330, 29
+  size: 73, 36
+  orig: 73, 36
+  offset: 0, 0
+  index: -1
+eyes3_Side
+  rotate: false
+  xy: 442, 61
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+eyes5_Front
+  rotate: true
+  xy: 371, 61
+  size: 64, 27
+  orig: 64, 27
+  offset: 0, 0
+  index: -1
+eyes5_Side
+  rotate: false
+  xy: 478, 107
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+eyes6_Front
+  rotate: true
+  xy: 359, 130
+  size: 67, 36
+  orig: 67, 36
+  offset: 0, 0
+  index: -1
+eyes6_Side
+  rotate: false
+  xy: 441, 100
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+mth1_Front
+  rotate: true
+  xy: 93, 5
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+mth1_Side
+  rotate: false
+  xy: 289, 11
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+mth21_Front
+  rotate: false
+  xy: 238, 5
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+mth21_Side
+  rotate: false
+  xy: 109, 21
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+mth4_Front
+  rotate: false
+  xy: 318, 14
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+mth4_Side
+  rotate: false
+  xy: 255, 336
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+mth5_Front
+  rotate: false
+  xy: 55, 15
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+mth5_Side
+  rotate: true
+  xy: 495, 278
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+mth6_Front
+  rotate: false
+  xy: 55, 5
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+mth6_Side
+  rotate: true
+  xy: 495, 253
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1

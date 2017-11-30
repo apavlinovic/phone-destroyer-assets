@@ -1,0 +1,55 @@
+
+KennyFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Side_2
+  rotate: false
+  xy: 314, 335
+  size: 40, 84
+  orig: 40, 84
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 6, 6
+  size: 269, 154
+  orig: 269, 154
+  offset: 0, 0
+  index: -1
+Hand_Front_1
+  rotate: false
+  xy: 314, 278
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: true
+  xy: 314, 222
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+Kenny Fantasy whole head
+  rotate: false
+  xy: 6, 166
+  size: 302, 317
+  orig: 302, 317
+  offset: 0, 0
+  index: -1
+ShoulderPad_Front
+  rotate: false
+  xy: 360, 371
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+Wand
+  rotate: false
+  xy: 314, 425
+  size: 142, 58
+  orig: 142, 58
+  offset: 0, 0
+  index: -1

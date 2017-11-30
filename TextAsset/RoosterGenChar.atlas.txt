@@ -1,0 +1,146 @@
+
+RoosterGenChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BeakLow_Side
+  rotate: false
+  xy: 386, 395
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+BeakUp_Side
+  rotate: true
+  xy: 167, 274
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+Beak_Front_1
+  rotate: false
+  xy: 252, 44
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 185, 254
+  size: 148, 128
+  orig: 148, 128
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 167, 121
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 185, 387
+  size: 196, 119
+  orig: 196, 119
+  offset: 0, 0
+  index: -1
+Claw_Side
+  rotate: true
+  xy: 487, 455
+  size: 51, 18
+  orig: 51, 18
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 296, 141
+  size: 36, 108
+  orig: 36, 108
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: true
+  xy: 337, 92
+  size: 52, 89
+  orig: 52, 89
+  offset: 0, 0
+  index: -1
+Leg_Back
+  rotate: true
+  xy: 152, 5
+  size: 55, 95
+  orig: 55, 95
+  offset: 0, 0
+  index: -1
+Leg_Front
+  rotate: true
+  xy: 167, 65
+  size: 51, 105
+  orig: 51, 105
+  offset: 0, 0
+  index: -1
+Leg_Side
+  rotate: true
+  xy: 419, 261
+  size: 29, 75
+  orig: 29, 75
+  offset: 0, 0
+  index: -1
+Neck_Back
+  rotate: true
+  xy: 5, 12
+  size: 76, 142
+  orig: 76, 142
+  offset: 0, 0
+  index: -1
+Neck_Front
+  rotate: false
+  xy: 338, 269
+  size: 76, 113
+  orig: 76, 113
+  offset: 0, 0
+  index: -1
+Neck_Side
+  rotate: false
+  xy: 419, 295
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+Tail_Front
+  rotate: false
+  xy: 5, 296
+  size: 175, 210
+  orig: 175, 210
+  offset: 0, 0
+  index: -1
+Tail_Side
+  rotate: false
+  xy: 5, 93
+  size: 157, 198
+  orig: 157, 198
+  offset: 0, 0
+  index: -1
+WingLow_Side
+  rotate: false
+  xy: 386, 405
+  size: 96, 101
+  orig: 96, 101
+  offset: 0, 0
+  index: -1
+WingUp_Side
+  rotate: true
+  xy: 337, 149
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+Wing_Front
+  rotate: false
+  xy: 412, 167
+  size: 59, 89
+  orig: 59, 89
+  offset: 0, 0
+  index: -1

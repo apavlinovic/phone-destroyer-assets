@@ -1,0 +1,104 @@
+
+RoombaSciChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Brush
+  rotate: false
+  xy: 355, 251
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+BrushSpinning
+  rotate: false
+  xy: 198, 160
+  size: 57, 57
+  orig: 60, 59
+  offset: 2, 1
+  index: -1
+LightsOn_Back
+  rotate: true
+  xy: 434, 160
+  size: 228, 58
+  orig: 228, 58
+  offset: 0, 0
+  index: -1
+LightsOn_Front
+  rotate: false
+  xy: 198, 222
+  size: 152, 84
+  orig: 152, 84
+  offset: 0, 0
+  index: -1
+LightsOn_Side
+  rotate: true
+  xy: 240, 6
+  size: 129, 84
+  orig: 129, 84
+  offset: 0, 0
+  index: -1
+Roomba_Bottom_Back
+  rotate: false
+  xy: 5, 393
+  size: 230, 105
+  orig: 230, 105
+  offset: 0, 0
+  index: -1
+Roomba_Bottom_Front
+  rotate: false
+  xy: 240, 393
+  size: 230, 105
+  orig: 230, 105
+  offset: 0, 0
+  index: -1
+Roomba_Bottom_Side
+  rotate: true
+  xy: 5, 158
+  size: 230, 105
+  orig: 230, 105
+  offset: 0, 0
+  index: -1
+Roomba_Top_Back
+  rotate: false
+  xy: 198, 311
+  size: 231, 77
+  orig: 231, 77
+  offset: 0, 0
+  index: -1
+Roomba_Top_Front
+  rotate: false
+  xy: 5, 75
+  size: 230, 78
+  orig: 230, 78
+  offset: 0, 0
+  index: -1
+Roomba_Top_Side
+  rotate: true
+  xy: 115, 158
+  size: 230, 78
+  orig: 230, 78
+  offset: 0, 0
+  index: -1
+Roomba_Top_Side_Half1
+  rotate: true
+  xy: 420, 5
+  size: 150, 76
+  orig: 150, 76
+  offset: 0, 0
+  index: -1
+Roomba_Top_Side_Half2
+  rotate: false
+  xy: 260, 140
+  size: 155, 77
+  orig: 155, 77
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 5, 10
+  size: 230, 60
+  orig: 230, 60
+  offset: 0, 0
+  index: -1

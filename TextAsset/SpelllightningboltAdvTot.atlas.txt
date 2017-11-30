@@ -1,0 +1,83 @@
+
+SpelllightningboltAdvTot.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CellPhoneOff
+  rotate: false
+  xy: 280, 191
+  size: 59, 109
+  orig: 75, 112
+  offset: 6, 0
+  index: -1
+CellPhoneOn
+  rotate: true
+  xy: 247, 305
+  size: 75, 112
+  orig: 75, 112
+  offset: 0, 0
+  index: -1
+Legs_Back
+  rotate: false
+  xy: 88, 123
+  size: 144, 183
+  orig: 144, 183
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 88, 311
+  size: 154, 196
+  orig: 154, 196
+  offset: 0, 0
+  index: -1
+MetalBall
+  rotate: false
+  xy: 237, 107
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+Rod
+  rotate: false
+  xy: 5, 18
+  size: 78, 489
+  orig: 78, 489
+  offset: 0, 0
+  index: -1
+Seat_Behind
+  rotate: false
+  xy: 247, 385
+  size: 131, 57
+  orig: 131, 57
+  offset: 0, 0
+  index: -1
+Seat_Front
+  rotate: true
+  xy: 237, 169
+  size: 131, 38
+  orig: 131, 38
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 247, 447
+  size: 187, 60
+  orig: 187, 60
+  offset: 0, 0
+  index: -1
+Sign-Danger
+  rotate: true
+  xy: 88, 43
+  size: 75, 134
+  orig: 75, 134
+  offset: 0, 0
+  index: -1
+Sign-High-Voltage
+  rotate: false
+  xy: 439, 416
+  size: 68, 91
+  orig: 68, 91
+  offset: 0, 0
+  index: -1

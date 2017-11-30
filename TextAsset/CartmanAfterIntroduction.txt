@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "actorId": "Cartman",
+  "threadTitle": "Journey begins",
+  "messages": [
+    {
+      "id": 1,
+      "actorId": "Cartman",
+      "messageTextKey": "DF_VM_FIRST_CARTMAN_FIRST_MAP",
+      "messageAudioKey": "",
+      "forcedMessage": false,
+      "playNext": false,
+      "delay": 5.0
+    }
+  ]
+}

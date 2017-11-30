@@ -1,0 +1,90 @@
+
+DougieMysChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: true
+  xy: 233, 304
+  size: 38, 83
+  orig: 40, 84
+  offset: 1, 0
+  index: -1
+Arm_Front_2
+  rotate: false
+  xy: 399, 436
+  size: 75, 67
+  orig: 76, 67
+  offset: 1, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 63, 184
+  size: 124, 103
+  orig: 126, 104
+  offset: 1, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 233, 348
+  size: 134, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Glasses_Front
+  rotate: false
+  xy: 233, 430
+  size: 160, 73
+  orig: 162, 73
+  offset: 1, 0
+  index: -1
+Hand_Front-copy
+  rotate: false
+  xy: 103, 68
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: true
+  xy: 193, 252
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 293
+  size: 221, 210
+  orig: 221, 211
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 63, 40
+  size: 138, 34
+  orig: 138, 34
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 6, 6
+  size: 37, 8
+  orig: 37, 8
+  offset: 0, 0
+  index: -1
+StonePlate_Front
+  rotate: false
+  xy: 103, 103
+  size: 55, 75
+  orig: 56, 78
+  offset: 0, 1
+  index: -1
+Weapon_Front
+  rotate: false
+  xy: 6, 20
+  size: 51, 267
+  orig: 51, 268
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,391 @@
+
+BebeSciChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: false
+  xy: 159, 185
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: false
+  xy: 250, 190
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: true
+  xy: 275, 242
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: false
+  xy: 277, 195
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: false
+  xy: 416, 431
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Belt_Front
+  rotate: false
+  xy: 191, 312
+  size: 83, 33
+  orig: 83, 33
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 317, 443
+  size: 106, 64
+  orig: 106, 64
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 317, 305
+  size: 94, 60
+  orig: 94, 60
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 416, 364
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 494, 372
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+ClampTube_Side
+  rotate: false
+  xy: 191, 185
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+Clamp_Side
+  rotate: false
+  xy: 428, 425
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 191, 241
+  size: 79, 23
+  orig: 79, 23
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 416, 320
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: false
+  xy: 207, 79
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: false
+  xy: 129, 14
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 416, 277
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: true
+  xy: 181, 112
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_Look_Right
+  rotate: true
+  xy: 224, 112
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: false
+  xy: 191, 269
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: true
+  xy: 349, 196
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: false
+  xy: 381, 273
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: false
+  xy: 279, 310
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 391, 193
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: false
+  xy: 406, 233
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: false
+  xy: 272, 269
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Goggle_Front
+  rotate: true
+  xy: 127, 57
+  size: 121, 49
+  orig: 121, 49
+  offset: 0, 0
+  index: -1
+Goggle_Side
+  rotate: false
+  xy: 5, 5
+  size: 119, 45
+  orig: 119, 45
+  offset: 0, 0
+  index: -1
+Hair_Front_Behind
+  rotate: false
+  xy: 5, 55
+  size: 117, 123
+  orig: 117, 123
+  offset: 0, 0
+  index: -1
+Hand_Back
+  rotate: true
+  xy: 267, 164
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: true
+  xy: 267, 138
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 443, 189
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+HandleTube_Front
+  rotate: false
+  xy: 312, 278
+  size: 64, 22
+  orig: 64, 22
+  offset: 0, 0
+  index: -1
+HandleTube_Side
+  rotate: true
+  xy: 181, 57
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 341
+  size: 164, 166
+  orig: 164, 166
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 183
+  size: 149, 153
+  orig: 149, 153
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 174, 350
+  size: 138, 157
+  orig: 138, 157
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 159, 235
+  size: 101, 27
+  orig: 101, 27
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 204, 18
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 129, 5
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open
+  rotate: true
+  xy: 269, 22
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: true
+  xy: 427, 194
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: true
+  xy: 479, 249
+  size: 23, 6
+  orig: 23, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: true
+  xy: 278, 118
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open
+  rotate: true
+  xy: 493, 334
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: true
+  xy: 494, 396
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: false
+  xy: 269, 5
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+TankVent_Back
+  rotate: false
+  xy: 267, 114
+  size: 6, 19
+  orig: 6, 19
+  offset: 0, 0
+  index: -1
+TankVent_Side
+  rotate: false
+  xy: 443, 214
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+VacuumCleanerHandle_Front
+  rotate: false
+  xy: 442, 239
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+VacuumCleanerHandle_Side
+  rotate: false
+  xy: 207, 50
+  size: 68, 24
+  orig: 68, 24
+  offset: 0, 0
+  index: -1
+VacuumCleanerTank_Side_1
+  rotate: false
+  xy: 312, 238
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+VacuumCleanerTank_Side_2
+  rotate: true
+  xy: 317, 370
+  size: 68, 94
+  orig: 68, 94
+  offset: 0, 0
+  index: -1
+VacuumCleanerTank_Spin_1
+  rotate: false
+  xy: 302, 198
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+VacuumCleanerTank_Spin_2
+  rotate: false
+  xy: 359, 233
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1

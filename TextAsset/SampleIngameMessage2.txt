@@ -1,0 +1,17 @@
+{
+  "id": 2,
+  "actorId": "Cartman",
+  "threadTitle": "Sample",
+  "messages": [
+    {
+      "id": 1,
+      "actorId": "Stan",
+      "messageTextKey": "DF_VM_TEST_09",
+      "messageAudioKey": "Play_VM_CAR_02",
+      "forcedMessage": false,
+      "playNext": false,
+      "leftSide" :  true,
+      "delay": 5.0
+    }
+  ]
+}

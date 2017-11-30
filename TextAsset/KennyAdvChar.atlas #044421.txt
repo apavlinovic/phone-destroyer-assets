@@ -1,0 +1,181 @@
+
+KennyAdvChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: false
+  xy: 417, 204
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: true
+  xy: 465, 197
+  size: 74, 39
+  orig: 74, 39
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: true
+  xy: 458, 156
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: true
+  xy: 414, 39
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 5, 19
+  size: 131, 102
+  orig: 131, 102
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: true
+  xy: 394, 377
+  size: 130, 94
+  orig: 130, 94
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 141, 11
+  size: 110, 94
+  orig: 110, 94
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 394, 346
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Dagger
+  rotate: false
+  xy: 279, 137
+  size: 105, 22
+  orig: 111, 45
+  offset: 2, 9
+  index: -1
+Dagger_Front
+  rotate: false
+  xy: 458, 108
+  size: 43, 17
+  orig: 48, 45
+  offset: 5, 14
+  index: -1
+Dagger_InHead
+  rotate: false
+  xy: 458, 130
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+Dagger_Stuck
+  rotate: true
+  xy: 475, 276
+  size: 60, 22
+  orig: 60, 22
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: true
+  xy: 240, 22
+  size: 99, 53
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 414, 107
+  size: 92, 39
+  orig: 92, 39
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: true
+  xy: 298, 36
+  size: 96, 53
+  orig: 97, 53
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 356, 37
+  size: 95, 53
+  orig: 95, 53
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_Look_Right
+  rotate: true
+  xy: 417, 277
+  size: 95, 53
+  orig: 95, 53
+  offset: 0, 0
+  index: -1
+Hand_Front_1
+  rotate: false
+  xy: 475, 341
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: true
+  xy: 380, 168
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 126
+  size: 181, 182
+  orig: 181, 182
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: true
+  xy: 202, 164
+  size: 170, 173
+  orig: 170, 173
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 202, 339
+  size: 187, 168
+  orig: 187, 168
+  offset: 0, 0
+  index: -1
+Hood_Front
+  rotate: false
+  xy: 5, 313
+  size: 192, 194
+  orig: 192, 194
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 380, 210
+  size: 124, 32
+  orig: 124, 32
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 191, 126
+  size: 83, 33
+  orig: 83, 33
+  offset: 0, 0
+  index: -1

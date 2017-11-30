@@ -1,0 +1,12 @@
+{
+	"Dialog_1": {
+		"Position": 1,
+		"LocalizationKey": "DF_TS_MEDIUM",
+		"SkeletonData": "ButtersGenCharPF",
+		"AnimationName": "SuperPower",
+		"TypingDelay": 5.0,
+		"Type": 1,
+		"LoopAnimation": true,
+		"PauseOnDialogPause": true
+	}
+}

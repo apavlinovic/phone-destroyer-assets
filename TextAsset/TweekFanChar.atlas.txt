@@ -1,0 +1,118 @@
+
+TweekFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Side_2
+  rotate: false
+  xy: 456, 32
+  size: 41, 81
+  orig: 46, 83
+  offset: 2, 1
+  index: -1
+Arrow_1
+  rotate: false
+  xy: 263, 96
+  size: 165, 30
+  orig: 165, 30
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 263, 131
+  size: 184, 137
+  orig: 184, 138
+  offset: 0, 1
+  index: -1
+BowBottom_Side
+  rotate: true
+  xy: 351, 41
+  size: 50, 100
+  orig: 50, 101
+  offset: 0, 1
+  index: -1
+BowTop_Side
+  rotate: false
+  xy: 452, 163
+  size: 51, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 263, 273
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+Cape_Front
+  rotate: true
+  xy: 340, 273
+  size: 230, 142
+  orig: 230, 142
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 5, 7
+  size: 153, 62
+  orig: 153, 62
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 215, 17
+  size: 131, 74
+  orig: 131, 74
+  offset: 0, 0
+  index: -1
+Hand_Bow_Side
+  rotate: false
+  xy: 163, 12
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: false
+  xy: 452, 118
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: false
+  xy: 5, 120
+  size: 253, 189
+  orig: 255, 189
+  offset: 1, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 314
+  size: 330, 189
+  orig: 330, 189
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 5, 74
+  size: 197, 41
+  orig: 197, 41
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 292, 273
+  size: 36, 8
+  orig: 36, 8
+  offset: 0, 0
+  index: -1
+Slingshot_Rubber
+  rotate: true
+  xy: 487, 406
+  size: 97, 3
+  orig: 97, 3
+  offset: 0, 0
+  index: -1
