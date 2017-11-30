@@ -1,0 +1,90 @@
+
+ButtersFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_2
+  rotate: false
+  xy: 401, 226
+  size: 53, 97
+  orig: 53, 97
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 6, 89
+  size: 190, 137
+  orig: 190, 137
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 255, 46
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+Cape_Front_1
+  rotate: true
+  xy: 250, 219
+  size: 281, 145
+  orig: 281, 145
+  offset: 0, 0
+  index: -1
+Cape_Front_2
+  rotate: false
+  xy: 6, 24
+  size: 182, 59
+  orig: 182, 59
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 202, 81
+  size: 135, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Hammer_1
+  rotate: false
+  xy: 401, 329
+  size: 85, 171
+  orig: 85, 171
+  offset: 0, 0
+  index: -1
+Hand_Front_1
+  rotate: true
+  xy: 194, 28
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 343, 103
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 232
+  size: 238, 268
+  orig: 238, 268
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 202, 163
+  size: 200, 50
+  orig: 201, 50
+  offset: 1, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 492, 463
+  size: 37, 8
+  orig: 37, 8
+  offset: 0, 0
+  index: -1

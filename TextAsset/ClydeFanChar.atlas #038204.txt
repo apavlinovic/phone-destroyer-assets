@@ -1,0 +1,90 @@
+
+ClydeFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_2
+  rotate: false
+  xy: 372, 191
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: false
+  xy: 239, 69
+  size: 60, 97
+  orig: 60, 97
+  offset: 0, 0
+  index: -1
+Axe
+  rotate: true
+  xy: 5, 9
+  size: 101, 151
+  orig: 101, 151
+  offset: 0, 0
+  index: -1
+Beard_Front
+  rotate: false
+  xy: 5, 250
+  size: 251, 257
+  orig: 251, 257
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 5, 115
+  size: 177, 130
+  orig: 177, 130
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 467, 215
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 239, 171
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: true
+  xy: 161, 5
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: false
+  xy: 304, 127
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: true
+  xy: 261, 248
+  size: 259, 246
+  orig: 259, 246
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 187, 53
+  size: 192, 47
+  orig: 192, 47
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 239, 56
+  size: 35, 8
+  orig: 35, 8
+  offset: 0, 0
+  index: -1

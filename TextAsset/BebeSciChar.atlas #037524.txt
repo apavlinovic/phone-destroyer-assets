@@ -1,0 +1,391 @@
+
+BebeSciChar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: false
+  xy: 424, 119
+  size: 52, 90
+  orig: 52, 90
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: false
+  xy: 482, 117
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: true
+  xy: 901, 559
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: true
+  xy: 812, 562
+  size: 40, 83
+  orig: 40, 83
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: false
+  xy: 839, 857
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Belt_Front
+  rotate: false
+  xy: 369, 507
+  size: 166, 66
+  orig: 166, 66
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 622, 786
+  size: 211, 128
+  orig: 211, 128
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 369, 579
+  size: 187, 119
+  orig: 187, 119
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 6, 6
+  size: 146, 112
+  orig: 146, 112
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 839, 877
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+ClampTube_Side
+  rotate: true
+  xy: 158, 10
+  size: 108, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1
+Clamp_Side
+  rotate: false
+  xy: 870, 854
+  size: 146, 164
+  orig: 146, 164
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 369, 456
+  size: 157, 45
+  orig: 157, 45
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 816, 690
+  size: 143, 77
+  orig: 143, 77
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: false
+  xy: 615, 582
+  size: 132, 56
+  orig: 132, 56
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: false
+  xy: 310, 375
+  size: 139, 75
+  orig: 139, 75
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: true
+  xy: 342, 234
+  size: 135, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: false
+  xy: 816, 608
+  size: 135, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_Look_Right
+  rotate: true
+  xy: 342, 93
+  size: 135, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: false
+  xy: 839, 773
+  size: 152, 75
+  orig: 152, 75
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: true
+  xy: 612, 464
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: true
+  xy: 753, 578
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: false
+  xy: 541, 487
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 691, 458
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: true
+  xy: 532, 419
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: true
+  xy: 265, 56
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+Goggle_Front
+  rotate: false
+  xy: 622, 920
+  size: 242, 98
+  orig: 242, 98
+  offset: 0, 0
+  index: -1
+Goggle_Side
+  rotate: true
+  xy: 246, 132
+  size: 237, 90
+  orig: 237, 90
+  offset: 0, 0
+  index: -1
+Hair_Front_Behind
+  rotate: false
+  xy: 6, 124
+  size: 234, 245
+  orig: 234, 245
+  offset: 0, 0
+  index: -1
+Hand_Back
+  rotate: false
+  xy: 971, 570
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 476, 72
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 602, 374
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+HandleTube_Front
+  rotate: false
+  xy: 265, 6
+  size: 127, 44
+  orig: 127, 44
+  offset: 0, 0
+  index: -1
+HandleTube_Side
+  rotate: false
+  xy: 615, 534
+  size: 100, 42
+  orig: 100, 42
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 6, 687
+  size: 328, 331
+  orig: 328, 331
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 375
+  size: 298, 306
+  orig: 298, 306
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 340, 704
+  size: 276, 314
+  orig: 276, 314
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 310, 479
+  size: 202, 53
+  orig: 202, 53
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 965, 648
+  size: 119, 53
+  orig: 119, 53
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 310, 465
+  size: 38, 8
+  orig: 38, 8
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open
+  rotate: false
+  xy: 424, 90
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: false
+  xy: 342, 65
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: true
+  xy: 513, 316
+  size: 45, 12
+  orig: 45, 12
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: true
+  xy: 721, 546
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open
+  rotate: false
+  xy: 531, 317
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: false
+  xy: 971, 616
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: false
+  xy: 602, 345
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+TankVent_Back
+  rotate: false
+  xy: 997, 810
+  size: 12, 38
+  orig: 12, 38
+  offset: 0, 0
+  index: -1
+TankVent_Side
+  rotate: false
+  xy: 608, 419
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+VacuumCleanerHandle_Front
+  rotate: true
+  xy: 531, 350
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+VacuumCleanerHandle_Side
+  rotate: true
+  xy: 562, 563
+  size: 135, 47
+  orig: 135, 47
+  offset: 0, 0
+  index: -1
+VacuumCleanerTank_Side_1
+  rotate: true
+  xy: 455, 367
+  size: 83, 70
+  orig: 83, 70
+  offset: 0, 0
+  index: -1
+VacuumCleanerTank_Side_2
+  rotate: true
+  xy: 622, 644
+  size: 136, 188
+  orig: 136, 188
+  offset: 0, 0
+  index: -1
+VacuumCleanerTank_Spin_1
+  rotate: false
+  xy: 424, 291
+  size: 83, 70
+  orig: 83, 70
+  offset: 0, 0
+  index: -1
+VacuumCleanerTank_Spin_2
+  rotate: false
+  xy: 424, 215
+  size: 83, 70
+  orig: 83, 70
+  offset: 0, 0
+  index: -1

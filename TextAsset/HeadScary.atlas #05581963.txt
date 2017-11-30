@@ -1,0 +1,20 @@
+
+HeadScary.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ScaryHead
+  rotate: false
+  xy: 3, 28
+  size: 91, 95
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+ScaryHeadRope
+  rotate: false
+  xy: 97, 3
+  size: 4, 120
+  orig: 4, 120
+  offset: 0, 0
+  index: -1

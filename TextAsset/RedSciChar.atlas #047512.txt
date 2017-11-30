@@ -1,0 +1,391 @@
+
+RedSciChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AlienBaloon
+  rotate: false
+  xy: 356, 145
+  size: 51, 51
+  orig: 54, 54
+  offset: 1, 2
+  index: -1
+AlienEye_Front_Left
+  rotate: true
+  xy: 451, 444
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+AlienEye_Front_Right
+  rotate: false
+  xy: 379, 203
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+AlienEyes_Back_Left
+  rotate: false
+  xy: 181, 119
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+AlienEyes_Back_Right
+  rotate: true
+  xy: 254, 145
+  size: 51, 97
+  orig: 51, 97
+  offset: 0, 0
+  index: -1
+AlienEyes_Side_Left
+  rotate: false
+  xy: 155, 256
+  size: 92, 79
+  orig: 92, 79
+  offset: 0, 0
+  index: -1
+AlienEyes_Side_Right
+  rotate: false
+  xy: 355, 265
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+Arm_Front_1
+  rotate: false
+  xy: 487, 160
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: false
+  xy: 412, 148
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: false
+  xy: 482, 213
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: false
+  xy: 482, 253
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 308, 376
+  size: 113, 70
+  orig: 113, 70
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 252, 265
+  size: 98, 68
+  orig: 98, 68
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 426, 379
+  size: 79, 60
+  orig: 79, 60
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 442, 24
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 254, 88
+  size: 84, 52
+  orig: 84, 52
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: true
+  xy: 435, 210
+  size: 77, 42
+  orig: 77, 42
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 475, 303
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: false
+  xy: 153, 39
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 343, 99
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: false
+  xy: 343, 53
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: false
+  xy: 250, 42
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookUp
+  rotate: true
+  xy: 441, 132
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+Eyes_Front_Worried
+  rotate: true
+  xy: 429, 292
+  size: 82, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: true
+  xy: 421, 49
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: false
+  xy: 159, 5
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Eyes_Side_HalfOpen
+  rotate: false
+  xy: 464, 89
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 465, 46
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookBack
+  rotate: true
+  xy: 328, 15
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: true
+  xy: 371, 15
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: false
+  xy: 421, 89
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Glass_Front
+  rotate: false
+  xy: 308, 451
+  size: 138, 56
+  orig: 138, 56
+  offset: 0, 0
+  index: -1
+Glass_Side
+  rotate: false
+  xy: 269, 201
+  size: 105, 59
+  orig: 105, 59
+  offset: 0, 0
+  index: -1
+Hair_Back
+  rotate: true
+  xy: 156, 380
+  size: 127, 147
+  orig: 127, 147
+  offset: 0, 0
+  index: -1
+Hand_Back
+  rotate: false
+  xy: 227, 12
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 414, 22
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: false
+  xy: 196, 13
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 5, 222
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 77
+  size: 131, 140
+  orig: 131, 140
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 5, 364
+  size: 146, 143
+  orig: 146, 143
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 155, 222
+  size: 109, 29
+  orig: 109, 29
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 181, 85
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 503, 63
+  size: 21, 4
+  orig: 21, 4
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: false
+  xy: 414, 5
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: true
+  xy: 233, 44
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open3
+  rotate: true
+  xy: 418, 347
+  size: 24, 6
+  orig: 24, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: true
+  xy: 254, 201
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: false
+  xy: 461, 26
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: false
+  xy: 141, 85
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: true
+  xy: 487, 132
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+Tube_Back
+  rotate: false
+  xy: 156, 340
+  size: 136, 35
+  orig: 136, 35
+  offset: 0, 0
+  index: -1
+Tube_Front
+  rotate: true
+  xy: 141, 104
+  size: 113, 35
+  orig: 113, 35
+  offset: 0, 0
+  index: -1
+Tube_Side
+  rotate: false
+  xy: 297, 338
+  size: 116, 33
+  orig: 116, 33
+  offset: 0, 0
+  index: -1
+Weapon_Curved
+  rotate: true
+  xy: 5, 35
+  size: 37, 143
+  orig: 37, 143
+  offset: 0, 0
+  index: -1
+Weapon_Straight
+  rotate: true
+  xy: 5, 15
+  size: 15, 149
+  orig: 15, 149
+  offset: 0, 0
+  index: -1

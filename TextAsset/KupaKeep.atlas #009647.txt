@@ -1,0 +1,48 @@
+
+KupaKeep.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Banner
+  rotate: false
+  xy: 5, 505
+  size: 231, 78
+  orig: 231, 78
+  offset: 0, 0
+  index: -1
+Flagpole
+  rotate: false
+  xy: 5, 299
+  size: 13, 201
+  orig: 13, 201
+  offset: 0, 0
+  index: -1
+KupaKeep
+  rotate: false
+  xy: 5, 588
+  size: 1013, 430
+  orig: 1014, 438
+  offset: 0, 2
+  index: -1
+RedFallFlagL
+  rotate: false
+  xy: 23, 405
+  size: 44, 95
+  orig: 44, 95
+  offset: 0, 0
+  index: -1
+RedFallFlagR
+  rotate: true
+  xy: 241, 543
+  size: 40, 112
+  orig: 40, 112
+  offset: 0, 0
+  index: -1
+RedFlagS
+  rotate: true
+  xy: 358, 545
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,348 @@
+
+TimmyMysChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmUp_Right_Front_2
+  rotate: false
+  xy: 491, 444
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+ArmUp_Right_Side_2
+  rotate: true
+  xy: 125, 8
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1
+Arm_Right_Front_1
+  rotate: true
+  xy: 76, 5
+  size: 15, 44
+  orig: 16, 44
+  offset: 1, 0
+  index: -1
+Arm_Right_Side_1
+  rotate: true
+  xy: 469, 162
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: true
+  xy: 5, 5
+  size: 65, 66
+  orig: 66, 66
+  offset: 1, 0
+  index: -1
+Chair_Back
+  rotate: false
+  xy: 5, 75
+  size: 156, 216
+  orig: 156, 216
+  offset: 0, 0
+  index: -1
+Chair_Front_1
+  rotate: true
+  xy: 236, 352
+  size: 155, 214
+  orig: 156, 214
+  offset: 0, 0
+  index: -1
+Chair_Side
+  rotate: false
+  xy: 5, 296
+  size: 226, 211
+  orig: 226, 220
+  offset: 0, 9
+  index: -1
+Eyebrows_Side
+  rotate: true
+  xy: 236, 297
+  size: 7, 31
+  orig: 7, 31
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 236, 309
+  size: 71, 38
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 76, 25
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: true
+  xy: 465, 5
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 469, 240
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookBackDown
+  rotate: false
+  xy: 469, 191
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Hand_Right_Side_1
+  rotate: false
+  xy: 491, 412
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+Hat_Back
+  rotate: false
+  xy: 166, 90
+  size: 141, 201
+  orig: 141, 201
+  offset: 0, 0
+  index: -1
+Hat_Back_Behind
+  rotate: false
+  xy: 166, 12
+  size: 135, 73
+  orig: 135, 74
+  offset: 0, 1
+  index: -1
+Hat_Front
+  rotate: false
+  xy: 312, 6
+  size: 148, 144
+  orig: 148, 144
+  offset: 0, 0
+  index: -1
+Hat_Side
+  rotate: false
+  xy: 312, 155
+  size: 152, 192
+  orig: 153, 194
+  offset: 1, 2
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 491, 389
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: true
+  xy: 491, 479
+  size: 28, 16
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: true
+  xy: 497, 5
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open3
+  rotate: true
+  xy: 455, 363
+  size: 21, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open4
+  rotate: false
+  xy: 497, 25
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Thurible
+  rotate: false
+  xy: 465, 40
+  size: 31, 110
+  orig: 71, 110
+  offset: 20, 0
+  index: -1
+Thurible-2
+  rotate: false
+  xy: 469, 289
+  size: 31, 95
+  orig: 71, 110
+  offset: 20, 0
+  index: -1
+Thurible_motion_up
+  rotate: false
+  xy: 455, 389
+  size: 31, 118
+  orig: 32, 128
+  offset: 1, 5
+  index: -1
+
+TimmyMysChar2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow_Right_Front_2
+  rotate: false
+  xy: 143, 68
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+ArmLow_Right_Side_2
+  rotate: false
+  xy: 473, 297
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+BackWheel_Side
+  rotate: false
+  xy: 316, 286
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1
+Belt_Side
+  rotate: true
+  xy: 473, 326
+  size: 71, 17
+  orig: 71, 17
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 419, 437
+  size: 78, 70
+  orig: 79, 76
+  offset: 1, 6
+  index: -1
+Chair_Front_2
+  rotate: false
+  xy: 5, 42
+  size: 133, 147
+  orig: 133, 154
+  offset: 0, 7
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: false
+  xy: 89, 9
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: true
+  xy: 423, 316
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: true
+  xy: 423, 272
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookDown
+  rotate: false
+  xy: 143, 145
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+FrontWheel_Side
+  rotate: false
+  xy: 143, 98
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Hand_Right_Front_1
+  rotate: false
+  xy: 143, 42
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 163, 355
+  size: 148, 152
+  orig: 148, 152
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 352
+  size: 153, 155
+  orig: 153, 155
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 5, 194
+  size: 148, 153
+  orig: 148, 153
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 419, 402
+  size: 73, 30
+  orig: 73, 30
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: true
+  xy: 495, 374
+  size: 23, 12
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: true
+  xy: 166, 70
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: true
+  xy: 495, 355
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Thurible-3
+  rotate: true
+  xy: 5, 6
+  size: 31, 79
+  orig: 71, 110
+  offset: 20, 0
+  index: -1
+Thurible_motion
+  rotate: false
+  xy: 316, 394
+  size: 98, 113
+  orig: 98, 113
+  offset: 0, 0
+  index: -1

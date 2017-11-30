@@ -1,0 +1,69 @@
+
+ButtersAdvChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_2
+  rotate: true
+  xy: 6, 12
+  size: 47, 95
+  orig: 47, 95
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 277, 362
+  size: 192, 135
+  orig: 192, 135
+  offset: 0, 0
+  index: -1
+ButterKnife
+  rotate: true
+  xy: 475, 385
+  size: 112, 22
+  orig: 112, 22
+  offset: 0, 0
+  index: -1
+Eyepatch
+  rotate: false
+  xy: 6, 121
+  size: 237, 100
+  orig: 237, 100
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 277, 279
+  size: 136, 77
+  orig: 136, 77
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 277, 234
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 227
+  size: 265, 270
+  orig: 265, 270
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 6, 65
+  size: 202, 50
+  orig: 202, 50
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: true
+  xy: 249, 154
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1

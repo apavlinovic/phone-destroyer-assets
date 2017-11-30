@@ -1,0 +1,1 @@
+{"enablecrashlytics": true,"enableallexceptions":true,"enablenativeexceptions":true,"enableunityexceptions":true, "enabledebuglogs": true}

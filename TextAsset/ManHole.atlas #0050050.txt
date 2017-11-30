@@ -1,0 +1,20 @@
+
+ManHole.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Manhole_Hole
+  rotate: false
+  xy: 5, 125
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+Manhole_Lid
+  rotate: false
+  xy: 5, 5
+  size: 109, 115
+  orig: 109, 116
+  offset: 0, 1
+  index: -1

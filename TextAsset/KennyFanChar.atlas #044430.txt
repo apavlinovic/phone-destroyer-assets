@@ -1,0 +1,244 @@
+
+KennyFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: true
+  xy: 432, 176
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+Arm_Front_2
+  rotate: false
+  xy: 477, 379
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: true
+  xy: 394, 176
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: true
+  xy: 394, 150
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 170, 288
+  size: 143, 84
+  orig: 143, 84
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: true
+  xy: 153, 9
+  size: 143, 82
+  orig: 143, 82
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 318, 283
+  size: 108, 84
+  orig: 108, 84
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 487, 184
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: true
+  xy: 431, 292
+  size: 75, 40
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 477, 437
+  size: 70, 30
+  orig: 70, 30
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen
+  rotate: false
+  xy: 434, 247
+  size: 73, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+Eyes_Front_HalfOpen_LookDown
+  rotate: false
+  xy: 434, 202
+  size: 73, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 285, 80
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookDown
+  rotate: false
+  xy: 240, 26
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookLeftDown
+  rotate: false
+  xy: 317, 35
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: true
+  xy: 392, 203
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide_Left
+  rotate: false
+  xy: 362, 80
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+Eyes_Front_Wink
+  rotate: false
+  xy: 296, 125
+  size: 74, 40
+  orig: 76, 41
+  offset: 0, 1
+  index: -1
+Eyes_Front_Worried
+  rotate: true
+  xy: 240, 71
+  size: 81, 40
+  orig: 81, 40
+  offset: 0, 0
+  index: -1
+Hair_Back
+  rotate: false
+  xy: 170, 377
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+Hair_Front
+  rotate: false
+  xy: 5, 339
+  size: 160, 168
+  orig: 160, 168
+  offset: 0, 0
+  index: -1
+Hair_Side
+  rotate: false
+  xy: 5, 164
+  size: 143, 170
+  orig: 143, 170
+  offset: 0, 0
+  index: -1
+Hand_Back_1
+  rotate: true
+  xy: 444, 146
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Hand_Front_1
+  rotate: false
+  xy: 476, 144
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 439, 116
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: true
+  xy: 335, 372
+  size: 135, 137
+  orig: 135, 137
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 5, 13
+  size: 143, 146
+  orig: 143, 146
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 153, 157
+  size: 138, 126
+  orig: 138, 126
+  offset: 0, 0
+  index: -1
+Hood_Front
+  rotate: false
+  xy: 296, 199
+  size: 91, 79
+  orig: 91, 79
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 296, 170
+  size: 93, 24
+  orig: 93, 24
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 317, 5
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+ShoulderPad_Front
+  rotate: false
+  xy: 385, 5
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+ShoulderPad_Side
+  rotate: false
+  xy: 394, 50
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+Wand
+  rotate: true
+  xy: 476, 292
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1

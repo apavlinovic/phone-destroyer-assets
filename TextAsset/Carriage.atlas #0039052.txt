@@ -1,0 +1,41 @@
+
+Carriage.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BoxShed
+  rotate: false
+  xy: 5, 217
+  size: 395, 288
+  orig: 396, 290
+  offset: 0, 2
+  index: -1
+Curtain
+  rotate: false
+  xy: 405, 338
+  size: 100, 167
+  orig: 100, 167
+  offset: 0, 0
+  index: -1
+PosterHetmet
+  rotate: false
+  xy: 405, 218
+  size: 80, 115
+  orig: 80, 115
+  offset: 0, 0
+  index: -1
+flag
+  rotate: false
+  xy: 5, 38
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+trailer
+  rotate: false
+  xy: 5, 81
+  size: 324, 131
+  orig: 324, 131
+  offset: 0, 0
+  index: -1

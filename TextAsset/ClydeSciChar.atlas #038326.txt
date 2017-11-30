@@ -1,0 +1,97 @@
+
+ClydeSciChar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Side_2
+  rotate: false
+  xy: 6, 29
+  size: 41, 83
+  orig: 41, 83
+  offset: 0, 0
+  index: -1
+BicycleHelmets_Front
+  rotate: false
+  xy: 6, 687
+  size: 308, 307
+  orig: 308, 307
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 599, 857
+  size: 186, 137
+  orig: 186, 137
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 791, 913
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 599, 774
+  size: 136, 77
+  orig: 136, 77
+  offset: 0, 0
+  index: -1
+Hand_Front
+  rotate: false
+  xy: 193, 155
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 320, 735
+  size: 273, 259
+  orig: 273, 259
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 791, 944
+  size: 203, 50
+  orig: 203, 50
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: false
+  xy: 320, 692
+  size: 117, 37
+  orig: 117, 37
+  offset: 0, 0
+  index: -1
+MotorcycleHelmet_Front
+  rotate: false
+  xy: 6, 382
+  size: 274, 299
+  orig: 274, 299
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: true
+  xy: 286, 614
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+Tail_Front
+  rotate: false
+  xy: 6, 118
+  size: 181, 76
+  orig: 181, 76
+  offset: 0, 0
+  index: -1
+Vizor_Front_1
+  rotate: false
+  xy: 6, 200
+  size: 251, 176
+  orig: 251, 176
+  offset: 0, 0
+  index: -1

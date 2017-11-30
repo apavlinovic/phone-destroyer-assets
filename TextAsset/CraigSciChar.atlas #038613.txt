@@ -1,0 +1,90 @@
+
+CraigSciChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_2
+  rotate: false
+  xy: 5, 39
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 257, 127
+  size: 233, 146
+  orig: 233, 146
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 5, 6
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Collar_Front
+  rotate: false
+  xy: 264, 65
+  size: 196, 57
+  orig: 196, 57
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 67, 49
+  size: 130, 73
+  orig: 130, 73
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: false
+  xy: 67, 5
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: true
+  xy: 5, 127
+  size: 235, 247
+  orig: 235, 247
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: true
+  xy: 276, 278
+  size: 229, 231
+  orig: 229, 231
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 264, 12
+  size: 193, 48
+  orig: 193, 48
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 257, 326
+  size: 36, 8
+  orig: 36, 8
+  offset: 0, 0
+  index: -1
+WaterGun_1
+  rotate: false
+  xy: 5, 367
+  size: 266, 140
+  orig: 266, 140
+  offset: 0, 0
+  index: -1
+Watergun_1_PupmHandle
+  rotate: true
+  xy: 202, 52
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1

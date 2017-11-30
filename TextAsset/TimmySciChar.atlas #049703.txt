@@ -1,0 +1,397 @@
+
+TimmySciChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLow_Right_Front_2
+  rotate: false
+  xy: 39, 6
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+ArmLow_Right_Side_2
+  rotate: false
+  xy: 98, 7
+  size: 12, 24
+  orig: 14, 25
+  offset: 1, 1
+  index: -1
+Arm_Right_Front_1
+  rotate: false
+  xy: 492, 463
+  size: 15, 44
+  orig: 16, 45
+  offset: 1, 0
+  index: -1
+Arm_Right_Side_1
+  rotate: true
+  xy: 62, 7
+  size: 24, 31
+  orig: 24, 32
+  offset: 0, 1
+  index: -1
+Belt_Side
+  rotate: false
+  xy: 306, 15
+  size: 71, 17
+  orig: 71, 17
+  offset: 0, 0
+  index: -1
+Chair_Back
+  rotate: false
+  xy: 5, 272
+  size: 278, 235
+  orig: 278, 235
+  offset: 0, 0
+  index: -1
+Chair_Front_1
+  rotate: false
+  xy: 5, 36
+  size: 278, 231
+  orig: 278, 231
+  offset: 0, 0
+  index: -1
+Eyebrows_Front_Left
+  rotate: true
+  xy: 479, 195
+  size: 5, 27
+  orig: 5, 27
+  offset: 0, 0
+  index: -1
+Eyebrows_Front_Right
+  rotate: true
+  xy: 467, 9
+  size: 6, 32
+  orig: 6, 32
+  offset: 0, 0
+  index: -1
+Eyebrows_Side
+  rotate: true
+  xy: 431, 8
+  size: 7, 31
+  orig: 7, 31
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: true
+  xy: 479, 261
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+Eyes_Side_ClosedTight
+  rotate: true
+  xy: 479, 205
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Hand_Right_Front_1
+  rotate: false
+  xy: 150, 10
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+Hat_Front
+  rotate: true
+  xy: 288, 199
+  size: 155, 186
+  orig: 155, 186
+  offset: 0, 0
+  index: -1
+Hat_Side
+  rotate: true
+  xy: 288, 359
+  size: 148, 199
+  orig: 149, 199
+  offset: 1, 0
+  index: -1
+Head_Front
+  rotate: true
+  xy: 288, 37
+  size: 153, 155
+  orig: 153, 155
+  offset: 0, 0
+  index: -1
+IceBoxLid_Back_1
+  rotate: true
+  xy: 492, 332
+  size: 116, 14
+  orig: 116, 14
+  offset: 0, 0
+  index: -1
+LaserPointer_Front
+  rotate: true
+  xy: 382, 15
+  size: 17, 30
+  orig: 22, 30
+  offset: 3, 0
+  index: -1
+LaserPointer_Side
+  rotate: true
+  xy: 448, 47
+  size: 16, 45
+  orig: 16, 45
+  offset: 0, 0
+  index: -1
+MechanicalArm_Back
+  rotate: true
+  xy: 173, 13
+  size: 18, 88
+  orig: 18, 88
+  offset: 0, 0
+  index: -1
+MechanicalArm_Side
+  rotate: true
+  xy: 417, 20
+  size: 12, 81
+  orig: 12, 82
+  offset: 0, 1
+  index: -1
+Mouth_Front_Normal
+  rotate: true
+  xy: 479, 336
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Mouth_Front_O
+  rotate: false
+  xy: 417, 5
+  size: 9, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open1
+  rotate: true
+  xy: 133, 8
+  size: 23, 12
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+Mouth_Front_Open2
+  rotate: false
+  xy: 479, 240
+  size: 28, 16
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+Mouth_Side_Normal
+  rotate: false
+  xy: 492, 453
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open1
+  rotate: true
+  xy: 115, 8
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+Shoulder_Front
+  rotate: false
+  xy: 266, 13
+  size: 35, 18
+  orig: 35, 19
+  offset: 0, 1
+  index: -1
+Shoulder_Side
+  rotate: false
+  xy: 5, 6
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+SodaBottle
+  rotate: false
+  xy: 448, 68
+  size: 59, 122
+  orig: 65, 126
+  offset: 3, 2
+  index: -1
+
+TimmySciChar2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmUp_Right_Front_2
+  rotate: true
+  xy: 305, 58
+  size: 11, 29
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+ArmUp_Right_Side_2
+  rotate: true
+  xy: 5, 5
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+BackWheel_Side
+  rotate: false
+  xy: 391, 290
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 391, 216
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 387, 95
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+Chair_Front_2
+  rotate: true
+  xy: 339, 59
+  size: 133, 43
+  orig: 133, 43
+  offset: 0, 0
+  index: -1
+Chair_Side
+  rotate: false
+  xy: 5, 266
+  size: 228, 241
+  orig: 228, 256
+  offset: 0, 15
+  index: -1
+Eyes_Front_Closed
+  rotate: true
+  xy: 124, 21
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 391, 166
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookUp
+  rotate: false
+  xy: 387, 45
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 458, 116
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: true
+  xy: 256, 31
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open_LookBackUp
+  rotate: false
+  xy: 305, 9
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Eyes_Side_Worried
+  rotate: true
+  xy: 168, 5
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Feet_Front
+  rotate: false
+  xy: 391, 398
+  size: 99, 109
+  orig: 99, 109
+  offset: 0, 0
+  index: -1
+FrontWheel_Side
+  rotate: false
+  xy: 209, 27
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Hat_Back
+  rotate: false
+  xy: 5, 98
+  size: 145, 163
+  orig: 145, 163
+  offset: 0, 0
+  index: -1
+Head_Back
+  rotate: false
+  xy: 238, 197
+  size: 148, 152
+  orig: 148, 152
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 238, 354
+  size: 148, 153
+  orig: 148, 153
+  offset: 0, 0
+  index: -1
+IceBoxLid_Back_2
+  rotate: false
+  xy: 5, 23
+  size: 114, 70
+  orig: 114, 70
+  offset: 0, 0
+  index: -1
+IceBoxLid_Back_3
+  rotate: true
+  xy: 155, 124
+  size: 137, 46
+  orig: 137, 47
+  offset: 0, 0
+  index: -1
+IceboxLid_Side
+  rotate: true
+  xy: 206, 201
+  size: 60, 14
+  orig: 60, 15
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 477, 212
+  size: 73, 30
+  orig: 73, 30
+  offset: 0, 0
+  index: -1
+Mouth_Side_Open2
+  rotate: true
+  xy: 495, 493
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+SodaBottleExplosion
+  rotate: false
+  xy: 206, 74
+  size: 128, 118
+  orig: 138, 127
+  offset: 4, 4
+  index: -1

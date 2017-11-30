@@ -1,0 +1,76 @@
+
+DougieFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_2
+  rotate: true
+  xy: 6, 28
+  size: 33, 67
+  orig: 33, 68
+  offset: 0, 1
+  index: -1
+Body_Front
+  rotate: true
+  xy: 116, 164
+  size: 126, 105
+  orig: 126, 105
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 233, 367
+  size: 134, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Goggles_Front
+  rotate: true
+  xy: 6, 67
+  size: 223, 104
+  orig: 223, 104
+  offset: 0, 0
+  index: -1
+Hand_Front-copy
+  rotate: true
+  xy: 477, 437
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: true
+  xy: 477, 471
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 296
+  size: 221, 210
+  orig: 221, 211
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 233, 327
+  size: 138, 34
+  orig: 138, 34
+  offset: 0, 0
+  index: -1
+Mouth_Front_Normal
+  rotate: false
+  xy: 116, 150
+  size: 37, 8
+  orig: 37, 8
+  offset: 0, 0
+  index: -1
+Wrench
+  rotate: false
+  xy: 233, 449
+  size: 238, 57
+  orig: 242, 63
+  offset: 2, 2
+  index: -1

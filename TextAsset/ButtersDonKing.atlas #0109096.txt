@@ -1,0 +1,181 @@
+
+ButtersDonKing.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_1
+  rotate: false
+  xy: 438, 786
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+Arm_Side_1
+  rotate: true
+  xy: 703, 936
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+Arm_Side_2
+  rotate: true
+  xy: 495, 888
+  size: 40, 83
+  orig: 40, 83
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 6, 164
+  size: 188, 121
+  orig: 188, 121
+  offset: 0, 0
+  index: -1
+Body_Side
+  rotate: false
+  xy: 6, 45
+  size: 130, 113
+  orig: 130, 113
+  offset: 0, 0
+  index: -1
+Eyes_Front_Closed
+  rotate: false
+  xy: 250, 687
+  size: 144, 77
+  orig: 144, 77
+  offset: 0, 0
+  index: -1
+Eyes_Front_ClosedTight
+  rotate: false
+  xy: 250, 376
+  size: 134, 56
+  orig: 134, 56
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open
+  rotate: false
+  xy: 250, 604
+  size: 135, 77
+  orig: 135, 77
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide
+  rotate: false
+  xy: 250, 521
+  size: 135, 77
+  orig: 135, 77
+  offset: 0, 0
+  index: -1
+Eyes_Front_Open_LookSide_Left
+  rotate: false
+  xy: 250, 438
+  size: 135, 77
+  orig: 135, 77
+  offset: 0, 0
+  index: -1
+Eyes_Side_Closed
+  rotate: false
+  xy: 327, 296
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+Eyes_Side_Open
+  rotate: false
+  xy: 250, 296
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+Glasses
+  rotate: false
+  xy: 250, 878
+  size: 239, 106
+  orig: 239, 106
+  offset: 0, 0
+  index: -1
+Glasses_Side
+  rotate: false
+  xy: 250, 770
+  size: 182, 102
+  orig: 182, 102
+  offset: 0, 0
+  index: -1
+Hand_Front_1
+  rotate: false
+  xy: 773, 944
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Hand_Side_1
+  rotate: false
+  xy: 584, 889
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+Head_Front
+  rotate: false
+  xy: 6, 634
+  size: 238, 350
+  orig: 238, 350
+  offset: 0, 0
+  index: -1
+Head_Side
+  rotate: false
+  xy: 6, 291
+  size: 238, 337
+  orig: 238, 337
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: false
+  xy: 495, 934
+  size: 202, 50
+  orig: 202, 50
+  offset: 0, 0
+  index: -1
+Legs_Side
+  rotate: true
+  xy: 200, 167
+  size: 118, 40
+  orig: 118, 40
+  offset: 0, 0
+  index: -1
+Mouth_Front_1
+  rotate: false
+  xy: 637, 893
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+Mouth_Front_2
+  rotate: true
+  xy: 142, 91
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+Mouth_Side_1
+  rotate: true
+  xy: 400, 727
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+Mouth_Side_2
+  rotate: false
+  xy: 6, 6
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+TableTop
+  rotate: false
+  xy: 6, 990
+  size: 1012, 28
+  orig: 1012, 28
+  offset: 0, 0
+  index: -1

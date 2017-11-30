@@ -1,0 +1,20 @@
+
+Bush.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bush_001_Left
+  rotate: false
+  xy: 5, 5
+  size: 131, 118
+  orig: 131, 118
+  offset: 0, 0
+  index: -1
+Bush_001_Right
+  rotate: false
+  xy: 5, 128
+  size: 132, 120
+  orig: 132, 120
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+CraigFanChar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Front_2
+  rotate: false
+  xy: 452, 205
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: true
+  xy: 464, 146
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+Body_Front
+  rotate: false
+  xy: 266, 40
+  size: 192, 137
+  orig: 192, 137
+  offset: 0, 0
+  index: -1
+Cape_Front
+  rotate: false
+  xy: 6, 24
+  size: 254, 139
+  orig: 254, 139
+  offset: 0, 0
+  index: -1
+Hand_Side
+  rotate: true
+  xy: 464, 92
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+Legs_Front
+  rotate: true
+  xy: 414, 303
+  size: 202, 50
+  orig: 202, 50
+  offset: 0, 0
+  index: -1
+Racket_2
+  rotate: false
+  xy: 6, 169
+  size: 127, 336
+  orig: 127, 336
+  offset: 0, 0
+  index: -1
+Scarf_Front
+  rotate: false
+  xy: 139, 183
+  size: 201, 70
+  orig: 201, 70
+  offset: 0, 0
+  index: -1
+Temp_Head_Front_Behind
+  rotate: true
+  xy: 346, 183
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+Temp_Head_Front_Whole
+  rotate: true
+  xy: 139, 259
+  size: 246, 269
+  orig: 246, 269
+  offset: 0, 0
+  index: -1
